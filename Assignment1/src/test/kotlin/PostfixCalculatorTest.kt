@@ -9,11 +9,18 @@
  * Copyright (C) 2022 David C. Harrison
  */
 import org.junit.jupiter.api.Test
+import java.lang.IllegalArgumentException
+import kotlin.test.assertEquals
+import kotlin.test.assertFailsWith
 import kotlin.test.fail
 
 class PostfixCalculatorTest {
   @Test
-  internal fun `write some real tests`() {
-    fail("Is said write some real tests!")
+  internal fun `integer addition`() {
+    assertEquals(4.0, PostfixCalculator().parse("1 3 +"))
+  }
+  @Test
+  internal fun `unknown operator`() {
+    assertFailsWith<IllegalArgumentException> {PostfixCalculator().parse("1 3 !")}
   }
 }
