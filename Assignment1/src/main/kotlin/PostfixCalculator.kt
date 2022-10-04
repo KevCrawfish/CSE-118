@@ -1,7 +1,9 @@
 import java.lang.IllegalArgumentException
+import kotlin.math.pow
 
 /*
- * UCSC CSE118 Mobile Applications
+ * UCSC CSE118 Mobile Applications - Kevin Crawford
+ * Made with assistance from: https://rosettacode.org/wiki/Parsing/RPN_calculator_algorithm#Kotlin
  *
  * Assignment 1 : Multi operator, multi operand postfix (Reverse Polish
  * Notation) calculator supporting addition, subtraction, multiplication,
@@ -28,10 +30,18 @@ class PostfixCalculator {
           if (stack.size < 2) {
             throw IllegalArgumentException("Stack too small")
           } else {
-            val operand1: Double = stack.removeAt(stack.lastIndex)
             val operand2: Double = stack.removeAt(stack.lastIndex)
-            when (operands[i]) {
-              "+" -> stack.add(operand1 + operand2)
+            val operand1: Double = stack.removeAt(stack.lastIndex)
+            if (operands[i] == "+") {
+              stack.add(operand1 + operand2)
+            } else if (operands[i] == "-") {
+              stack.add(operand1 - operand2)
+            } else if (operands[i] == "*") {
+              stack.add(operand1 * operand2)
+            } else if (operands[i] == "/") {
+              stack.add(operand1 / operand2)
+            } else {
+              stack.add(operand1.pow(operand2))
             }
           }
         } else {
