@@ -28,13 +28,13 @@
 </td>
 <td>
 <div class="infoBox" id="failures">
-<div class="counter">8</div>
+<div class="counter">0</div>
 <p>failures</p>
 </div>
 </td>
 <td>
 <div class="infoBox" id="duration">
-<div class="counter">3.802s</div>
+<div class="counter">5.057s</div>
 <p>duration</p>
 </div>
 </td>
@@ -43,8 +43,8 @@
 </div>
 </td>
 <td>
-<div class="infoBox failures" id="successRate">
-<div class="percent">11%</div>
+<div class="infoBox success" id="successRate">
+<div class="percent">100%</div>
 <p>successful</p>
 </div>
 </td>
@@ -54,510 +54,10 @@
 <div id="tabs">
 <ul class="tabLinks">
 <li>
-<a href="#tab0">Failed tests</a>
-</li>
-<li>
-<a href="#tab1">Tests</a>
+<a href="#tab0">Tests</a>
 </li>
 </ul>
 <div id="tab0" class="tab">
-<h2>Failed tests</h2>
-<div class="test">
-<a name="channel_count_one"></a>
-<h3 class="failures">channel_count_one</h3>
-<span class="code">
-<pre>com.adevinta.android.barista.internal.failurehandler.BaristaException: Could not perform action single click on view (an instance of android.widget.TextView and view.getText() with or without transformation to match: is &quot;LOGIN&quot; or (view.getParent() is assignable from class &lt;class com.google.android.material.textfield.TextInputLayout&gt; and (view is an instance of android.view.ViewGroup and has descendant matching an instance of android.widget.TextView and view.getText() with or without transformation to match: is &quot;LOGIN&quot;)))
-at com.adevinta.android.barista.internal.failurehandler.SpyFailureHandler.resendFirstError(SpyFailureHandler.kt:25)
-at com.adevinta.android.barista.internal.PerformActionKt.performActionOnView(PerformAction.kt:50)
-at com.adevinta.android.barista.internal.PerformActionKt.performAction(PerformAction.kt:26)
-at com.adevinta.android.barista.interaction.BaristaClickInteractions.clickOn(BaristaClickInteractions.kt:24)
-at edu.ucsc.cse118.assignment2.BasicInstrumentedTest.channel_count_one(BasicInstrumentedTest.kt:59)
-... 32 trimmed
-Caused by: androidx.test.espresso.NoMatchingViewException: No views in hierarchy found matching: ((view has effective visibility &lt;VISIBLE&gt; and view.getGlobalVisibleRect() to return non-empty rectangle) and (an instance of android.widget.TextView and view.getText() with or without transformation to match: is &quot;LOGIN&quot; or (view.getParent() is assignable from class &lt;class com.google.android.material.textfield.TextInputLayout&gt; and (view is an instance of android.view.ViewGroup and has descendant matching an instance of android.widget.TextView and view.getText() with or without transformation to match: is &quot;LOGIN&quot;))))
-
-View Hierarchy:
-+&gt;DecorView{id=-1, visibility=VISIBLE, width=1080, height=2340, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params={(0,0)(fillxfill) ty=BASE_APPLICATION wanim=0x10302fe
-fl=LAYOUT_IN_SCREEN LAYOUT_INSET_DECOR SPLIT_TOUCH HARDWARE_ACCELERATED DRAWS_SYSTEM_BAR_BACKGROUNDS
-pfl=NO_MOVE_ANIMATION FORCE_DRAW_STATUS_BAR_BACKGROUND FIT_INSETS_CONTROLLED
-bhv=DEFAULT
-fitSides=}, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
-|
-+-&gt;LinearLayout{id=-1, visibility=VISIBLE, width=1080, height=2296, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@2265615, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
-|
-+--&gt;ViewStub{id=16908723, res-name=action_mode_bar_stub, visibility=GONE, width=0, height=0, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=true, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@1cb3d2a, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
-|
-+--&gt;FrameLayout{id=-1, visibility=VISIBLE, width=1080, height=2230, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@b9770b8, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=66.0, child-count=1}
-|
-+---&gt;ActionBarOverlayLayout{id=2131230863, res-name=decor_content_parent, visibility=VISIBLE, width=1080, height=2230, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@9b5f9f7, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
-|
-+----&gt;ContentFrameLayout{id=16908290, res-name=content, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.ActionBarOverlayLayout$LayoutParams@42c32cd, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=154.0, child-count=1}
-|
-+-----&gt;ConstraintLayout{id=-1, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@5da4782, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=0}
-|
-+----&gt;ActionBarContainer{id=2131230773, res-name=action_bar_container, visibility=VISIBLE, width=1080, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.ActionBarOverlayLayout$LayoutParams@1562ec9, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
-|
-+-----&gt;Toolbar{id=2131230771, res-name=action_bar, visibility=VISIBLE, width=1080, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@b73d7fc, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
-|
-+------&gt;AppCompatTextView{id=-1, visibility=VISIBLE, width=560, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.Toolbar$LayoutParams@509ee85, tag=null, root-is-layout-requested=false, has-input-connection=false, x=44.0, y=40.0, text=CSE118 Assignment 2, input-type=0, ime-target=false, has-links=false}
-|
-+------&gt;ActionMenuView{id=-1, visibility=VISIBLE, width=0, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.Toolbar$LayoutParams@bc544da, tag=null, root-is-layout-requested=false, has-input-connection=false, x=1080.0, y=0.0, child-count=0}
-|
-+-----&gt;ActionBarContextView{id=2131230779, res-name=action_context_bar, visibility=GONE, width=0, height=0, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=true, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@894ed0b, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=0}
-|
-+-&gt;View{id=16908336, res-name=navigationBarBackground, visibility=VISIBLE, width=1080, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@92477e8, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=2296.0}
-|
-+-&gt;View{id=16908335, res-name=statusBarBackground, visibility=VISIBLE, width=1080, height=66, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@67fee01, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
-at androidx.test.espresso.NoMatchingViewException$Builder.build(NoMatchingViewException.java:5)
-at androidx.test.espresso.base.ViewFinderImpl.getView(ViewFinderImpl.java:26)
-at androidx.test.espresso.ViewInteraction.doPerform(ViewInteraction.java:4)
-at androidx.test.espresso.ViewInteraction.access$100(ViewInteraction.java:1)
-at androidx.test.espresso.ViewInteraction$1.call(ViewInteraction.java:2)
-at androidx.test.espresso.ViewInteraction$1.call(ViewInteraction.java:1)
-at java.util.concurrent.FutureTask.run(FutureTask.java:266)
-at android.os.Handler.handleCallback(Handler.java:938)
-at android.os.Handler.dispatchMessage(Handler.java:99)
-at android.os.Looper.loopOnce(Looper.java:201)
-at android.os.Looper.loop(Looper.java:288)
-at android.app.ActivityThread.main(ActivityThread.java:7842)
-at java.lang.reflect.Method.invoke(Native Method)
-at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:548)
-at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1003)</pre>
-</span>
-</div>
-<div class="test">
-<a name="channel_count_three"></a>
-<h3 class="failures">channel_count_three</h3>
-<span class="code">
-<pre>com.adevinta.android.barista.internal.failurehandler.BaristaException: Could not perform action single click on view (an instance of android.widget.TextView and view.getText() with or without transformation to match: is &quot;LOGIN&quot; or (view.getParent() is assignable from class &lt;class com.google.android.material.textfield.TextInputLayout&gt; and (view is an instance of android.view.ViewGroup and has descendant matching an instance of android.widget.TextView and view.getText() with or without transformation to match: is &quot;LOGIN&quot;)))
-at com.adevinta.android.barista.internal.failurehandler.SpyFailureHandler.resendFirstError(SpyFailureHandler.kt:25)
-at com.adevinta.android.barista.internal.PerformActionKt.performActionOnView(PerformAction.kt:50)
-at com.adevinta.android.barista.internal.PerformActionKt.performAction(PerformAction.kt:26)
-at com.adevinta.android.barista.interaction.BaristaClickInteractions.clickOn(BaristaClickInteractions.kt:24)
-at edu.ucsc.cse118.assignment2.BasicInstrumentedTest.channel_count_three(BasicInstrumentedTest.kt:71)
-... 32 trimmed
-Caused by: androidx.test.espresso.NoMatchingViewException: No views in hierarchy found matching: ((view has effective visibility &lt;VISIBLE&gt; and view.getGlobalVisibleRect() to return non-empty rectangle) and (an instance of android.widget.TextView and view.getText() with or without transformation to match: is &quot;LOGIN&quot; or (view.getParent() is assignable from class &lt;class com.google.android.material.textfield.TextInputLayout&gt; and (view is an instance of android.view.ViewGroup and has descendant matching an instance of android.widget.TextView and view.getText() with or without transformation to match: is &quot;LOGIN&quot;))))
-
-View Hierarchy:
-+&gt;DecorView{id=-1, visibility=VISIBLE, width=1080, height=2340, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params={(0,0)(fillxfill) ty=BASE_APPLICATION wanim=0x10302fe
-fl=LAYOUT_IN_SCREEN LAYOUT_INSET_DECOR SPLIT_TOUCH HARDWARE_ACCELERATED DRAWS_SYSTEM_BAR_BACKGROUNDS
-pfl=NO_MOVE_ANIMATION FORCE_DRAW_STATUS_BAR_BACKGROUND FIT_INSETS_CONTROLLED
-bhv=DEFAULT
-fitSides=}, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
-|
-+-&gt;LinearLayout{id=-1, visibility=VISIBLE, width=1080, height=2296, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@fb37e61, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
-|
-+--&gt;ViewStub{id=16908723, res-name=action_mode_bar_stub, visibility=GONE, width=0, height=0, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=true, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@ff48d86, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
-|
-+--&gt;FrameLayout{id=-1, visibility=VISIBLE, width=1080, height=2230, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@718be74, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=66.0, child-count=1}
-|
-+---&gt;ActionBarOverlayLayout{id=2131230863, res-name=decor_content_parent, visibility=VISIBLE, width=1080, height=2230, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@603ffe3, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
-|
-+----&gt;ContentFrameLayout{id=16908290, res-name=content, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.ActionBarOverlayLayout$LayoutParams@7149899, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=154.0, child-count=1}
-|
-+-----&gt;ConstraintLayout{id=-1, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@999c75e, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=0}
-|
-+----&gt;ActionBarContainer{id=2131230773, res-name=action_bar_container, visibility=VISIBLE, width=1080, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.ActionBarOverlayLayout$LayoutParams@80d2555, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
-|
-+-----&gt;Toolbar{id=2131230771, res-name=action_bar, visibility=VISIBLE, width=1080, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@a3af8f8, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
-|
-+------&gt;AppCompatTextView{id=-1, visibility=VISIBLE, width=560, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.Toolbar$LayoutParams@ac7c1d1, tag=null, root-is-layout-requested=false, has-input-connection=false, x=44.0, y=40.0, text=CSE118 Assignment 2, input-type=0, ime-target=false, has-links=false}
-|
-+------&gt;ActionMenuView{id=-1, visibility=VISIBLE, width=0, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.Toolbar$LayoutParams@cc16436, tag=null, root-is-layout-requested=false, has-input-connection=false, x=1080.0, y=0.0, child-count=0}
-|
-+-----&gt;ActionBarContextView{id=2131230779, res-name=action_context_bar, visibility=GONE, width=0, height=0, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=true, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@2a44f37, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=0}
-|
-+-&gt;View{id=16908336, res-name=navigationBarBackground, visibility=VISIBLE, width=1080, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@ba2aca4, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=2296.0}
-|
-+-&gt;View{id=16908335, res-name=statusBarBackground, visibility=VISIBLE, width=1080, height=66, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@fb5aa0d, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
-at androidx.test.espresso.NoMatchingViewException$Builder.build(NoMatchingViewException.java:5)
-at androidx.test.espresso.base.ViewFinderImpl.getView(ViewFinderImpl.java:26)
-at androidx.test.espresso.ViewInteraction.doPerform(ViewInteraction.java:4)
-at androidx.test.espresso.ViewInteraction.access$100(ViewInteraction.java:1)
-at androidx.test.espresso.ViewInteraction$1.call(ViewInteraction.java:2)
-at androidx.test.espresso.ViewInteraction$1.call(ViewInteraction.java:1)
-at java.util.concurrent.FutureTask.run(FutureTask.java:266)
-at android.os.Handler.handleCallback(Handler.java:938)
-at android.os.Handler.dispatchMessage(Handler.java:99)
-at android.os.Looper.loopOnce(Looper.java:201)
-at android.os.Looper.loop(Looper.java:288)
-at android.app.ActivityThread.main(ActivityThread.java:7842)
-at java.lang.reflect.Method.invoke(Native Method)
-at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:548)
-at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1003)</pre>
-</span>
-</div>
-<div class="test">
-<a name="channel_count_two"></a>
-<h3 class="failures">channel_count_two</h3>
-<span class="code">
-<pre>com.adevinta.android.barista.internal.failurehandler.BaristaException: Could not perform action single click on view (an instance of android.widget.TextView and view.getText() with or without transformation to match: is &quot;LOGIN&quot; or (view.getParent() is assignable from class &lt;class com.google.android.material.textfield.TextInputLayout&gt; and (view is an instance of android.view.ViewGroup and has descendant matching an instance of android.widget.TextView and view.getText() with or without transformation to match: is &quot;LOGIN&quot;)))
-at com.adevinta.android.barista.internal.failurehandler.SpyFailureHandler.resendFirstError(SpyFailureHandler.kt:25)
-at com.adevinta.android.barista.internal.PerformActionKt.performActionOnView(PerformAction.kt:50)
-at com.adevinta.android.barista.internal.PerformActionKt.performAction(PerformAction.kt:26)
-at com.adevinta.android.barista.interaction.BaristaClickInteractions.clickOn(BaristaClickInteractions.kt:24)
-at edu.ucsc.cse118.assignment2.BasicInstrumentedTest.channel_count_two(BasicInstrumentedTest.kt:65)
-... 32 trimmed
-Caused by: androidx.test.espresso.NoMatchingViewException: No views in hierarchy found matching: ((view has effective visibility &lt;VISIBLE&gt; and view.getGlobalVisibleRect() to return non-empty rectangle) and (an instance of android.widget.TextView and view.getText() with or without transformation to match: is &quot;LOGIN&quot; or (view.getParent() is assignable from class &lt;class com.google.android.material.textfield.TextInputLayout&gt; and (view is an instance of android.view.ViewGroup and has descendant matching an instance of android.widget.TextView and view.getText() with or without transformation to match: is &quot;LOGIN&quot;))))
-
-View Hierarchy:
-+&gt;DecorView{id=-1, visibility=VISIBLE, width=1080, height=2340, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params={(0,0)(fillxfill) ty=BASE_APPLICATION wanim=0x10302fe
-fl=LAYOUT_IN_SCREEN LAYOUT_INSET_DECOR SPLIT_TOUCH HARDWARE_ACCELERATED DRAWS_SYSTEM_BAR_BACKGROUNDS
-pfl=NO_MOVE_ANIMATION FORCE_DRAW_STATUS_BAR_BACKGROUND FIT_INSETS_CONTROLLED
-bhv=DEFAULT
-fitSides=}, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
-|
-+-&gt;LinearLayout{id=-1, visibility=VISIBLE, width=1080, height=2296, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@c37f48d, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
-|
-+--&gt;ViewStub{id=16908723, res-name=action_mode_bar_stub, visibility=GONE, width=0, height=0, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=true, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@2644642, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
-|
-+--&gt;FrameLayout{id=-1, visibility=VISIBLE, width=1080, height=2230, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@b049b90, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=66.0, child-count=1}
-|
-+---&gt;ActionBarOverlayLayout{id=2131230863, res-name=decor_content_parent, visibility=VISIBLE, width=1080, height=2230, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@8d3e4af, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
-|
-+----&gt;ContentFrameLayout{id=16908290, res-name=content, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.ActionBarOverlayLayout$LayoutParams@f142845, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=154.0, child-count=1}
-|
-+-----&gt;ConstraintLayout{id=-1, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@a385b9a, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=0}
-|
-+----&gt;ActionBarContainer{id=2131230773, res-name=action_bar_container, visibility=VISIBLE, width=1080, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.ActionBarOverlayLayout$LayoutParams@e5403c1, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
-|
-+-----&gt;Toolbar{id=2131230771, res-name=action_bar, visibility=VISIBLE, width=1080, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@698b54, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
-|
-+------&gt;AppCompatTextView{id=-1, visibility=VISIBLE, width=560, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.Toolbar$LayoutParams@c5c1afd, tag=null, root-is-layout-requested=false, has-input-connection=false, x=44.0, y=40.0, text=CSE118 Assignment 2, input-type=0, ime-target=false, has-links=false}
-|
-+------&gt;ActionMenuView{id=-1, visibility=VISIBLE, width=0, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.Toolbar$LayoutParams@1ec3f2, tag=null, root-is-layout-requested=false, has-input-connection=false, x=1080.0, y=0.0, child-count=0}
-|
-+-----&gt;ActionBarContextView{id=2131230779, res-name=action_context_bar, visibility=GONE, width=0, height=0, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=true, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@bf95a43, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=0}
-|
-+-&gt;View{id=16908336, res-name=navigationBarBackground, visibility=VISIBLE, width=1080, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@57e08c0, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=2296.0}
-|
-+-&gt;View{id=16908335, res-name=statusBarBackground, visibility=VISIBLE, width=1080, height=66, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@1d469f9, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
-at androidx.test.espresso.NoMatchingViewException$Builder.build(NoMatchingViewException.java:5)
-at androidx.test.espresso.base.ViewFinderImpl.getView(ViewFinderImpl.java:26)
-at androidx.test.espresso.ViewInteraction.doPerform(ViewInteraction.java:4)
-at androidx.test.espresso.ViewInteraction.access$100(ViewInteraction.java:1)
-at androidx.test.espresso.ViewInteraction$1.call(ViewInteraction.java:2)
-at androidx.test.espresso.ViewInteraction$1.call(ViewInteraction.java:1)
-at java.util.concurrent.FutureTask.run(FutureTask.java:266)
-at android.os.Handler.handleCallback(Handler.java:938)
-at android.os.Handler.dispatchMessage(Handler.java:99)
-at android.os.Looper.loopOnce(Looper.java:201)
-at android.os.Looper.loop(Looper.java:288)
-at android.app.ActivityThread.main(ActivityThread.java:7842)
-at java.lang.reflect.Method.invoke(Native Method)
-at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:548)
-at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1003)</pre>
-</span>
-</div>
-<div class="test">
-<a name="initial_login"></a>
-<h3 class="failures">initial_login</h3>
-<span class="code">
-<pre>com.adevinta.android.barista.internal.failurehandler.BaristaException: No view matching ((an instance of android.widget.TextView and view.getText() with or without transformation to match: is &quot;Login&quot; or (view.getParent() is assignable from class &lt;class com.google.android.material.textfield.TextInputLayout&gt; and (view is an instance of android.view.ViewGroup and has descendant matching an instance of android.widget.TextView and view.getText() with or without transformation to match: is &quot;Login&quot;)))) was found
-at com.adevinta.android.barista.internal.failurehandler.SpyFailureHandler.resendFirstError(SpyFailureHandler.kt:25)
-at com.adevinta.android.barista.internal.AssertAnyKt.assertAnyView(AssertAny.kt:40)
-at com.adevinta.android.barista.internal.AssertAnyKt.assertAny(AssertAny.kt:18)
-at com.adevinta.android.barista.assertion.BaristaVisibilityAssertions.assertDisplayed(BaristaVisibilityAssertions.kt:38)
-at edu.ucsc.cse118.assignment2.BasicInstrumentedTest.initial_login(BasicInstrumentedTest.kt:31)
-... 32 trimmed
-Caused by: androidx.test.espresso.NoMatchingViewException: No views in hierarchy found matching: (an instance of android.widget.TextView and view.getText() with or without transformation to match: is &quot;Login&quot; or (view.getParent() is assignable from class &lt;class com.google.android.material.textfield.TextInputLayout&gt; and (view is an instance of android.view.ViewGroup and has descendant matching an instance of android.widget.TextView and view.getText() with or without transformation to match: is &quot;Login&quot;)))
-
-View Hierarchy:
-+&gt;DecorView{id=-1, visibility=VISIBLE, width=1080, height=2340, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params={(0,0)(fillxfill) ty=BASE_APPLICATION wanim=0x10302fe
-fl=LAYOUT_IN_SCREEN LAYOUT_INSET_DECOR SPLIT_TOUCH HARDWARE_ACCELERATED DRAWS_SYSTEM_BAR_BACKGROUNDS
-pfl=NO_MOVE_ANIMATION FORCE_DRAW_STATUS_BAR_BACKGROUND FIT_INSETS_CONTROLLED
-bhv=DEFAULT
-fitSides=}, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
-|
-+-&gt;LinearLayout{id=-1, visibility=VISIBLE, width=1080, height=2296, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@3ec4d51, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
-|
-+--&gt;ViewStub{id=16908723, res-name=action_mode_bar_stub, visibility=GONE, width=0, height=0, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=true, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@8d1c9b6, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
-|
-+--&gt;FrameLayout{id=-1, visibility=VISIBLE, width=1080, height=2230, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@66b4e24, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=66.0, child-count=1}
-|
-+---&gt;ActionBarOverlayLayout{id=2131230863, res-name=decor_content_parent, visibility=VISIBLE, width=1080, height=2230, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@5d8d753, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
-|
-+----&gt;ContentFrameLayout{id=16908290, res-name=content, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.ActionBarOverlayLayout$LayoutParams@3da5589, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=154.0, child-count=1}
-|
-+-----&gt;ConstraintLayout{id=-1, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@afc598e, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=0}
-|
-+----&gt;ActionBarContainer{id=2131230773, res-name=action_bar_container, visibility=VISIBLE, width=1080, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.ActionBarOverlayLayout$LayoutParams@789c145, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
-|
-+-----&gt;Toolbar{id=2131230771, res-name=action_bar, visibility=VISIBLE, width=1080, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@40979a8, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
-|
-+------&gt;AppCompatTextView{id=-1, visibility=VISIBLE, width=560, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.Toolbar$LayoutParams@b0a2cc1, tag=null, root-is-layout-requested=false, has-input-connection=false, x=44.0, y=40.0, text=CSE118 Assignment 2, input-type=0, ime-target=false, has-links=false}
-|
-+------&gt;ActionMenuView{id=-1, visibility=VISIBLE, width=0, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.Toolbar$LayoutParams@b3e0c66, tag=null, root-is-layout-requested=false, has-input-connection=false, x=1080.0, y=0.0, child-count=0}
-|
-+-----&gt;ActionBarContextView{id=2131230779, res-name=action_context_bar, visibility=GONE, width=0, height=0, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=true, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@e168ba7, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=0}
-|
-+-&gt;View{id=16908336, res-name=navigationBarBackground, visibility=VISIBLE, width=1080, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@8508854, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=2296.0}
-|
-+-&gt;View{id=16908335, res-name=statusBarBackground, visibility=VISIBLE, width=1080, height=66, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@8cbd3fd, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
-at androidx.test.espresso.NoMatchingViewException$Builder.build(NoMatchingViewException.java:5)
-at androidx.test.espresso.base.ViewFinderImpl.getView(ViewFinderImpl.java:26)
-at androidx.test.espresso.ViewInteraction$2.call(ViewInteraction.java:5)
-at androidx.test.espresso.ViewInteraction$2.call(ViewInteraction.java:1)
-at java.util.concurrent.FutureTask.run(FutureTask.java:266)
-at android.os.Handler.handleCallback(Handler.java:938)
-at android.os.Handler.dispatchMessage(Handler.java:99)
-at android.os.Looper.loopOnce(Looper.java:201)
-at android.os.Looper.loop(Looper.java:288)
-at android.app.ActivityThread.main(ActivityThread.java:7842)
-at java.lang.reflect.Method.invoke(Native Method)
-at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:548)
-at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1003)</pre>
-</span>
-</div>
-<div class="test">
-<a name="initial_login_clickable"></a>
-<h3 class="failures">initial_login_clickable</h3>
-<span class="code">
-<pre>com.adevinta.android.barista.internal.failurehandler.BaristaException: Could not perform action single click on view (an instance of android.widget.TextView and view.getText() with or without transformation to match: is &quot;LOGIN&quot; or (view.getParent() is assignable from class &lt;class com.google.android.material.textfield.TextInputLayout&gt; and (view is an instance of android.view.ViewGroup and has descendant matching an instance of android.widget.TextView and view.getText() with or without transformation to match: is &quot;LOGIN&quot;)))
-at com.adevinta.android.barista.internal.failurehandler.SpyFailureHandler.resendFirstError(SpyFailureHandler.kt:25)
-at com.adevinta.android.barista.internal.PerformActionKt.performActionOnView(PerformAction.kt:50)
-at com.adevinta.android.barista.internal.PerformActionKt.performAction(PerformAction.kt:26)
-at com.adevinta.android.barista.interaction.BaristaClickInteractions.clickOn(BaristaClickInteractions.kt:24)
-at edu.ucsc.cse118.assignment2.BasicInstrumentedTest.initial_login_clickable(BasicInstrumentedTest.kt:36)
-... 32 trimmed
-Caused by: androidx.test.espresso.NoMatchingViewException: No views in hierarchy found matching: ((view has effective visibility &lt;VISIBLE&gt; and view.getGlobalVisibleRect() to return non-empty rectangle) and (an instance of android.widget.TextView and view.getText() with or without transformation to match: is &quot;LOGIN&quot; or (view.getParent() is assignable from class &lt;class com.google.android.material.textfield.TextInputLayout&gt; and (view is an instance of android.view.ViewGroup and has descendant matching an instance of android.widget.TextView and view.getText() with or without transformation to match: is &quot;LOGIN&quot;))))
-
-View Hierarchy:
-+&gt;DecorView{id=-1, visibility=VISIBLE, width=1080, height=2340, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params={(0,0)(fillxfill) ty=BASE_APPLICATION wanim=0x10302fe
-fl=LAYOUT_IN_SCREEN LAYOUT_INSET_DECOR SPLIT_TOUCH HARDWARE_ACCELERATED DRAWS_SYSTEM_BAR_BACKGROUNDS
-pfl=NO_MOVE_ANIMATION FORCE_DRAW_STATUS_BAR_BACKGROUND FIT_INSETS_CONTROLLED
-bhv=DEFAULT
-fitSides=}, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
-|
-+-&gt;LinearLayout{id=-1, visibility=VISIBLE, width=1080, height=2296, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@4ab669d, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
-|
-+--&gt;ViewStub{id=16908723, res-name=action_mode_bar_stub, visibility=GONE, width=0, height=0, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=true, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@acb712, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
-|
-+--&gt;FrameLayout{id=-1, visibility=VISIBLE, width=1080, height=2230, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@e3800e0, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=66.0, child-count=1}
-|
-+---&gt;ActionBarOverlayLayout{id=2131230863, res-name=decor_content_parent, visibility=VISIBLE, width=1080, height=2230, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@2a1463f, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
-|
-+----&gt;ContentFrameLayout{id=16908290, res-name=content, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.ActionBarOverlayLayout$LayoutParams@e21cc55, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=154.0, child-count=1}
-|
-+-----&gt;ConstraintLayout{id=-1, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@f64166a, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=0}
-|
-+----&gt;ActionBarContainer{id=2131230773, res-name=action_bar_container, visibility=VISIBLE, width=1080, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.ActionBarOverlayLayout$LayoutParams@affd8d1, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
-|
-+-----&gt;Toolbar{id=2131230771, res-name=action_bar, visibility=VISIBLE, width=1080, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@f2eefa4, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
-|
-+------&gt;AppCompatTextView{id=-1, visibility=VISIBLE, width=560, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.Toolbar$LayoutParams@d8310d, tag=null, root-is-layout-requested=false, has-input-connection=false, x=44.0, y=40.0, text=CSE118 Assignment 2, input-type=0, ime-target=false, has-links=false}
-|
-+------&gt;ActionMenuView{id=-1, visibility=VISIBLE, width=0, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.Toolbar$LayoutParams@80d08c2, tag=null, root-is-layout-requested=false, has-input-connection=false, x=1080.0, y=0.0, child-count=0}
-|
-+-----&gt;ActionBarContextView{id=2131230779, res-name=action_context_bar, visibility=GONE, width=0, height=0, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=true, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@e4406d3, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=0}
-|
-+-&gt;View{id=16908336, res-name=navigationBarBackground, visibility=VISIBLE, width=1080, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@73d6210, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=2296.0}
-|
-+-&gt;View{id=16908335, res-name=statusBarBackground, visibility=VISIBLE, width=1080, height=66, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@163d109, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
-at androidx.test.espresso.NoMatchingViewException$Builder.build(NoMatchingViewException.java:5)
-at androidx.test.espresso.base.ViewFinderImpl.getView(ViewFinderImpl.java:26)
-at androidx.test.espresso.ViewInteraction.doPerform(ViewInteraction.java:4)
-at androidx.test.espresso.ViewInteraction.access$100(ViewInteraction.java:1)
-at androidx.test.espresso.ViewInteraction$1.call(ViewInteraction.java:2)
-at androidx.test.espresso.ViewInteraction$1.call(ViewInteraction.java:1)
-at java.util.concurrent.FutureTask.run(FutureTask.java:266)
-at android.os.Handler.handleCallback(Handler.java:938)
-at android.os.Handler.dispatchMessage(Handler.java:99)
-at android.os.Looper.loopOnce(Looper.java:201)
-at android.os.Looper.loop(Looper.java:288)
-at android.app.ActivityThread.main(ActivityThread.java:7842)
-at java.lang.reflect.Method.invoke(Native Method)
-at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:548)
-at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1003)</pre>
-</span>
-</div>
-<div class="test">
-<a name="workspace_one"></a>
-<h3 class="failures">workspace_one</h3>
-<span class="code">
-<pre>com.adevinta.android.barista.internal.failurehandler.BaristaException: Could not perform action single click on view (an instance of android.widget.TextView and view.getText() with or without transformation to match: is &quot;LOGIN&quot; or (view.getParent() is assignable from class &lt;class com.google.android.material.textfield.TextInputLayout&gt; and (view is an instance of android.view.ViewGroup and has descendant matching an instance of android.widget.TextView and view.getText() with or without transformation to match: is &quot;LOGIN&quot;)))
-at com.adevinta.android.barista.internal.failurehandler.SpyFailureHandler.resendFirstError(SpyFailureHandler.kt:25)
-at com.adevinta.android.barista.internal.PerformActionKt.performActionOnView(PerformAction.kt:50)
-at com.adevinta.android.barista.internal.PerformActionKt.performAction(PerformAction.kt:26)
-at com.adevinta.android.barista.interaction.BaristaClickInteractions.clickOn(BaristaClickInteractions.kt:24)
-at edu.ucsc.cse118.assignment2.BasicInstrumentedTest.workspace_one(BasicInstrumentedTest.kt:41)
-... 32 trimmed
-Caused by: androidx.test.espresso.NoMatchingViewException: No views in hierarchy found matching: ((view has effective visibility &lt;VISIBLE&gt; and view.getGlobalVisibleRect() to return non-empty rectangle) and (an instance of android.widget.TextView and view.getText() with or without transformation to match: is &quot;LOGIN&quot; or (view.getParent() is assignable from class &lt;class com.google.android.material.textfield.TextInputLayout&gt; and (view is an instance of android.view.ViewGroup and has descendant matching an instance of android.widget.TextView and view.getText() with or without transformation to match: is &quot;LOGIN&quot;))))
-
-View Hierarchy:
-+&gt;DecorView{id=-1, visibility=VISIBLE, width=1080, height=2340, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params={(0,0)(fillxfill) ty=BASE_APPLICATION wanim=0x10302fe
-fl=LAYOUT_IN_SCREEN LAYOUT_INSET_DECOR SPLIT_TOUCH HARDWARE_ACCELERATED DRAWS_SYSTEM_BAR_BACKGROUNDS
-pfl=NO_MOVE_ANIMATION FORCE_DRAW_STATUS_BAR_BACKGROUND FIT_INSETS_CONTROLLED
-bhv=DEFAULT
-fitSides=}, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
-|
-+-&gt;LinearLayout{id=-1, visibility=VISIBLE, width=1080, height=2296, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@ace2205, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
-|
-+--&gt;ViewStub{id=16908723, res-name=action_mode_bar_stub, visibility=GONE, width=0, height=0, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=true, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@d00325a, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
-|
-+--&gt;FrameLayout{id=-1, visibility=VISIBLE, width=1080, height=2230, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@82ee168, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=66.0, child-count=1}
-|
-+---&gt;ActionBarOverlayLayout{id=2131230863, res-name=decor_content_parent, visibility=VISIBLE, width=1080, height=2230, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@d79e667, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
-|
-+----&gt;ContentFrameLayout{id=16908290, res-name=content, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.ActionBarOverlayLayout$LayoutParams@aa38cbd, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=154.0, child-count=1}
-|
-+-----&gt;ConstraintLayout{id=-1, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@3b2b2b2, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=0}
-|
-+----&gt;ActionBarContainer{id=2131230773, res-name=action_bar_container, visibility=VISIBLE, width=1080, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.ActionBarOverlayLayout$LayoutParams@8137b9, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
-|
-+-----&gt;Toolbar{id=2131230771, res-name=action_bar, visibility=VISIBLE, width=1080, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@ca169ac, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
-|
-+------&gt;AppCompatTextView{id=-1, visibility=VISIBLE, width=560, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.Toolbar$LayoutParams@5f49675, tag=null, root-is-layout-requested=false, has-input-connection=false, x=44.0, y=40.0, text=CSE118 Assignment 2, input-type=0, ime-target=false, has-links=false}
-|
-+------&gt;ActionMenuView{id=-1, visibility=VISIBLE, width=0, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.Toolbar$LayoutParams@279e60a, tag=null, root-is-layout-requested=false, has-input-connection=false, x=1080.0, y=0.0, child-count=0}
-|
-+-----&gt;ActionBarContextView{id=2131230779, res-name=action_context_bar, visibility=GONE, width=0, height=0, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=true, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@7ba2e7b, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=0}
-|
-+-&gt;View{id=16908336, res-name=navigationBarBackground, visibility=VISIBLE, width=1080, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@2917498, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=2296.0}
-|
-+-&gt;View{id=16908335, res-name=statusBarBackground, visibility=VISIBLE, width=1080, height=66, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@f0524f1, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
-at androidx.test.espresso.NoMatchingViewException$Builder.build(NoMatchingViewException.java:5)
-at androidx.test.espresso.base.ViewFinderImpl.getView(ViewFinderImpl.java:26)
-at androidx.test.espresso.ViewInteraction.doPerform(ViewInteraction.java:4)
-at androidx.test.espresso.ViewInteraction.access$100(ViewInteraction.java:1)
-at androidx.test.espresso.ViewInteraction$1.call(ViewInteraction.java:2)
-at androidx.test.espresso.ViewInteraction$1.call(ViewInteraction.java:1)
-at java.util.concurrent.FutureTask.run(FutureTask.java:266)
-at android.os.Handler.handleCallback(Handler.java:938)
-at android.os.Handler.dispatchMessage(Handler.java:99)
-at android.os.Looper.loopOnce(Looper.java:201)
-at android.os.Looper.loop(Looper.java:288)
-at android.app.ActivityThread.main(ActivityThread.java:7842)
-at java.lang.reflect.Method.invoke(Native Method)
-at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:548)
-at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1003)</pre>
-</span>
-</div>
-<div class="test">
-<a name="workspace_three"></a>
-<h3 class="failures">workspace_three</h3>
-<span class="code">
-<pre>com.adevinta.android.barista.internal.failurehandler.BaristaException: Could not perform action single click on view (an instance of android.widget.TextView and view.getText() with or without transformation to match: is &quot;LOGIN&quot; or (view.getParent() is assignable from class &lt;class com.google.android.material.textfield.TextInputLayout&gt; and (view is an instance of android.view.ViewGroup and has descendant matching an instance of android.widget.TextView and view.getText() with or without transformation to match: is &quot;LOGIN&quot;)))
-at com.adevinta.android.barista.internal.failurehandler.SpyFailureHandler.resendFirstError(SpyFailureHandler.kt:25)
-at com.adevinta.android.barista.internal.PerformActionKt.performActionOnView(PerformAction.kt:50)
-at com.adevinta.android.barista.internal.PerformActionKt.performAction(PerformAction.kt:26)
-at com.adevinta.android.barista.interaction.BaristaClickInteractions.clickOn(BaristaClickInteractions.kt:24)
-at edu.ucsc.cse118.assignment2.BasicInstrumentedTest.workspace_three(BasicInstrumentedTest.kt:53)
-... 32 trimmed
-Caused by: androidx.test.espresso.NoMatchingViewException: No views in hierarchy found matching: ((view has effective visibility &lt;VISIBLE&gt; and view.getGlobalVisibleRect() to return non-empty rectangle) and (an instance of android.widget.TextView and view.getText() with or without transformation to match: is &quot;LOGIN&quot; or (view.getParent() is assignable from class &lt;class com.google.android.material.textfield.TextInputLayout&gt; and (view is an instance of android.view.ViewGroup and has descendant matching an instance of android.widget.TextView and view.getText() with or without transformation to match: is &quot;LOGIN&quot;))))
-
-View Hierarchy:
-+&gt;DecorView{id=-1, visibility=VISIBLE, width=1080, height=2340, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params={(0,0)(fillxfill) ty=BASE_APPLICATION wanim=0x10302fe
-fl=LAYOUT_IN_SCREEN LAYOUT_INSET_DECOR SPLIT_TOUCH HARDWARE_ACCELERATED DRAWS_SYSTEM_BAR_BACKGROUNDS
-pfl=NO_MOVE_ANIMATION FORCE_DRAW_STATUS_BAR_BACKGROUND FIT_INSETS_CONTROLLED
-bhv=DEFAULT
-fitSides=}, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
-|
-+-&gt;LinearLayout{id=-1, visibility=VISIBLE, width=1080, height=2296, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@8e10659, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
-|
-+--&gt;ViewStub{id=16908723, res-name=action_mode_bar_stub, visibility=GONE, width=0, height=0, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=true, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@995021e, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
-|
-+--&gt;FrameLayout{id=-1, visibility=VISIBLE, width=1080, height=2230, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@83c00cc, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=66.0, child-count=1}
-|
-+---&gt;ActionBarOverlayLayout{id=2131230863, res-name=decor_content_parent, visibility=VISIBLE, width=1080, height=2230, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@da2881b, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
-|
-+----&gt;ContentFrameLayout{id=16908290, res-name=content, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.ActionBarOverlayLayout$LayoutParams@87c2791, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=154.0, child-count=1}
-|
-+-----&gt;ConstraintLayout{id=-1, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@c1136f6, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=0}
-|
-+----&gt;ActionBarContainer{id=2131230773, res-name=action_bar_container, visibility=VISIBLE, width=1080, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.ActionBarOverlayLayout$LayoutParams@9aaabcd, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
-|
-+-----&gt;Toolbar{id=2131230771, res-name=action_bar, visibility=VISIBLE, width=1080, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@5f32bd0, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
-|
-+------&gt;AppCompatTextView{id=-1, visibility=VISIBLE, width=560, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.Toolbar$LayoutParams@2c337c9, tag=null, root-is-layout-requested=false, has-input-connection=false, x=44.0, y=40.0, text=CSE118 Assignment 2, input-type=0, ime-target=false, has-links=false}
-|
-+------&gt;ActionMenuView{id=-1, visibility=VISIBLE, width=0, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.Toolbar$LayoutParams@6942ece, tag=null, root-is-layout-requested=false, has-input-connection=false, x=1080.0, y=0.0, child-count=0}
-|
-+-----&gt;ActionBarContextView{id=2131230779, res-name=action_context_bar, visibility=GONE, width=0, height=0, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=true, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@4aee1ef, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=0}
-|
-+-&gt;View{id=16908336, res-name=navigationBarBackground, visibility=VISIBLE, width=1080, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@52734fc, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=2296.0}
-|
-+-&gt;View{id=16908335, res-name=statusBarBackground, visibility=VISIBLE, width=1080, height=66, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@abe8785, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
-at androidx.test.espresso.NoMatchingViewException$Builder.build(NoMatchingViewException.java:5)
-at androidx.test.espresso.base.ViewFinderImpl.getView(ViewFinderImpl.java:26)
-at androidx.test.espresso.ViewInteraction.doPerform(ViewInteraction.java:4)
-at androidx.test.espresso.ViewInteraction.access$100(ViewInteraction.java:1)
-at androidx.test.espresso.ViewInteraction$1.call(ViewInteraction.java:2)
-at androidx.test.espresso.ViewInteraction$1.call(ViewInteraction.java:1)
-at java.util.concurrent.FutureTask.run(FutureTask.java:266)
-at android.os.Handler.handleCallback(Handler.java:938)
-at android.os.Handler.dispatchMessage(Handler.java:99)
-at android.os.Looper.loopOnce(Looper.java:201)
-at android.os.Looper.loop(Looper.java:288)
-at android.app.ActivityThread.main(ActivityThread.java:7842)
-at java.lang.reflect.Method.invoke(Native Method)
-at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:548)
-at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1003)</pre>
-</span>
-</div>
-<div class="test">
-<a name="workspace_two"></a>
-<h3 class="failures">workspace_two</h3>
-<span class="code">
-<pre>com.adevinta.android.barista.internal.failurehandler.BaristaException: Could not perform action single click on view (an instance of android.widget.TextView and view.getText() with or without transformation to match: is &quot;LOGIN&quot; or (view.getParent() is assignable from class &lt;class com.google.android.material.textfield.TextInputLayout&gt; and (view is an instance of android.view.ViewGroup and has descendant matching an instance of android.widget.TextView and view.getText() with or without transformation to match: is &quot;LOGIN&quot;)))
-at com.adevinta.android.barista.internal.failurehandler.SpyFailureHandler.resendFirstError(SpyFailureHandler.kt:25)
-at com.adevinta.android.barista.internal.PerformActionKt.performActionOnView(PerformAction.kt:50)
-at com.adevinta.android.barista.internal.PerformActionKt.performAction(PerformAction.kt:26)
-at com.adevinta.android.barista.interaction.BaristaClickInteractions.clickOn(BaristaClickInteractions.kt:24)
-at edu.ucsc.cse118.assignment2.BasicInstrumentedTest.workspace_two(BasicInstrumentedTest.kt:47)
-... 32 trimmed
-Caused by: androidx.test.espresso.NoMatchingViewException: No views in hierarchy found matching: ((view has effective visibility &lt;VISIBLE&gt; and view.getGlobalVisibleRect() to return non-empty rectangle) and (an instance of android.widget.TextView and view.getText() with or without transformation to match: is &quot;LOGIN&quot; or (view.getParent() is assignable from class &lt;class com.google.android.material.textfield.TextInputLayout&gt; and (view is an instance of android.view.ViewGroup and has descendant matching an instance of android.widget.TextView and view.getText() with or without transformation to match: is &quot;LOGIN&quot;))))
-
-View Hierarchy:
-+&gt;DecorView{id=-1, visibility=VISIBLE, width=1080, height=2340, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params={(0,0)(fillxfill) ty=BASE_APPLICATION wanim=0x10302fe
-fl=LAYOUT_IN_SCREEN LAYOUT_INSET_DECOR SPLIT_TOUCH HARDWARE_ACCELERATED DRAWS_SYSTEM_BAR_BACKGROUNDS
-pfl=NO_MOVE_ANIMATION FORCE_DRAW_STATUS_BAR_BACKGROUND FIT_INSETS_CONTROLLED
-bhv=DEFAULT
-fitSides=}, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
-|
-+-&gt;LinearLayout{id=-1, visibility=VISIBLE, width=1080, height=2296, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@692be7d, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
-|
-+--&gt;ViewStub{id=16908723, res-name=action_mode_bar_stub, visibility=GONE, width=0, height=0, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=true, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@4336172, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
-|
-+--&gt;FrameLayout{id=-1, visibility=VISIBLE, width=1080, height=2230, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@3b1a240, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=66.0, child-count=1}
-|
-+---&gt;ActionBarOverlayLayout{id=2131230863, res-name=decor_content_parent, visibility=VISIBLE, width=1080, height=2230, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@2df1f, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
-|
-+----&gt;ContentFrameLayout{id=16908290, res-name=content, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.ActionBarOverlayLayout$LayoutParams@ee04035, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=154.0, child-count=1}
-|
-+-----&gt;ConstraintLayout{id=-1, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@709acca, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=0}
-|
-+----&gt;ActionBarContainer{id=2131230773, res-name=action_bar_container, visibility=VISIBLE, width=1080, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.ActionBarOverlayLayout$LayoutParams@a61aab1, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
-|
-+-----&gt;Toolbar{id=2131230771, res-name=action_bar, visibility=VISIBLE, width=1080, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@fd8d304, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
-|
-+------&gt;AppCompatTextView{id=-1, visibility=VISIBLE, width=560, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.Toolbar$LayoutParams@8b540ed, tag=null, root-is-layout-requested=false, has-input-connection=false, x=44.0, y=40.0, text=CSE118 Assignment 2, input-type=0, ime-target=false, has-links=false}
-|
-+------&gt;ActionMenuView{id=-1, visibility=VISIBLE, width=0, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.Toolbar$LayoutParams@3430b22, tag=null, root-is-layout-requested=false, has-input-connection=false, x=1080.0, y=0.0, child-count=0}
-|
-+-----&gt;ActionBarContextView{id=2131230779, res-name=action_context_bar, visibility=GONE, width=0, height=0, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=true, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@f3c49b3, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=0}
-|
-+-&gt;View{id=16908336, res-name=navigationBarBackground, visibility=VISIBLE, width=1080, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@e921b70, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=2296.0}
-|
-+-&gt;View{id=16908335, res-name=statusBarBackground, visibility=VISIBLE, width=1080, height=66, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@131fee9, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
-at androidx.test.espresso.NoMatchingViewException$Builder.build(NoMatchingViewException.java:5)
-at androidx.test.espresso.base.ViewFinderImpl.getView(ViewFinderImpl.java:26)
-at androidx.test.espresso.ViewInteraction.doPerform(ViewInteraction.java:4)
-at androidx.test.espresso.ViewInteraction.access$100(ViewInteraction.java:1)
-at androidx.test.espresso.ViewInteraction$1.call(ViewInteraction.java:2)
-at androidx.test.espresso.ViewInteraction$1.call(ViewInteraction.java:1)
-at java.util.concurrent.FutureTask.run(FutureTask.java:266)
-at android.os.Handler.handleCallback(Handler.java:938)
-at android.os.Handler.dispatchMessage(Handler.java:99)
-at android.os.Looper.loopOnce(Looper.java:201)
-at android.os.Looper.loop(Looper.java:288)
-at android.app.ActivityThread.main(ActivityThread.java:7842)
-at java.lang.reflect.Method.invoke(Native Method)
-at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:548)
-at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1003)</pre>
-</span>
-</div>
-</div>
-<div id="tab1" class="tab">
 <h2>Tests</h2>
 <table>
 <thead>
@@ -568,46 +68,46 @@ at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1003)</pre>
 </thead>
 <tr>
 <td>channel_count_one</td>
-<td class="failures">failed (0.418s)</td>
+<td class="success">passed (0.773s)</td>
 </tr>
 <tr>
 <td>channel_count_three</td>
-<td class="failures">failed (0.520s)</td>
+<td class="success">passed (0.685s)</td>
 </tr>
 <tr>
 <td>channel_count_two</td>
-<td class="failures">failed (0.496s)</td>
+<td class="success">passed (0.570s)</td>
 </tr>
 <tr>
 <td>initial_login</td>
-<td class="failures">failed (0.333s)</td>
+<td class="success">passed (0.332s)</td>
 </tr>
 <tr>
 <td>initial_login_clickable</td>
-<td class="failures">failed (0.443s)</td>
+<td class="success">passed (0.798s)</td>
 </tr>
 <tr>
 <td>initial_title</td>
-<td class="success">passed (0.373s)</td>
+<td class="success">passed (0.261s)</td>
 </tr>
 <tr>
 <td>workspace_one</td>
-<td class="failures">failed (0.280s)</td>
+<td class="success">passed (0.563s)</td>
 </tr>
 <tr>
 <td>workspace_three</td>
-<td class="failures">failed (0.548s)</td>
+<td class="success">passed (0.540s)</td>
 </tr>
 <tr>
 <td>workspace_two</td>
-<td class="failures">failed (0.391s)</td>
+<td class="success">passed (0.535s)</td>
 </tr>
 </table>
 </div>
 </div>
 <div id="footer">
 <p>Generated by 
-<a href="http://www.gradle.org">Gradle 7.3.3</a> at Oct 9, 2022, 6:06:18 PM</p>
+<a href="http://www.gradle.org">Gradle 7.3.3</a> at Oct 10, 2022, 8:38:40 PM</p>
 </div>
 </div>
 </body>

@@ -6322,6 +6322,10 @@
     </attr>
     
     <attr format="integer" name="maxLines"/>
+    
+    <attr format="boolean" name="forceApplySystemWindowInsetTop"/>
+    
+    <attr format="boolean" name="extraMultilineHeightEnabled"/>
   </declare-styleable>
     <declare-styleable name="CollapsingToolbarLayout_Layout">
     <attr name="layout_collapseMode">

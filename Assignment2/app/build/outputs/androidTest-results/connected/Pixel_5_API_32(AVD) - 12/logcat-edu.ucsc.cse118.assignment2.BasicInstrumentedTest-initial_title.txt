@@ -1,124 +1,161 @@
-10-09 17:23:01.377  9995 10015 I TestRunner: started: initial_title(edu.ucsc.cse118.assignment2.BasicInstrumentedTest)
-10-09 17:23:01.381  9995 10015 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
-10-09 17:23:01.386   863   942 D SplashScreenView: Build android.window.SplashScreenView{7b2ee25 V.E...... ......ID 0,0-0,0}
-10-09 17:23:01.386   863   942 D SplashScreenView: Icon: view: null drawable: null size: 0
-10-09 17:23:01.386   863   942 D SplashScreenView: Branding: view: android.view.View{15cdbfa G.ED..... ......I. 0,0-0,0 #10204a9 android:id/splashscreen_branding_view} drawable: null size w: 0 h: 0
-10-09 17:23:01.406   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1f462c000 0x1f4fd0000]
-10-09 17:23:01.409   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1f4fd0000 0x1f5974000]
-10-09 17:23:01.409   565  2073 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.409   565  2073 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.409   565  2073 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.409   565  2073 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.409   565  2073 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.409   565  2073 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.409   565  2073 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.409   565  2073 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.409   565  2073 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.409   565  2073 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.410   565  2073 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.410   565  2073 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.410   565  2073 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.410   565  2073 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.410   565  2073 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.410   565  2073 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.410   565  2073 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.410   565  2073 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.410   565  2073 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.410   565  2073 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.417   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1f5974000 0x1f6318000]
-10-09 17:23:01.431   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1f3224000 0x1f3850000]
-10-09 17:23:01.449   565  3205 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.449   565  3205 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.449   565  3205 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.449   565  3205 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.449   565  3205 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.449   565  3205 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.449   565  3205 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.449   565  3205 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.449   565  3205 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.449   565  3205 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.449   565  3205 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.449   565  3205 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.449   565  3205 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.449   565  3205 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.449   565  3205 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.449   565  3205 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.449   565  3205 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.449   565  3205 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.449   565  3205 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.449   565  3205 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.468  9995  9995 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.MainActivity@5d7b6ee in: PRE_ON_CREATE
-10-09 17:23:01.470  9995  9995 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
-10-09 17:23:01.499  9995  9995 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.MainActivity@5d7b6ee in: CREATED
-10-09 17:23:01.499  9995  9995 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=edu.ucsc.cse118.assignment2.MainActivity@5d7b6ee
-10-09 17:23:01.501  9995  9995 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.MainActivity@5d7b6ee in: STARTED
-10-09 17:23:01.501  9995  9995 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=edu.ucsc.cse118.assignment2.MainActivity@5d7b6ee
-10-09 17:23:01.508  9995  9995 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.MainActivity@5d7b6ee in: RESUMED
-10-09 17:23:01.508  9995  9995 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=edu.ucsc.cse118.assignment2.MainActivity@5d7b6ee
-10-09 17:23:01.525   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1f0000000 0x1f09a4000]
-10-09 17:23:01.527   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1f18b0000 0x1f2254000]
-10-09 17:23:01.529   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1f2254000 0x1f2bf8000]
-10-09 17:23:01.537   565   606 I ActivityTaskManager: Displayed edu.ucsc.cse118.assignment2/.MainActivity: +152ms
-10-09 17:23:01.545  9995  9995 D RootViewPicker: Root not ready - waiting: 10ms for one to appear.
-10-09 17:23:01.555   565  2077 W InputManager-JNI: Input channel object '7be1f5 Splash Screen edu.ucsc.cse118.assignment2.test (client)' was disposed without first being removed with the input manager!
-10-09 17:23:01.556  9995  9995 D RootViewPicker: Root not ready - waiting: 25ms for one to appear.
-10-09 17:23:01.558  1570  1570 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3269
-10-09 17:23:01.559  1570  1570 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1947
-10-09 17:23:01.559  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
-10-09 17:23:01.585  9995  9995 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view (an instance of android.widget.TextView and view.getText() with or without transformation to match: is "CSE118 Assignment 2" or (view.getParent() is assignable from class <class com.google.android.material.textfield.TextInputLayout> and (view is an instance of android.view.ViewGroup and has descendant matching an instance of android.widget.TextView and view.getText() with or without transformation to match: is "CSE118 Assignment 2")))
-10-09 17:23:01.595  9995  9995 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.MainActivity@5d7b6ee in: PAUSED
-10-09 17:23:01.595  9995  9995 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=edu.ucsc.cse118.assignment2.MainActivity@5d7b6ee
-10-09 17:23:01.600   565  3205 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.600   565  3205 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.600   565  3205 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.600   565  3205 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.600   565  3205 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.600   565  3205 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.600   565  3205 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.600   565  3205 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.600   565  3205 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.600   565  3205 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.600   565  3205 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.600   565  3205 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.600   565  3205 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.600   565  3205 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.600   565  3205 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.600   565  3205 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.600   565  3205 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.600   565  3205 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.600   565  3205 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.600   565  3205 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.629   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1f462c000 0x1f4fd0000]
-10-09 17:23:01.632   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1f4fd0000 0x1f5974000]
-10-09 17:23:01.633   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1f5974000 0x1f6318000]
-10-09 17:23:01.634  1389  1389 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.feedback.internal.IFeedbackService cmp=com.google.android.gms/.chimera.GmsBoundBrokerService }
-10-09 17:23:01.656   565  2077 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.656   565  2077 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.656   565  2077 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.656   565  2077 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.656   565  2077 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.656   565  2077 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.656   565  2077 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.656   565  2077 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.656   565  2077 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.656   565  2077 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.656   565  2077 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.656   565  2077 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.656   565  2077 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.656   565  2077 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.656   565  2077 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.656   565  2077 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.656   565  2077 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.656   565  2077 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.656   565  2077 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.656   565  2077 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
-10-09 17:23:01.691   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1f6318000 0x1f6cbc000]
-10-09 17:23:01.693   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1f6cbc000 0x1f7660000]
-10-09 17:23:01.694   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1fa85c000 0x1fb200000]
-10-09 17:23:01.713   565   606 I ActivityTaskManager: Displayed edu.ucsc.cse118.assignment2.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +95ms
-10-09 17:23:01.719   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1f78ec000 0x1f7f18000]
-10-09 17:23:01.736  9995  9995 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.MainActivity@5d7b6ee in: STOPPED
-10-09 17:23:01.736  9995  9995 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=edu.ucsc.cse118.assignment2.MainActivity@5d7b6ee
-10-09 17:23:01.740  9995  9995 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.MainActivity@5d7b6ee in: DESTROYED
-10-09 17:23:01.740  9995  9995 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
-10-09 17:23:01.740  9995 10015 I TestRunner: finished: initial_title(edu.ucsc.cse118.assignment2.BasicInstrumentedTest)
+10-10 20:38:29.470 20433 20452 I TestRunner: started: initial_title(edu.ucsc.cse118.assignment2.BasicInstrumentedTest)
+10-10 20:38:29.472   365   425 D goldfish-address-space: claimShared: Ask to claim region [0x1e862c000 0x1e8fd0000]
+10-10 20:38:29.474   365   425 D goldfish-address-space: claimShared: Ask to claim region [0x1f09a4000 0x1f1348000]
+10-10 20:38:29.475   365   425 D goldfish-address-space: claimShared: Ask to claim region [0x1f1348000 0x1f1cec000]
+10-10 20:38:29.477 20433 20452 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+10-10 20:38:29.482   863   942 D SplashScreenView: Build android.window.SplashScreenView{3430e5 V.E...... ......ID 0,0-0,0}
+10-10 20:38:29.482   863   942 D SplashScreenView: Icon: view: null drawable: null size: 0
+10-10 20:38:29.482   863   942 D SplashScreenView: Branding: view: android.view.View{33cc7ba G.ED..... ......I. 0,0-0,0 #10204a9 android:id/splashscreen_branding_view} drawable: null size w: 0 h: 0
+10-10 20:38:29.488   354 20495 W android.hardware.audio@7.0-impl.ranchu: TinyalsaSink::consumeThread:184 pcm_write failed with res=-1
+10-10 20:38:29.488   565   849 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.488   565   849 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.488   565   849 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.488   565   849 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.488   565   849 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.488   565   849 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.488   565   849 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.488   565   849 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.488   565   849 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.488   565   849 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.488   565   849 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.488   565   849 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.488   565   849 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.488   565   849 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.488   565   849 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.488   565   849 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.488   565   849 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.488   565   849 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.488   565   849 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.488   565   849 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.494  1694  1694 I GsaVoiceInteractionSrv: Handling ACTION_STOP_HOTWORD
+10-10 20:38:29.494  1694  1694 E HwDetectorWithState: a: 3
+10-10 20:38:29.505   565   849 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.505   565   849 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.505   565   849 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.505   565   849 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.505   565   849 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.505   565   849 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.505   565   849 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.505   565   849 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.505   565   849 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.505   565   849 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.505   565   849 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.505   565   849 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.505   565   849 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.505   565   849 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.505   565   849 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.505   565   849 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.505   565   849 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.505   565   849 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.505   565   849 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.505   565   849 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.508   365   425 D goldfish-address-space: claimShared: Ask to claim region [0x1ea318000 0x1eacbc000]
+10-10 20:38:29.510   365   425 D goldfish-address-space: claimShared: Ask to claim region [0x1f09a4000 0x1f1348000]
+10-10 20:38:29.511   354 20495 W android.hardware.audio@7.0-impl.ranchu: TinyalsaSink::consumeThread:184 pcm_write failed with res=-1
+10-10 20:38:29.515   365   425 D goldfish-address-space: claimShared: Ask to claim region [0x1f1348000 0x1f1cec000]
+10-10 20:38:29.515 20433 20433 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.MainActivity@976621c in: PRE_ON_CREATE
+10-10 20:38:29.519 20433 20433 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+10-10 20:38:29.530 20433 20433 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.MainActivity@976621c in: CREATED
+10-10 20:38:29.530 20433 20433 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=edu.ucsc.cse118.assignment2.MainActivity@976621c
+10-10 20:38:29.531 20433 20433 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.MainActivity@976621c in: STARTED
+10-10 20:38:29.531 20433 20433 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=edu.ucsc.cse118.assignment2.MainActivity@976621c
+10-10 20:38:29.531   354 20495 W android.hardware.audio@7.0-impl.ranchu: TinyalsaSink::consumeThread:184 pcm_write failed with res=-1
+10-10 20:38:29.537 16350 16350 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=66, right=0, bottom=44}
+10-10 20:38:29.537 16350 16350 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=66, right=0, bottom=44}
+10-10 20:38:29.540 20433 20433 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.MainActivity@976621c in: RESUMED
+10-10 20:38:29.540 20433 20433 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=edu.ucsc.cse118.assignment2.MainActivity@976621c
+10-10 20:38:29.554   354 20495 W android.hardware.audio@7.0-impl.ranchu: TinyalsaSink::consumeThread:184 pcm_write failed with res=-1
+10-10 20:38:29.556   365   425 D goldfish-address-space: claimShared: Ask to claim region [0x1e862c000 0x1e8fd0000]
+10-10 20:38:29.558   365   425 D goldfish-address-space: claimShared: Ask to claim region [0x1ec000000 0x1ec9a4000]
+10-10 20:38:29.558   365   425 D goldfish-address-space: claimShared: Ask to claim region [0x1ecfd0000 0x1ed974000]
+10-10 20:38:29.575   354 20495 W android.hardware.audio@7.0-impl.ranchu: TinyalsaSink::consumeThread:184 pcm_write failed with res=-1
+10-10 20:38:29.596   565   606 I ActivityTaskManager: Displayed edu.ucsc.cse118.assignment2/.MainActivity: +116ms
+10-10 20:38:29.597 20433 20433 D RootViewPicker: Root not ready - waiting: 10ms for one to appear.
+10-10 20:38:29.598   354 20495 W android.hardware.audio@7.0-impl.ranchu: TinyalsaSink::consumeThread:184 pcm_write failed with res=-1
+10-10 20:38:29.604   565  2899 W InputManager-JNI: Input channel object '53124f2 edu.ucsc.cse118.assignment2.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity (client)' was disposed without first being removed with the input manager!
+10-10 20:38:29.604  1570  1570 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3269
+10-10 20:38:29.604  1570  1570 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1947
+10-10 20:38:29.605  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-10 20:38:29.606   565  3206 W InputManager-JNI: Input channel object 'a4a91c6 Splash Screen edu.ucsc.cse118.assignment2.test (client)' was disposed without first being removed with the input manager!
+10-10 20:38:29.620   354 20495 W android.hardware.audio@7.0-impl.ranchu: TinyalsaSink::consumeThread:184 pcm_write failed with res=-1
+10-10 20:38:29.633 20433 20433 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view (an instance of android.widget.TextView and view.getText() with or without transformation to match: is "CSE118 Assignment 2" or (view.getParent() is assignable from class <class com.google.android.material.textfield.TextInputLayout> and (view is an instance of android.view.ViewGroup and has descendant matching an instance of android.widget.TextView and view.getText() with or without transformation to match: is "CSE118 Assignment 2")))
+10-10 20:38:29.637 20433 20433 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.MainActivity@976621c in: PAUSED
+10-10 20:38:29.637 20433 20433 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=edu.ucsc.cse118.assignment2.MainActivity@976621c
+10-10 20:38:29.638   565  1622 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.638   565  1622 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.638   565  1622 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.638   565  1622 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.638   565  1622 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.638   565  1622 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.638   565  1622 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.638   565  1622 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.638   565  1622 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.638   565  1622 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.638   565  1622 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.638   565  1622 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.638   565  1622 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.638   565  1622 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.638   565  1622 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.638   565  1622 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.638   565  1622 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.638   565  1622 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.638   565  1622 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.638   565  1622 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.642   354 20495 W android.hardware.audio@7.0-impl.ranchu: TinyalsaSink::consumeThread:184 pcm_write failed with res=-1
+10-10 20:38:29.656   365   425 D goldfish-address-space: claimShared: Ask to claim region [0x1e9974000 0x1ea318000]
+10-10 20:38:29.657   365   425 D goldfish-address-space: claimShared: Ask to claim region [0x1ea318000 0x1eacbc000]
+10-10 20:38:29.657   365   425 D goldfish-address-space: claimShared: Ask to claim region [0x1ed974000 0x1ee318000]
+10-10 20:38:29.662   565  3206 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.662   565  3206 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.662   565  3206 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.662   565  3206 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.662   565  3206 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.662   565  3206 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.662   565  3206 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.662   565  3206 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.662   565  3206 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.662   565  3206 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.663   565  3206 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.663   565  3206 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.663   565  3206 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.663   565  3206 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.663   565  3206 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.663   565  3206 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.663   565  3206 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.663   565  3206 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.663   565  3206 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.663   565  3206 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.664   354 20495 W android.hardware.audio@7.0-impl.ranchu: TinyalsaSink::consumeThread:184 pcm_write failed with res=-1
+10-10 20:38:29.687   354 20495 W android.hardware.audio@7.0-impl.ranchu: TinyalsaSink::consumeThread:184 pcm_write failed with res=-1
+10-10 20:38:29.690   365   425 D goldfish-address-space: claimShared: Ask to claim region [0x1f33d0000 0x1f3d74000]
+10-10 20:38:29.692   365   425 D goldfish-address-space: claimShared: Ask to claim region [0x1f0000000 0x1f09a4000]
+10-10 20:38:29.692   365   425 D goldfish-address-space: claimShared: Ask to claim region [0x1f09a4000 0x1f1348000]
+10-10 20:38:29.708   565   606 I ActivityTaskManager: Displayed edu.ucsc.cse118.assignment2.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +59ms
+10-10 20:38:29.708   354 20495 W android.hardware.audio@7.0-impl.ranchu: TinyalsaSink::consumeThread:184 pcm_write failed with res=-1
+10-10 20:38:29.712   365   425 D goldfish-address-space: claimShared: Ask to claim region [0x1ea318000 0x1ea944000]
+10-10 20:38:29.717   565  2064 W InputManager-JNI: Input channel object '6a71b99 edu.ucsc.cse118.assignment2.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity (client)' was disposed without first being removed with the input manager!
+10-10 20:38:29.724   565   679 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.724   565   679 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.724   565   679 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.724   565   679 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.724   565   679 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.724   565   679 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.724   565   679 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.724   565   679 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.724   565   679 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.724   565   679 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.724   565   679 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.724   565   679 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.724   565   679 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.724   565   679 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.724   565   679 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.724   565   679 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.724   565   679 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.724   565   679 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.724   565   679 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.724   565   679 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+10-10 20:38:29.728 20433 20433 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.MainActivity@976621c in: STOPPED
+10-10 20:38:29.728 20433 20433 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=edu.ucsc.cse118.assignment2.MainActivity@976621c
+10-10 20:38:29.729 20433 20433 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.MainActivity@976621c in: DESTROYED
+10-10 20:38:29.729 20433 20433 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+10-10 20:38:29.730 20433 20452 I TestRunner: finished: initial_title(edu.ucsc.cse118.assignment2.BasicInstrumentedTest)

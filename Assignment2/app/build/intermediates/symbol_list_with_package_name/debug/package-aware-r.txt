@@ -434,6 +434,7 @@ attr expandedTitleMarginTop
 attr expandedTitleTextAppearance
 attr extendMotionSpec
 attr extendedFloatingActionButtonStyle
+attr extraMultilineHeightEnabled
 attr fabAlignmentMode
 attr fabAnimationMode
 attr fabCradleMargin
@@ -481,6 +482,7 @@ attr fontProviderSystemFontFamily
 attr fontStyle
 attr fontVariationSettings
 attr fontWeight
+attr forceApplySystemWindowInsetTop
 attr foregroundInsidePadding
 attr framePosition
 attr gapBetweenBars
@@ -1980,6 +1982,7 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
+id button
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -1991,6 +1994,7 @@ id center_vertical
 id chain
 id chain2
 id chains
+id channels
 id checkbox
 id checked
 id chip
@@ -2096,6 +2100,7 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imageView
 id immediateStop
 id included
 id info
@@ -2173,6 +2178,7 @@ id mtrl_picker_text_input_range_start
 id mtrl_picker_title_text
 id mtrl_view_tag_bottom_padding
 id multiply
+id name
 id nav_controller_view_tag
 id nav_host_fragment_container
 id navigation_bar_item_icon_view
@@ -2218,6 +2224,7 @@ id progress_horizontal
 id radio
 id ratio
 id rectangles
+id recyclerview
 id reverseSawtooth
 id right
 id rightToLeft
@@ -2432,6 +2439,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
+layout activity_workspace
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -2516,6 +2524,7 @@ layout text_view_with_line_height_from_layout
 layout text_view_with_line_height_from_style
 layout text_view_with_theme_line_height
 layout text_view_without_line_height
+layout workspace_view_main
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
@@ -2552,6 +2561,7 @@ string app_name
 string appbar_scrolling_view_behavior
 string bottom_sheet_behavior
 string bottomsheet_action_expand_halfway
+string button
 string character_counter_content_description
 string character_counter_overflowed_content_description
 string character_counter_pattern
@@ -2563,6 +2573,7 @@ string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
+string img
 string item_view_role_description
 string material_clock_display_divider
 string material_clock_toggle_content_description
@@ -3387,7 +3398,7 @@ styleable ChipGroup checkedChip chipSpacing chipSpacingHorizontal chipSpacingVer
 styleable CircularProgressIndicator indicatorDirectionCircular indicatorInset indicatorSize
 styleable ClockFaceView clockFaceBackgroundColor clockNumberTextColor
 styleable ClockHandView clockHandColor materialCircleRadius selectorSize
-styleable CollapsingToolbarLayout collapsedTitleGravity collapsedTitleTextAppearance contentScrim expandedTitleGravity expandedTitleMargin expandedTitleMarginBottom expandedTitleMarginEnd expandedTitleMarginStart expandedTitleMarginTop expandedTitleTextAppearance maxLines scrimAnimationDuration scrimVisibleHeightTrigger statusBarScrim title titleCollapseMode titleEnabled toolbarId
+styleable CollapsingToolbarLayout collapsedTitleGravity collapsedTitleTextAppearance contentScrim expandedTitleGravity expandedTitleMargin expandedTitleMarginBottom expandedTitleMarginEnd expandedTitleMarginStart expandedTitleMarginTop expandedTitleTextAppearance extraMultilineHeightEnabled forceApplySystemWindowInsetTop maxLines scrimAnimationDuration scrimVisibleHeightTrigger statusBarScrim title titleCollapseMode titleEnabled toolbarId
 styleable CollapsingToolbarLayout_Layout layout_collapseMode layout_collapseParallaxMultiplier
 styleable ColorStateListItem android_color android_alpha android_lStar alpha lStar
 styleable CompoundButton android_button buttonCompat buttonTint buttonTintMode

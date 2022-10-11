@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml:2:1-22:12
-INJECTED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml:2:1-22:12
-INJECTED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml:2:1-22:12
-INJECTED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml:2:1-22:12
+ADDED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml:2:1-30:12
 MERGED from [androidx.databinding:databinding-adapters:7.2.2] /Users/kemcrawf/.gradle/caches/transforms-3/409712d295c511778e8f5a4abca3a820/transformed/databinding-adapters-7.2.2/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.databinding:databinding-ktx:7.2.2] /Users/kemcrawf/.gradle/caches/transforms-3/f8faa1133fa6cfd37263ca11ce36f7d2/transformed/jetified-databinding-ktx-7.2.2/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.databinding:databinding-runtime:7.2.2] /Users/kemcrawf/.gradle/caches/transforms-3/ebdc505d2275b856cc8c34bfcf709a37/transformed/databinding-runtime-7.2.2/AndroidManifest.xml:17:1-24:12
@@ -18,7 +18,7 @@ MERGED from [androidx.activity:activity-ktx:1.5.1] /Users/kemcrawf/.gradle/cache
 MERGED from [androidx.navigation:navigation-common-ktx:2.5.2] /Users/kemcrawf/.gradle/caches/transforms-3/d4b56d484ef7fe6b876225a0d0a47411/transformed/navigation-common-ktx-2.5.2/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-common:2.5.2] /Users/kemcrawf/.gradle/caches/transforms-3/a065d0340fac0a1f80dc829e00631411/transformed/navigation-common-2.5.2/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/kemcrawf/.gradle/caches/transforms-3/d75a68436f4d4b6824349dd8a40fe522/transformed/jetified-lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.material:material:1.4.0-beta01] /Users/kemcrawf/.gradle/caches/transforms-3/343b41cc996af15b59d37641e7971c0c/transformed/material-1.4.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.4.0] /Users/kemcrawf/.gradle/caches/transforms-3/c9b25872f5f1c2e6bb62af13070e9845/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/kemcrawf/.gradle/caches/transforms-3/f67461480db4fe6f2c4370a855a673d4/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /Users/kemcrawf/.gradle/caches/transforms-3/b43bde63be827918811bdfd61883f15b/transformed/jetified-appcompat-resources-1.5.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.appcompat:appcompat:1.5.1] /Users/kemcrawf/.gradle/caches/transforms-3/c45bd4295d6a635081708d3b8d93121e/transformed/appcompat-1.5.1/AndroidManifest.xml:17:1-22:12
@@ -36,14 +36,15 @@ MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/kemcrawf
 MERGED from [androidx.window:window:1.0.0] /Users/kemcrawf/.gradle/caches/transforms-3/da48fad963e13a1079647acb69ad0635/transformed/jetified-window-1.0.0/AndroidManifest.xml:17:1-33:12
 MERGED from [androidx.core:core-ktx:1.8.0] /Users/kemcrawf/.gradle/caches/transforms-3/654050538eca00c04e0c17dd3ba3afb2/transformed/jetified-core-ktx-1.8.0/AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.databinding:viewbinding:7.2.2] /Users/kemcrawf/.gradle/caches/transforms-3/a39e5d9c58da4b58d8efffef39028223/transformed/jetified-viewbinding-7.2.2/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/kemcrawf/.gradle/caches/transforms-3/a6310a148d16dd19ce28b4143ffe09ef/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/kemcrawf/.gradle/caches/transforms-3/f96124a25cda61641cb5202dfe20aa6c/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kemcrawf/.gradle/caches/transforms-3/13342e48c9900c79385ba949bd11f1d8/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kemcrawf/.gradle/caches/transforms-3/db702923da84a8bb6a19d15580918497/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kemcrawf/.gradle/caches/transforms-3/f2cc339f8258fc49aea028a2f57a003f/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kemcrawf/.gradle/caches/transforms-3/065cea934d91442b1ce592f0df1303b6/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/kemcrawf/.gradle/caches/transforms-3/1f9cabcce93d1030fe6f27ecf8c8e328/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kemcrawf/.gradle/caches/transforms-3/db702923da84a8bb6a19d15580918497/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kemcrawf/.gradle/caches/transforms-3/34d5f6e8ec6947dfc5195b50c96c128f/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/kemcrawf/.gradle/caches/transforms-3/a6310a148d16dd19ce28b4143ffe09ef/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/kemcrawf/.gradle/caches/transforms-3/f96124a25cda61641cb5202dfe20aa6c/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/kemcrawf/.gradle/caches/transforms-3/a71305aec5a3176043737657c7946832/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/kemcrawf/.gradle/caches/transforms-3/1f9cabcce93d1030fe6f27ecf8c8e328/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kemcrawf/.gradle/caches/transforms-3/34d5f6e8ec6947dfc5195b50c96c128f/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.customview:customview:1.1.0] /Users/kemcrawf/.gradle/caches/transforms-3/90c20208187e22e673417259ab2b006e/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.transition:transition:1.4.1] /Users/kemcrawf/.gradle/caches/transforms-3/2f65ea1394a80bf9bb353c97c1e3f2cc/transformed/transition-1.4.1/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core:1.8.0] /Users/kemcrawf/.gradle/caches/transforms-3/ab5dabb36ff9d31af86c2346f12f6e56/transformed/core-1.8.0/AndroidManifest.xml:17:1-26:12
@@ -60,33 +61,32 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/kemcrawf/.
 MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/kemcrawf/.gradle/caches/transforms-3/650f1f31a05586937a168df0f9fdd2db/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kemcrawf/.gradle/caches/transforms-3/c1d1798042789c7b5ad5872e510b42c7/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
 MERGED from [androidx.tracing:tracing:1.0.0] /Users/kemcrawf/.gradle/caches/transforms-3/e9a3ad4c87e97e1ab6ecf6fcc60c5ea5/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kemcrawf/.gradle/caches/transforms-3/41cdbb7cb5579445dccba5278717e113/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/kemcrawf/.gradle/caches/transforms-3/13342e48c9900c79385ba949bd11f1d8/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kemcrawf/.gradle/caches/transforms-3/20c38d89af753b7881c3e5996bde9d8f/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kemcrawf/.gradle/caches/transforms-3/9b320fe426c215eb95a2c6265eb3f53f/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /Users/kemcrawf/.gradle/caches/transforms-3/7389067ffb51bca4b392df07e21a7dca/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kemcrawf/.gradle/caches/transforms-3/41cdbb7cb5579445dccba5278717e113/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/kemcrawf/.gradle/caches/transforms-3/8cb23d5fa90798ae7eb0ad079f77f639/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml:2:1-22:12
-INJECTED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml:2:1-22:12
-INJECTED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml:2:1-30:12
 	package
 		ADDED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml:3:5-42
 		INJECTED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml
-		ADDED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml:2:1-22:12
+		ADDED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml:2:1-30:12
 		INJECTED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml
-		ADDED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml:2:1-22:12
+		ADDED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml:2:1-30:12
 		INJECTED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml:5:5-20:19
-MERGED from [com.google.android.material:material:1.4.0-beta01] /Users/kemcrawf/.gradle/caches/transforms-3/343b41cc996af15b59d37641e7971c0c/transformed/material-1.4.0-beta01/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.4.0-beta01] /Users/kemcrawf/.gradle/caches/transforms-3/343b41cc996af15b59d37641e7971c0c/transformed/material-1.4.0-beta01/AndroidManifest.xml:22:5-20
+ADDED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml:5:5-28:19
+MERGED from [com.google.android.material:material:1.4.0] /Users/kemcrawf/.gradle/caches/transforms-3/c9b25872f5f1c2e6bb62af13070e9845/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /Users/kemcrawf/.gradle/caches/transforms-3/c9b25872f5f1c2e6bb62af13070e9845/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/kemcrawf/.gradle/caches/transforms-3/f67461480db4fe6f2c4370a855a673d4/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/kemcrawf/.gradle/caches/transforms-3/f67461480db4fe6f2c4370a855a673d4/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
 MERGED from [androidx.window:window:1.0.0] /Users/kemcrawf/.gradle/caches/transforms-3/da48fad963e13a1079647acb69ad0635/transformed/jetified-window-1.0.0/AndroidManifest.xml:24:5-31:19
@@ -115,22 +115,34 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kemcrawf/.gradle/cac
 		ADDED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml:11:9-49
-activity#edu.ucsc.cse118.assignment2.MainActivity
-ADDED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml:12:9-19:20
+activity#edu.ucsc.cse118.assignment2.WorkspaceActivity
+ADDED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml:12:9-18:20
 	android:exported
-		ADDED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml:14:13-36
+		ADDED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml:14:13-37
 	android:name
-		ADDED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml:13:13-68
+		ADDED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml:13:13-46
+meta-data#android.app.lib_name
+ADDED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml:15:13-17:36
+	android:value
+		ADDED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml:17:17-33
+	android:name
+		ADDED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml:16:17-52
+activity#edu.ucsc.cse118.assignment2.MainActivity
+ADDED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml:19:9-27:20
+	android:exported
+		ADDED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml:21:13-36
+	android:name
+		ADDED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml:20:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml:15:13-18:29
+ADDED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml:22:13-26:29
 action#android.intent.action.MAIN
-ADDED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml:16:17-69
+ADDED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml:23:17-69
 	android:name
-		ADDED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml:16:25-66
+		ADDED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml:17:17-77
+ADDED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml:17:27-74
+		ADDED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml:25:27-74
 uses-sdk
 INJECTED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml
@@ -163,8 +175,8 @@ MERGED from [androidx.navigation:navigation-common:2.5.2] /Users/kemcrawf/.gradl
 MERGED from [androidx.navigation:navigation-common:2.5.2] /Users/kemcrawf/.gradle/caches/transforms-3/a065d0340fac0a1f80dc829e00631411/transformed/navigation-common-2.5.2/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/kemcrawf/.gradle/caches/transforms-3/d75a68436f4d4b6824349dd8a40fe522/transformed/jetified-lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/kemcrawf/.gradle/caches/transforms-3/d75a68436f4d4b6824349dd8a40fe522/transformed/jetified-lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.material:material:1.4.0-beta01] /Users/kemcrawf/.gradle/caches/transforms-3/343b41cc996af15b59d37641e7971c0c/transformed/material-1.4.0-beta01/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.4.0-beta01] /Users/kemcrawf/.gradle/caches/transforms-3/343b41cc996af15b59d37641e7971c0c/transformed/material-1.4.0-beta01/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Users/kemcrawf/.gradle/caches/transforms-3/c9b25872f5f1c2e6bb62af13070e9845/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Users/kemcrawf/.gradle/caches/transforms-3/c9b25872f5f1c2e6bb62af13070e9845/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/kemcrawf/.gradle/caches/transforms-3/f67461480db4fe6f2c4370a855a673d4/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/kemcrawf/.gradle/caches/transforms-3/f67461480db4fe6f2c4370a855a673d4/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /Users/kemcrawf/.gradle/caches/transforms-3/b43bde63be827918811bdfd61883f15b/transformed/jetified-appcompat-resources-1.5.1/AndroidManifest.xml:20:5-44
@@ -199,22 +211,24 @@ MERGED from [androidx.core:core-ktx:1.8.0] /Users/kemcrawf/.gradle/caches/transf
 MERGED from [androidx.core:core-ktx:1.8.0] /Users/kemcrawf/.gradle/caches/transforms-3/654050538eca00c04e0c17dd3ba3afb2/transformed/jetified-core-ktx-1.8.0/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.databinding:viewbinding:7.2.2] /Users/kemcrawf/.gradle/caches/transforms-3/a39e5d9c58da4b58d8efffef39028223/transformed/jetified-viewbinding-7.2.2/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.databinding:viewbinding:7.2.2] /Users/kemcrawf/.gradle/caches/transforms-3/a39e5d9c58da4b58d8efffef39028223/transformed/jetified-viewbinding-7.2.2/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/kemcrawf/.gradle/caches/transforms-3/a6310a148d16dd19ce28b4143ffe09ef/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/kemcrawf/.gradle/caches/transforms-3/a6310a148d16dd19ce28b4143ffe09ef/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/kemcrawf/.gradle/caches/transforms-3/f96124a25cda61641cb5202dfe20aa6c/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/kemcrawf/.gradle/caches/transforms-3/f96124a25cda61641cb5202dfe20aa6c/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kemcrawf/.gradle/caches/transforms-3/13342e48c9900c79385ba949bd11f1d8/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kemcrawf/.gradle/caches/transforms-3/13342e48c9900c79385ba949bd11f1d8/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kemcrawf/.gradle/caches/transforms-3/db702923da84a8bb6a19d15580918497/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kemcrawf/.gradle/caches/transforms-3/db702923da84a8bb6a19d15580918497/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kemcrawf/.gradle/caches/transforms-3/f2cc339f8258fc49aea028a2f57a003f/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kemcrawf/.gradle/caches/transforms-3/f2cc339f8258fc49aea028a2f57a003f/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kemcrawf/.gradle/caches/transforms-3/065cea934d91442b1ce592f0df1303b6/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kemcrawf/.gradle/caches/transforms-3/065cea934d91442b1ce592f0df1303b6/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/kemcrawf/.gradle/caches/transforms-3/1f9cabcce93d1030fe6f27ecf8c8e328/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/kemcrawf/.gradle/caches/transforms-3/1f9cabcce93d1030fe6f27ecf8c8e328/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kemcrawf/.gradle/caches/transforms-3/db702923da84a8bb6a19d15580918497/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kemcrawf/.gradle/caches/transforms-3/db702923da84a8bb6a19d15580918497/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kemcrawf/.gradle/caches/transforms-3/34d5f6e8ec6947dfc5195b50c96c128f/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kemcrawf/.gradle/caches/transforms-3/34d5f6e8ec6947dfc5195b50c96c128f/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/kemcrawf/.gradle/caches/transforms-3/a6310a148d16dd19ce28b4143ffe09ef/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/kemcrawf/.gradle/caches/transforms-3/a6310a148d16dd19ce28b4143ffe09ef/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/kemcrawf/.gradle/caches/transforms-3/f96124a25cda61641cb5202dfe20aa6c/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/kemcrawf/.gradle/caches/transforms-3/f96124a25cda61641cb5202dfe20aa6c/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/kemcrawf/.gradle/caches/transforms-3/a71305aec5a3176043737657c7946832/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/kemcrawf/.gradle/caches/transforms-3/a71305aec5a3176043737657c7946832/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/kemcrawf/.gradle/caches/transforms-3/1f9cabcce93d1030fe6f27ecf8c8e328/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/kemcrawf/.gradle/caches/transforms-3/1f9cabcce93d1030fe6f27ecf8c8e328/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kemcrawf/.gradle/caches/transforms-3/34d5f6e8ec6947dfc5195b50c96c128f/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kemcrawf/.gradle/caches/transforms-3/34d5f6e8ec6947dfc5195b50c96c128f/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.1.0] /Users/kemcrawf/.gradle/caches/transforms-3/90c20208187e22e673417259ab2b006e/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.customview:customview:1.1.0] /Users/kemcrawf/.gradle/caches/transforms-3/90c20208187e22e673417259ab2b006e/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.transition:transition:1.4.1] /Users/kemcrawf/.gradle/caches/transforms-3/2f65ea1394a80bf9bb353c97c1e3f2cc/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
@@ -247,16 +261,14 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kemcrawf/.gradle/cac
 MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kemcrawf/.gradle/caches/transforms-3/c1d1798042789c7b5ad5872e510b42c7/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.tracing:tracing:1.0.0] /Users/kemcrawf/.gradle/caches/transforms-3/e9a3ad4c87e97e1ab6ecf6fcc60c5ea5/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.tracing:tracing:1.0.0] /Users/kemcrawf/.gradle/caches/transforms-3/e9a3ad4c87e97e1ab6ecf6fcc60c5ea5/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kemcrawf/.gradle/caches/transforms-3/41cdbb7cb5579445dccba5278717e113/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kemcrawf/.gradle/caches/transforms-3/41cdbb7cb5579445dccba5278717e113/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/kemcrawf/.gradle/caches/transforms-3/13342e48c9900c79385ba949bd11f1d8/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/kemcrawf/.gradle/caches/transforms-3/13342e48c9900c79385ba949bd11f1d8/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kemcrawf/.gradle/caches/transforms-3/20c38d89af753b7881c3e5996bde9d8f/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kemcrawf/.gradle/caches/transforms-3/20c38d89af753b7881c3e5996bde9d8f/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kemcrawf/.gradle/caches/transforms-3/9b320fe426c215eb95a2c6265eb3f53f/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kemcrawf/.gradle/caches/transforms-3/9b320fe426c215eb95a2c6265eb3f53f/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] /Users/kemcrawf/.gradle/caches/transforms-3/7389067ffb51bca4b392df07e21a7dca/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] /Users/kemcrawf/.gradle/caches/transforms-3/7389067ffb51bca4b392df07e21a7dca/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kemcrawf/.gradle/caches/transforms-3/41cdbb7cb5579445dccba5278717e113/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kemcrawf/.gradle/caches/transforms-3/41cdbb7cb5579445dccba5278717e113/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/kemcrawf/.gradle/caches/transforms-3/8cb23d5fa90798ae7eb0ad079f77f639/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/kemcrawf/.gradle/caches/transforms-3/8cb23d5fa90798ae7eb0ad079f77f639/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
 INJECTED from /Users/kemcrawf/Documents/GitHub/CSE-118/Assignment2/app/src/main/AndroidManifest.xml
