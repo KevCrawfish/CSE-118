@@ -1,328 +1,283 @@
-10-10 20:38:12.914 20433 20452 I TestRunner: started: invisible_message_date(edu.ucsc.cse118.assignment2.AdvancedInstrumentedTest)
-10-10 20:38:12.923 20433 20433 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.WorkspaceActivity@eb736a5 in: RESTARTED
-10-10 20:38:12.926   565  1415 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:12.926   565  1415 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:12.926   565  1415 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:12.926   565  1415 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:12.926   565  1415 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:12.926   565  1415 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:12.926   565  1415 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:12.926   565  1415 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:12.926   565  1415 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:12.926   565  1415 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:12.926   565  1415 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:12.926   565  1415 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:12.926   565  1415 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:12.926   565  1415 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:12.926   565  1415 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:12.926   565  1415 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:12.926   565  1415 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:12.926   565  1415 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:12.926   565  1415 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:12.926   565  1415 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:12.936 20433 20452 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
-10-10 20:38:12.947 16350 16350 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=66, right=0, bottom=44}
-10-10 20:38:12.948 16350 16350 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=66, right=0, bottom=44}
-10-10 20:38:12.951   365   365 D goldfish-address-space: claimShared: Ask to claim region [0x1e9284000 0x1e9c28000]
-10-10 20:38:12.956   365   425 D goldfish-address-space: claimShared: Ask to claim region [0x1e9c28000 0x1ea5cc000]
-10-10 20:38:12.962   365   365 D goldfish-address-space: claimShared: Ask to claim region [0x1ec9a4000 0x1ed348000]
-10-10 20:38:12.963   365   365 D goldfish-address-space: claimShared: Ask to claim region [0x1ed348000 0x1edcec000]
-10-10 20:38:12.964   365   425 D goldfish-address-space: claimShared: Ask to claim region [0x1edcec000 0x1ee690000]
-10-10 20:38:12.964   365   425 D goldfish-address-space: claimShared: Ask to claim region [0x1f09a4000 0x1f1348000]
-10-10 20:38:12.991  1166  1208 D QuickstepModelDelegate: notifyAppTargetEvent action=1 launchLocation=
-10-10 20:38:13.008   863   942 D SplashScreenView: Build android.window.SplashScreenView{75aeafb V.E...... ......ID 0,0-0,0}
-10-10 20:38:13.008   863   942 D SplashScreenView: Icon: view: null drawable: null size: 0
-10-10 20:38:13.008   863   942 D SplashScreenView: Branding: view: android.view.View{e70b718 G.ED..... ......I. 0,0-0,0 #10204a9 android:id/splashscreen_branding_view} drawable: null size w: 0 h: 0
-10-10 20:38:13.030  1694  1694 I GsaVoiceInteractionSrv: Handling ACTION_START_HOTWORD
-10-10 20:38:13.030  1694  1694 I GsaVoiceInteractionSrv: disregardVoiceMatch: false
-10-10 20:38:13.030  1694  1694 I GsaVoiceInteractionSrv: Cannot start hotword, hotword has been explicitly disabled.
-10-10 20:38:13.032   565  1415 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.032   565  1415 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.032   565  1415 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.032   565  1415 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.032   565  1415 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.032   565  1415 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.032   565  1415 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.032   565  1415 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.032   565  1415 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.032   565  1415 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.034   565  1415 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.034   565  1415 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.034   565  1415 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.034   565  1415 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.034   565  1415 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.034   565  1415 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.034   565  1415 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.034   565  1415 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.034   565  1415 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.034   565  1415 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.041 20433 20433 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.WorkspaceActivity@eb736a5 in: DESTROYED
-10-10 20:38:13.041 20433 20433 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=edu.ucsc.cse118.assignment2/.MainActivity }, activity.getIntent()=Intent { cmp=edu.ucsc.cse118.assignment2/.WorkspaceActivity }, activity=edu.ucsc.cse118.assignment2.WorkspaceActivity@eb736a5
-10-10 20:38:13.054   565   849 W InputManager-JNI: Input channel object '64eeffc edu.ucsc.cse118.assignment2/edu.ucsc.cse118.assignment2.WorkspaceActivity (client)' was disposed without first being removed with the input manager!
-10-10 20:38:13.057   365   425 D goldfish-address-space: claimShared: Ask to claim region [0x1f1348000 0x1f1cec000]
-10-10 20:38:13.070   365   425 D goldfish-address-space: claimShared: Ask to claim region [0x1ec000000 0x1ec9a4000]
-10-10 20:38:13.074   365   365 D goldfish-address-space: claimShared: Ask to claim region [0x1ec9a4000 0x1ed348000]
-10-10 20:38:13.076   863  1045 D EglHelper: createEglContext start
-10-10 20:38:13.084   863  1045 D EGL_emulation: eglCreateContext: 0xb400006f69a41350: maj 3 min 0 rcv 3
-10-10 20:38:13.084   863  1045 D EglHelper: createEglContext done
-10-10 20:38:13.085   863  1045 D EglHelper: createEglSurface start
-10-10 20:38:13.086   365   365 D goldfish-address-space: claimShared: Ask to claim region [0x1ea5cc000 0x1ea968000]
-10-10 20:38:13.094   863  1045 D EglHelper: createEglSurface done
-10-10 20:38:13.100  1694  1694 I GsaVoiceInteractionSrv: Handling ACTION_STOP_HOTWORD
-10-10 20:38:13.102  1694  1694 E HwDetectorWithState: a: 3
-10-10 20:38:13.107 16350 16350 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=66, right=0, bottom=44}
-10-10 20:38:13.108 16350 16350 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=66, right=0, bottom=44}
-10-10 20:38:13.132   565  2064 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.132   565  2064 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.132   565  2064 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.132   565  2064 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.132   565  2064 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.132   565  2064 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.132   565  2064 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.132   565  2064 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.132   565  2064 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.132   565  2064 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.133   565  2064 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.133   565  2064 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.133   565  2064 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.133   565  2064 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.133   565  2064 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.133   565  2064 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.133   565  2064 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.133   565  2064 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.133   565  2064 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.133   565  2064 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.142 20433 20433 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.MainActivity@ae9d3bb in: PRE_ON_CREATE
-10-10 20:38:13.142 20433 20433 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
-10-10 20:38:13.146   565  2077 W InputManager-JNI: Input channel object '5363390 edu.ucsc.cse118.assignment2.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity (client)' was disposed without first being removed with the input manager!
-10-10 20:38:13.161 20433 20433 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.MainActivity@ae9d3bb in: CREATED
-10-10 20:38:13.161 20433 20433 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=edu.ucsc.cse118.assignment2.MainActivity@ae9d3bb
-10-10 20:38:13.162 20433 20433 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.MainActivity@ae9d3bb in: STARTED
-10-10 20:38:13.162 20433 20433 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=edu.ucsc.cse118.assignment2.MainActivity@ae9d3bb
-10-10 20:38:13.163 20433 20433 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.MainActivity@ae9d3bb in: RESUMED
-10-10 20:38:13.163 20433 20433 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=edu.ucsc.cse118.assignment2.MainActivity@ae9d3bb
-10-10 20:38:13.179   365   365 D goldfish-address-space: claimShared: Ask to claim region [0x1e9284000 0x1e9c28000]
-10-10 20:38:13.182   365   365 D goldfish-address-space: claimShared: Ask to claim region [0x1ed348000 0x1edcec000]
-10-10 20:38:13.188   365   365 D goldfish-address-space: claimShared: Ask to claim region [0x1edcec000 0x1ee690000]
-10-10 20:38:13.205   365   365 D goldfish-address-space: claimShared: Ask to claim region [0x1ee690000 0x1eea2c000]
-10-10 20:38:13.207   565   606 I ActivityTaskManager: Displayed edu.ucsc.cse118.assignment2/.MainActivity: +228ms
-10-10 20:38:13.211 20433 20433 D RootViewPicker: Root not ready - waiting: 10ms for one to appear.
-10-10 20:38:13.221   565  2064 W InputManager-JNI: Input channel object '462b9f0 Splash Screen edu.ucsc.cse118.assignment2.test (client)' was disposed without first being removed with the input manager!
-10-10 20:38:13.226  1570  1570 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3269
-10-10 20:38:13.229  1570  1570 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1947
-10-10 20:38:13.230  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
-10-10 20:38:13.256 20433 20433 I ViewInteraction: Performing 'single click' action on view ((view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle) and (an instance of android.widget.TextView and view.getText() with or without transformation to match: is "LOGIN" or (view.getParent() is assignable from class <class com.google.android.material.textfield.TextInputLayout> and (view is an instance of android.view.ViewGroup and has descendant matching an instance of android.widget.TextView and view.getText() with or without transformation to match: is "LOGIN"))))
-10-10 20:38:13.259  1166  1166 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=560.5, y[0]=1660.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=21016758, downTime=21016758, deviceId=-1, source=0x1002, displayId=0, eventId=-182146494 }
-10-10 20:38:13.300  1166  1166 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=560.5, y[0]=1660.5, toolType[0]=TOOL_TYPE_FINGER, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=21016799, downTime=21016758, deviceId=-1, source=0x1002, displayId=0, eventId=-916566890 }
-10-10 20:38:13.307 20433 20433 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.MainActivity@ae9d3bb in: PAUSED
-10-10 20:38:13.307 20433 20433 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=edu.ucsc.cse118.assignment2.MainActivity@ae9d3bb
-10-10 20:38:13.307   565  2064 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.307   565  2064 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.307   565  2064 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.307   565  2064 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.307   565  2064 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.307   565  2064 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.307   565  2064 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.307   565  2064 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.307   565  2064 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.307   565  2064 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.308   565  2064 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.308   565  2064 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.308   565  2064 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.308   565  2064 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.308   565  2064 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.308   565  2064 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.308   565  2064 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.308   565  2064 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.308   565  2064 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.308   565  2064 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.314   354   474 E android.hardware.audio@7.0-impl.ranchu: device/generic/goldfish/audio/stream_out.cpp:updateSourceMetadata:377 failure: Result::NOT_SUPPORTED
-10-10 20:38:13.321 20433 20433 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.WorkspaceActivity@129598 in: PRE_ON_CREATE
-10-10 20:38:13.321 20433 20433 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=edu.ucsc.cse118.assignment2/.MainActivity }, activity.getIntent()=Intent { cmp=edu.ucsc.cse118.assignment2/.WorkspaceActivity }, activity=edu.ucsc.cse118.assignment2.WorkspaceActivity@129598
-10-10 20:38:13.331 20433 20433 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.WorkspaceActivity@129598 in: CREATED
-10-10 20:38:13.331 20433 20433 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=edu.ucsc.cse118.assignment2/.MainActivity }, activity.getIntent()=Intent { cmp=edu.ucsc.cse118.assignment2/.WorkspaceActivity }, activity=edu.ucsc.cse118.assignment2.WorkspaceActivity@129598
-10-10 20:38:13.332 20433 20433 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.WorkspaceActivity@129598 in: STARTED
-10-10 20:38:13.333 20433 20433 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=edu.ucsc.cse118.assignment2/.MainActivity }, activity.getIntent()=Intent { cmp=edu.ucsc.cse118.assignment2/.WorkspaceActivity }, activity=edu.ucsc.cse118.assignment2.WorkspaceActivity@129598
-10-10 20:38:13.333 20433 20433 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.WorkspaceActivity@129598 in: RESUMED
-10-10 20:38:13.334 20433 20433 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=edu.ucsc.cse118.assignment2/.MainActivity }, activity.getIntent()=Intent { cmp=edu.ucsc.cse118.assignment2/.WorkspaceActivity }, activity=edu.ucsc.cse118.assignment2.WorkspaceActivity@129598
-10-10 20:38:13.344   365   365 D goldfish-address-space: claimShared: Ask to claim region [0x1eea2c000 0x1ef3d0000]
-10-10 20:38:13.346   365   365 D goldfish-address-space: claimShared: Ask to claim region [0x1ec000000 0x1ec9a4000]
-10-10 20:38:13.346   365   365 D goldfish-address-space: claimShared: Ask to claim region [0x1ec9a4000 0x1ed348000]
-10-10 20:38:13.362   565   606 I ActivityTaskManager: Displayed edu.ucsc.cse118.assignment2/.WorkspaceActivity: +60ms
-10-10 20:38:13.387 20433 20433 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.MainActivity@ae9d3bb in: STOPPED
-10-10 20:38:13.387 20433 20433 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=edu.ucsc.cse118.assignment2.MainActivity@ae9d3bb
-10-10 20:38:13.389  1570  1570 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3269
-10-10 20:38:13.390  1570  1570 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1947
-10-10 20:38:13.390  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
-10-10 20:38:13.447   354   474 E android.hardware.audio@7.0-impl.ranchu: device/generic/goldfish/audio/stream_out.cpp:updateSourceMetadata:377 failure: Result::NOT_SUPPORTED
-10-10 20:38:13.624 20433 20433 I ViewInteraction: Performing 'single click' action on view ((view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle) and (an instance of android.widget.TextView and view.getText() with or without transformation to match: is "CSE118 Fall 22" or (view.getParent() is assignable from class <class com.google.android.material.textfield.TextInputLayout> and (view is an instance of android.view.ViewGroup and has descendant matching an instance of android.widget.TextView and view.getText() with or without transformation to match: is "CSE118 Fall 22"))))
-10-10 20:38:13.627  1166  1166 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=206.0, y[0]=278.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=21017126, downTime=21017126, deviceId=-1, source=0x1002, displayId=0, eventId=-788585293 }
-10-10 20:38:13.667  1166  1166 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=206.0, y[0]=278.5, toolType[0]=TOOL_TYPE_FINGER, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=21017167, downTime=21017126, deviceId=-1, source=0x1002, displayId=0, eventId=-980130724 }
-10-10 20:38:13.854   565   575 I system_server: NativeAlloc concurrent copying GC freed 188492(8986KB) AllocSpace objects, 31(3588KB) LOS objects, 49% free, 21MB/43MB, paused 37us,67us total 103.327ms
-10-10 20:38:13.901 20433 20433 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.WorkspaceActivity@129598 in: PAUSED
-10-10 20:38:13.901 20433 20433 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=edu.ucsc.cse118.assignment2/.MainActivity }, activity.getIntent()=Intent { cmp=edu.ucsc.cse118.assignment2/.WorkspaceActivity }, activity=edu.ucsc.cse118.assignment2.WorkspaceActivity@129598
-10-10 20:38:13.902   565  2064 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.902   565  2064 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.902   565  2064 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.902   565  2064 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.902   565  2064 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.902   565  2064 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.902   565  2064 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.902   565  2064 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.902   565  2064 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.902   565  2064 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.902   565  2064 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.902   565  2064 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.902   565  2064 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.902   565  2064 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.902   565  2064 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.902   565  2064 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.902   565  2064 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.902   565  2064 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.902   565  2064 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.902   565  2064 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.911 20433 20433 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.MainActivity@ae9d3bb in: DESTROYED
-10-10 20:38:13.911 20433 20433 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
-10-10 20:38:13.913   565   937 W InputManager-JNI: Input channel object 'e7d0a5a edu.ucsc.cse118.assignment2/edu.ucsc.cse118.assignment2.MainActivity (client)' was disposed without first being removed with the input manager!
-10-10 20:38:13.920   365   365 D goldfish-address-space: claimShared: Ask to claim region [0x1e9284000 0x1e9c28000]
-10-10 20:38:13.922   365   365 D goldfish-address-space: claimShared: Ask to claim region [0x1ed348000 0x1edcec000]
-10-10 20:38:13.922   365   365 D goldfish-address-space: claimShared: Ask to claim region [0x1edcec000 0x1ee690000]
-10-10 20:38:13.938   565  2077 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.938   565  2077 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.938   565  2077 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.938   565  2077 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.938   565  2077 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.938   565  2077 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.938   565  2077 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.938   565  2077 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.938   565  2077 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.938   565  2077 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.938   565  2077 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.938   565  2077 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.938   565  2077 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.938   565  2077 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.938   565  2077 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.938   565  2077 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.938   565  2077 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.938   565  2077 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.938   565  2077 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.938   565  2077 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
-10-10 20:38:13.949 20433 20452 E TestRunner: failed: invisible_message_date(edu.ucsc.cse118.assignment2.AdvancedInstrumentedTest)
-10-10 20:38:13.949 20433 20452 E TestRunner: ----- begin exception -----
-10-10 20:38:13.950 20433 20452 E TestRunner: com.adevinta.android.barista.internal.failurehandler.BaristaException: Could not perform action single click on view (an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Assignment 2" or (view.getParent() is assignable from class <class com.google.android.material.textfield.TextInputLayout> and (view is an instance of android.view.ViewGroup and has descendant matching an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Assignment 2")))
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at com.adevinta.android.barista.internal.failurehandler.SpyFailureHandler.resendFirstError(SpyFailureHandler.kt:25)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at com.adevinta.android.barista.internal.PerformActionKt.performActionOnView(PerformAction.kt:50)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at com.adevinta.android.barista.internal.PerformActionKt.performAction(PerformAction.kt:26)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at com.adevinta.android.barista.interaction.BaristaClickInteractions.clickOn(BaristaClickInteractions.kt:24)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at edu.ucsc.cse118.assignment2.AdvancedInstrumentedTest.goToChannel(AdvancedInstrumentedTest.kt:31)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at edu.ucsc.cse118.assignment2.AdvancedInstrumentedTest.invisible_message_date(AdvancedInstrumentedTest.kt:102)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at java.lang.reflect.Method.invoke(Native Method)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at org.junit.rules.ExternalResource$1.evaluate(ExternalResource.java:54)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at androidx.test.ext.junit.runners.AndroidJUnit4.run(AndroidJUnit4.java:162)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:128)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:27)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at androidx.test.internal.runner.TestExecutor.execute(TestExecutor.java:56)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at androidx.test.runner.AndroidJUnitRunner.onStart(AndroidJUnitRunner.java:444)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:2278)
-10-10 20:38:13.950 20433 20452 E TestRunner: Caused by: androidx.test.espresso.NoMatchingViewException: No views in hierarchy found matching: ((view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle) and (an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Assignment 2" or (view.getParent() is assignable from class <class com.google.android.material.textfield.TextInputLayout> and (view is an instance of android.view.ViewGroup and has descendant matching an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Assignment 2"))))
-10-10 20:38:13.950 20433 20452 E TestRunner:
-10-10 20:38:13.950 20433 20452 E TestRunner: View Hierarchy:
-10-10 20:38:13.950 20433 20452 E TestRunner: +>DecorView{id=-1, visibility=VISIBLE, width=1080, height=2340, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params={(0,0)(fillxfill) ty=BASE_APPLICATION wanim=0x10302fe
-10-10 20:38:13.950 20433 20452 E TestRunner:   fl=LAYOUT_IN_SCREEN LAYOUT_INSET_DECOR SPLIT_TOUCH HARDWARE_ACCELERATED DRAWS_SYSTEM_BAR_BACKGROUNDS
-10-10 20:38:13.950 20433 20452 E TestRunner:   pfl=NO_MOVE_ANIMATION FORCE_DRAW_STATUS_BAR_BACKGROUND FIT_INSETS_CONTROLLED
-10-10 20:38:13.950 20433 20452 E TestRunner:   bhv=DEFAULT
-10-10 20:38:13.950 20433 20452 E TestRunner:   fitSides=}, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
-10-10 20:38:13.950 20433 20452 E TestRunner: |
-10-10 20:38:13.950 20433 20452 E TestRunner: +->LinearLayout{id=-1, visibility=VISIBLE, width=1080, height=2296, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@1a6430e, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
-10-10 20:38:13.950 20433 20452 E TestRunner: |
-10-10 20:38:13.950 20433 20452 E TestRunner: +-->ViewStub{id=16908723, res-name=action_mode_bar_stub, visibility=GONE, width=0, height=0, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=true, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@70d012f, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
-10-10 20:38:13.950 20433 20452 E TestRunner: |
-10-10 20:38:13.950 20433 20452 E TestRunner: +-->FrameLayout{id=-1, visibility=VISIBLE, width=1080, height=2230, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@8a5d8c5, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=66.0, child-count=1}
-10-10 20:38:13.950 20433 20452 E TestRunner: |
-10-10 20:38:13.950 20433 20452 E TestRunner: +--->ActionBarOverlayLayout{id=2131230865, res-name=decor_content_parent, visibility=VISIBLE, width=1080, height=2230, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@7a81728, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
-10-10 20:38:13.950 20433 20452 E TestRunner: |
-10-10 20:38:13.950 20433 20452 E TestRunner: +---->ContentFrameLayout{id=16908290, res-name=content, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.ActionBarOverlayLayout$LayoutParams@d0ba5e6, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=154.0, child-count=1}
-10-10 20:38:13.950 20433 20452 E TestRunner: |
-10-10 20:38:13.950 20433 20452 E TestRunner: +----->ConstraintLayout{id=-1, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@6fb7dd4, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=1}
-10-10 20:38:13.950 20433 20452 E TestRunner: |
-10-10 20:38:13.950 20433 20452 E TestRunner: +------>RecyclerView{id=2131231061, res-name=recyclerview, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@b7ca340, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
-10-10 20:38:13.950 20433 20452 E TestRunner: |
-10-10 20:38:13.950 20433 20452 E TestRunner: +------->CardView{id=-1, visibility=VISIBLE, width=1058, height=165, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@2af8bbe, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, child-count=1}
-10-10 20:38:13.950 20433 20452 E TestRunner: |
-10-10 20:38:13.950 20433 20452 E TestRunner: +-------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=165, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@3877d35, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
-10-10 20:38:13.950 20433 20452 E TestRunner: |
-10-10 20:38:13.950 20433 20452 E TestRunner: +--------->MaterialTextView{id=2131231015, res-name=name, visibility=VISIBLE, width=369, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@4d4a5ca, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=CSE118 Fall 22, input-type=0, ime-target=false, has-links=false}
-10-10 20:38:13.950 20433 20452 E TestRunner: |
-10-10 20:38:13.950 20433 20452 E TestRunner: +--------->MaterialTextView{id=2131230831, res-name=channels, visibility=VISIBLE, width=218, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@d4a533b, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=3 Channels, input-type=0, ime-target=false, has-links=false}
-10-10 20:38:13.950 20433 20452 E TestRunner: |
-10-10 20:38:13.950 20433 20452 E TestRunner: +------->CardView{id=-1, visibility=VISIBLE, width=1058, height=165, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@ebfb7b1, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=198.0, child-count=1}
-10-10 20:38:13.950 20433 20452 E TestRunner: |
-10-10 20:38:13.950 20433 20452 E TestRunner: +-------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=165, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@e40404, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
-10-10 20:38:13.950 20433 20452 E TestRunner: |
-10-10 20:38:13.950 20433 20452 E TestRunner: +--------->MaterialTextView{id=2131231015, res-name=name, visibility=VISIBLE, width=335, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@9671ded, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=No Messages, input-type=0, ime-target=false, has-links=false}
-10-10 20:38:13.950 20433 20452 E TestRunner: |
-10-10 20:38:13.950 20433 20452 E TestRunner: +--------->MaterialTextView{id=2131230831, res-name=channels, visibility=VISIBLE, width=218, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@e542422, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=2 Channels, input-type=0, ime-target=false, has-links=false}
-10-10 20:38:13.950 20433 20452 E TestRunner: |
-10-10 20:38:13.950 20433 20452 E TestRunner: +------->CardView{id=-1, visibility=VISIBLE, width=1058, height=165, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@39f5c70, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=385.0, child-count=1}
-10-10 20:38:13.950 20433 20452 E TestRunner: |
-10-10 20:38:13.950 20433 20452 E TestRunner: +-------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=165, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@142c30f, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
-10-10 20:38:13.950 20433 20452 E TestRunner: |
-10-10 20:38:13.950 20433 20452 E TestRunner: +--------->MaterialTextView{id=2131231015, res-name=name, visibility=VISIBLE, width=310, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@d75cf9c, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=No Channels, input-type=0, ime-target=false, has-links=false}
-10-10 20:38:13.950 20433 20452 E TestRunner: |
-10-10 20:38:13.950 20433 20452 E TestRunner: +--------->MaterialTextView{id=2131230831, res-name=channels, visibility=VISIBLE, width=218, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@f131da5, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=0 Channels, input-type=0, ime-target=false, has-links=false}
-10-10 20:38:13.950 20433 20452 E TestRunner: |
-10-10 20:38:13.950 20433 20452 E TestRunner: +---->ActionBarContainer{id=2131230773, res-name=action_bar_container, visibility=VISIBLE, width=1080, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.ActionBarOverlayLayout$LayoutParams@2de4988, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
-10-10 20:38:13.950 20433 20452 E TestRunner: |
-10-10 20:38:13.950 20433 20452 E TestRunner: +----->Toolbar{id=2131230771, res-name=action_bar, visibility=VISIBLE, width=1080, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@3960507, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
-10-10 20:38:13.950 20433 20452 E TestRunner: |
-10-10 20:38:13.950 20433 20452 E TestRunner: +------>AppCompatTextView{id=-1, visibility=VISIBLE, width=560, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.Toolbar$LayoutParams@6d27634, tag=null, root-is-layout-requested=false, has-input-connection=false, x=44.0, y=40.0, text=CSE118 Assignment 2, input-type=0, ime-target=false, has-links=false}
-10-10 20:38:13.950 20433 20452 E TestRunner: |
-10-10 20:38:13.950 20433 20452 E TestRunner: +------>ActionMenuView{id=-1, visibility=VISIBLE, width=0, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.Toolbar$LayoutParams@7d85c5d, tag=null, root-is-layout-requested=false, has-input-connection=false, x=1080.0, y=0.0, child-count=0}
-10-10 20:38:13.950 20433 20452 E TestRunner: |
-10-10 20:38:13.950 20433 20452 E TestRunner: +----->ActionBarContextView{id=2131230779, res-name=action_context_bar, visibility=GONE, width=0, height=0, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=true, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@31d9d2, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=0}
-10-10 20:38:13.950 20433 20452 E TestRunner: |
-10-10 20:38:13.950 20433 20452 E TestRunner: +->View{id=16908336, res-name=navigationBarBackground, visibility=VISIBLE, width=1080, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@3eaa3, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=2296.0}
-10-10 20:38:13.950 20433 20452 E TestRunner: |
-10-10 20:38:13.950 20433 20452 E TestRunner: +->View{id=16908335, res-name=statusBarBackground, visibility=VISIBLE, width=1080, height=66, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@3ac1a0, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at androidx.test.espresso.NoMatchingViewException$Builder.build(NoMatchingViewException.java:5)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at androidx.test.espresso.base.ViewFinderImpl.getView(ViewFinderImpl.java:26)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at androidx.test.espresso.ViewInteraction.doPerform(ViewInteraction.java:4)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at androidx.test.espresso.ViewInteraction.access$100(ViewInteraction.java:1)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at androidx.test.espresso.ViewInteraction$1.call(ViewInteraction.java:2)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at androidx.test.espresso.ViewInteraction$1.call(ViewInteraction.java:1)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at android.os.Handler.handleCallback(Handler.java:938)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at android.os.Handler.dispatchMessage(Handler.java:99)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at android.os.Looper.loopOnce(Looper.java:201)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at android.os.Looper.loop(Looper.java:288)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at android.app.ActivityThread.main(ActivityThread.java:7842)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at java.lang.reflect.Method.invoke(Native Method)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:548)
-10-10 20:38:13.950 20433 20452 E TestRunner: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1003)
-10-10 20:38:13.950 20433 20452 E TestRunner: ----- end exception -----
-10-10 20:38:13.953 20433 20452 I TestRunner: finished: invisible_message_date(edu.ucsc.cse118.assignment2.AdvancedInstrumentedTest)
+10-10 20:51:16.758 22255 22276 I TestRunner: started: invisible_message_date(edu.ucsc.cse118.assignment2.AdvancedInstrumentedTest)
+10-10 20:51:16.762 22255 22276 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+10-10 20:51:16.771   863   942 D SplashScreenView: Build android.window.SplashScreenView{f96ff37 V.E...... ......ID 0,0-0,0}
+10-10 20:51:16.771   863   942 D SplashScreenView: Icon: view: null drawable: null size: 0
+10-10 20:51:16.771   863   942 D SplashScreenView: Branding: view: android.view.View{979ca4 G.ED..... ......I. 0,0-0,0 #10204a9 android:id/splashscreen_branding_view} drawable: null size w: 0 h: 0
+10-10 20:51:16.778   565  1635 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.778   565  1635 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.778   565  1635 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.778   565  1635 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.778   565  1635 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.778   565  1635 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.778   565  1635 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.778   565  1635 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.778   565  1635 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.778   565  1635 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.778   565  1635 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.778   565  1635 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.778   565  1635 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.778   565  1635 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.778   565  1635 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.778   565  1635 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.778   565  1635 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.778   565  1635 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.778   565  1635 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.778   565  1635 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.788   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1e8000000 0x1e89a4000]
+10-10 20:51:16.796   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1e95fc000 0x1e9fa0000]
+10-10 20:51:16.796   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1e9fa0000 0x1ea944000]
+10-10 20:51:16.800   565  1635 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.800   565  1635 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.800   565  1635 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.800   565  1635 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.800   565  1635 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.800   565  1635 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.800   565  1635 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.800   565  1635 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.800   565  1635 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.800   565  1635 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.800   565  1635 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.800   565  1635 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.800   565  1635 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.800   565  1635 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.800   565  1635 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.800   565  1635 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.800   565  1635 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.800   565  1635 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.800   565  1635 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.800   565  1635 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.808 22255 22255 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.MainActivity@2b1cfa7 in: PRE_ON_CREATE
+10-10 20:51:16.808 22255 22255 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+10-10 20:51:16.831 22255 22255 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.MainActivity@2b1cfa7 in: CREATED
+10-10 20:51:16.831 22255 22255 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=edu.ucsc.cse118.assignment2.MainActivity@2b1cfa7
+10-10 20:51:16.832 22255 22255 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.MainActivity@2b1cfa7 in: STARTED
+10-10 20:51:16.832 22255 22255 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=edu.ucsc.cse118.assignment2.MainActivity@2b1cfa7
+10-10 20:51:16.833 22255 22255 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.MainActivity@2b1cfa7 in: RESUMED
+10-10 20:51:16.833 22255 22255 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=edu.ucsc.cse118.assignment2.MainActivity@2b1cfa7
+10-10 20:51:16.850 16350 16350 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=66, right=0, bottom=44}
+10-10 20:51:16.850 16350 16350 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=66, right=0, bottom=44}
+10-10 20:51:16.861   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1ec9a4000 0x1ed348000]
+10-10 20:51:16.868   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1ed348000 0x1edcec000]
+10-10 20:51:16.868   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1edcec000 0x1ee690000]
+10-10 20:51:16.880  1694  1694 I GsaVoiceInteractionSrv: Handling ACTION_STOP_HOTWORD
+10-10 20:51:16.880  1694  1694 E HwDetectorWithState: a: 3
+10-10 20:51:16.885   565   606 I ActivityTaskManager: Displayed edu.ucsc.cse118.assignment2/.MainActivity: +117ms
+10-10 20:51:16.887   565  2031 W InputManager-JNI: Input channel object 'cb4d731 Splash Screen edu.ucsc.cse118.assignment2.test (client)' was disposed without first being removed with the input manager!
+10-10 20:51:16.889 22255 22255 D RootViewPicker: Root not ready - waiting: 10ms for one to appear.
+10-10 20:51:16.926 22255 22255 I ViewInteraction: Performing 'single click' action on view ((view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle) and (an instance of android.widget.TextView and view.getText() with or without transformation to match: is "LOGIN" or (view.getParent() is assignable from class <class com.google.android.material.textfield.TextInputLayout> and (view is an instance of android.view.ViewGroup and has descendant matching an instance of android.widget.TextView and view.getText() with or without transformation to match: is "LOGIN"))))
+10-10 20:51:16.931  1166  1166 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=560.5, y[0]=1660.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=21800427, downTime=21800427, deviceId=-1, source=0x1002, displayId=0, eventId=-234129107 }
+10-10 20:51:16.963  1570  1570 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3269
+10-10 20:51:16.963  1570  1570 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1947
+10-10 20:51:16.964  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-10 20:51:16.970  1166  1166 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=560.5, y[0]=1660.5, toolType[0]=TOOL_TYPE_FINGER, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=21800467, downTime=21800427, deviceId=-1, source=0x1002, displayId=0, eventId=-1016239407 }
+10-10 20:51:16.974 22255 22255 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.MainActivity@2b1cfa7 in: PAUSED
+10-10 20:51:16.975 22255 22255 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=edu.ucsc.cse118.assignment2.MainActivity@2b1cfa7
+10-10 20:51:16.975   565  1200 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.975   565  1200 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.975   565  1200 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.975   565  1200 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.975   565  1200 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.975   565  1200 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.975   565  1200 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.975   565  1200 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.975   565  1200 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.975   565  1200 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.975   565  1200 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.975   565  1200 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.975   565  1200 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.975   565  1200 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.975   565  1200 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.975   565  1200 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.975   565  1200 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.975   565  1200 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.975   565  1200 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.975   565  1200 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:16.989 22255 22255 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.WorkspaceActivity@d589d14 in: PRE_ON_CREATE
+10-10 20:51:16.989 22255 22255 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=edu.ucsc.cse118.assignment2/.MainActivity }, activity.getIntent()=Intent { cmp=edu.ucsc.cse118.assignment2/.WorkspaceActivity }, activity=edu.ucsc.cse118.assignment2.WorkspaceActivity@d589d14
+10-10 20:51:16.990   354   474 E android.hardware.audio@7.0-impl.ranchu: device/generic/goldfish/audio/stream_out.cpp:updateSourceMetadata:377 failure: Result::NOT_SUPPORTED
+10-10 20:51:17.001 22255 22255 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.WorkspaceActivity@d589d14 in: CREATED
+10-10 20:51:17.001 22255 22255 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=edu.ucsc.cse118.assignment2/.MainActivity }, activity.getIntent()=Intent { cmp=edu.ucsc.cse118.assignment2/.WorkspaceActivity }, activity=edu.ucsc.cse118.assignment2.WorkspaceActivity@d589d14
+10-10 20:51:17.002 22255 22255 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.WorkspaceActivity@d589d14 in: STARTED
+10-10 20:51:17.002 22255 22255 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=edu.ucsc.cse118.assignment2/.MainActivity }, activity.getIntent()=Intent { cmp=edu.ucsc.cse118.assignment2/.WorkspaceActivity }, activity=edu.ucsc.cse118.assignment2.WorkspaceActivity@d589d14
+10-10 20:51:17.002 22255 22255 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.WorkspaceActivity@d589d14 in: RESUMED
+10-10 20:51:17.002 22255 22255 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=edu.ucsc.cse118.assignment2/.MainActivity }, activity.getIntent()=Intent { cmp=edu.ucsc.cse118.assignment2/.WorkspaceActivity }, activity=edu.ucsc.cse118.assignment2.WorkspaceActivity@d589d14
+10-10 20:51:17.011   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1e8000000 0x1e89a4000]
+10-10 20:51:17.021   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1e95fc000 0x1e9fa0000]
+10-10 20:51:17.022   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1e9fa0000 0x1ea944000]
+10-10 20:51:17.034   565   606 I ActivityTaskManager: Displayed edu.ucsc.cse118.assignment2/.WorkspaceActivity: +59ms
+10-10 20:51:17.045 22255 22255 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.MainActivity@2b1cfa7 in: STOPPED
+10-10 20:51:17.045 22255 22255 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=edu.ucsc.cse118.assignment2.MainActivity@2b1cfa7
+10-10 20:51:17.055  1570  1570 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3269
+10-10 20:51:17.055  1570  1570 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1947
+10-10 20:51:17.056  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-10 20:51:17.121   354   474 E android.hardware.audio@7.0-impl.ranchu: device/generic/goldfish/audio/stream_out.cpp:updateSourceMetadata:377 failure: Result::NOT_SUPPORTED
+10-10 20:51:17.277 22255 22255 I ViewInteraction: Performing 'single click' action on view ((view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle) and (an instance of android.widget.TextView and view.getText() with or without transformation to match: is "CSE118 Fall 22" or (view.getParent() is assignable from class <class com.google.android.material.textfield.TextInputLayout> and (view is an instance of android.view.ViewGroup and has descendant matching an instance of android.widget.TextView and view.getText() with or without transformation to match: is "CSE118 Fall 22"))))
+10-10 20:51:17.279  1166  1166 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=206.0, y[0]=278.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=21800778, downTime=21800778, deviceId=-1, source=0x1002, displayId=0, eventId=-723720424 }
+10-10 20:51:17.320  1166  1166 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=206.0, y[0]=278.5, toolType[0]=TOOL_TYPE_FINGER, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=21800819, downTime=21800778, deviceId=-1, source=0x1002, displayId=0, eventId=-482047032 }
+10-10 20:51:17.570 22255 22255 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.WorkspaceActivity@d589d14 in: PAUSED
+10-10 20:51:17.571 22255 22255 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=edu.ucsc.cse118.assignment2/.MainActivity }, activity.getIntent()=Intent { cmp=edu.ucsc.cse118.assignment2/.WorkspaceActivity }, activity=edu.ucsc.cse118.assignment2.WorkspaceActivity@d589d14
+10-10 20:51:17.571   565  1635 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:17.571   565  1635 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:17.571   565  1635 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:17.571   565  1635 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:17.571   565  1635 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:17.571   565  1635 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:17.571   565  1635 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:17.571   565  1635 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:17.571   565  1635 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:17.571   565  1635 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:17.572   565  1635 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:17.572   565  1635 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:17.572   565  1635 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:17.572   565  1635 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:17.572   565  1635 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:17.572   565  1635 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:17.572   565  1635 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:17.572   565  1635 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:17.572   565  1635 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:17.572   565  1635 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:17.593 22255 22255 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment2.MainActivity@2b1cfa7 in: DESTROYED
+10-10 20:51:17.593 22255 22255 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+10-10 20:51:17.593   565   677 W InputManager-JNI: Input channel object '32562aa edu.ucsc.cse118.assignment2/edu.ucsc.cse118.assignment2.MainActivity (client)' was disposed without first being removed with the input manager!
+10-10 20:51:17.609   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1ec000000 0x1ec9a4000]
+10-10 20:51:17.610   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1ec9a4000 0x1ed348000]
+10-10 20:51:17.611   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1ed348000 0x1edcec000]
+10-10 20:51:17.618   565  1635 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:17.618   565  1635 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:17.618   565  1635 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:17.618   565  1635 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:17.618   565  1635 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:17.618   565  1635 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:17.618   565  1635 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:17.618   565  1635 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:17.618   565  1635 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:17.618   565  1635 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:17.619   565  1635 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:17.619   565  1635 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:17.619   565  1635 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:17.619   565  1635 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:17.619   565  1635 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:17.619   565  1635 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:17.619   565  1635 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:17.619   565  1635 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:17.619   565  1635 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:17.619   565  1635 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+10-10 20:51:17.644 22255 22276 E TestRunner: failed: invisible_message_date(edu.ucsc.cse118.assignment2.AdvancedInstrumentedTest)
+10-10 20:51:17.644 22255 22276 E TestRunner: ----- begin exception -----
+10-10 20:51:17.645 22255 22276 E TestRunner: com.adevinta.android.barista.internal.failurehandler.BaristaException: Could not perform action single click on view (an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Assignment 2" or (view.getParent() is assignable from class <class com.google.android.material.textfield.TextInputLayout> and (view is an instance of android.view.ViewGroup and has descendant matching an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Assignment 2")))
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at com.adevinta.android.barista.internal.failurehandler.SpyFailureHandler.resendFirstError(SpyFailureHandler.kt:25)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at com.adevinta.android.barista.internal.PerformActionKt.performActionOnView(PerformAction.kt:50)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at com.adevinta.android.barista.internal.PerformActionKt.performAction(PerformAction.kt:26)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at com.adevinta.android.barista.interaction.BaristaClickInteractions.clickOn(BaristaClickInteractions.kt:24)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at edu.ucsc.cse118.assignment2.AdvancedInstrumentedTest.goToChannel(AdvancedInstrumentedTest.kt:31)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at edu.ucsc.cse118.assignment2.AdvancedInstrumentedTest.invisible_message_date(AdvancedInstrumentedTest.kt:102)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at java.lang.reflect.Method.invoke(Native Method)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at org.junit.rules.ExternalResource$1.evaluate(ExternalResource.java:54)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at androidx.test.ext.junit.runners.AndroidJUnit4.run(AndroidJUnit4.java:162)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:128)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:27)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at androidx.test.internal.runner.TestExecutor.execute(TestExecutor.java:56)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at androidx.test.runner.AndroidJUnitRunner.onStart(AndroidJUnitRunner.java:444)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:2278)
+10-10 20:51:17.645 22255 22276 E TestRunner: Caused by: androidx.test.espresso.NoMatchingViewException: No views in hierarchy found matching: ((view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle) and (an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Assignment 2" or (view.getParent() is assignable from class <class com.google.android.material.textfield.TextInputLayout> and (view is an instance of android.view.ViewGroup and has descendant matching an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Assignment 2"))))
+10-10 20:51:17.645 22255 22276 E TestRunner:
+10-10 20:51:17.645 22255 22276 E TestRunner: View Hierarchy:
+10-10 20:51:17.645 22255 22276 E TestRunner: +>DecorView{id=-1, visibility=VISIBLE, width=1080, height=2340, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params={(0,0)(fillxfill) ty=BASE_APPLICATION wanim=0x10302fe
+10-10 20:51:17.645 22255 22276 E TestRunner:   fl=LAYOUT_IN_SCREEN LAYOUT_INSET_DECOR SPLIT_TOUCH HARDWARE_ACCELERATED DRAWS_SYSTEM_BAR_BACKGROUNDS
+10-10 20:51:17.645 22255 22276 E TestRunner:   pfl=NO_MOVE_ANIMATION FORCE_DRAW_STATUS_BAR_BACKGROUND FIT_INSETS_CONTROLLED
+10-10 20:51:17.645 22255 22276 E TestRunner:   bhv=DEFAULT
+10-10 20:51:17.645 22255 22276 E TestRunner:   fitSides=}, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+10-10 20:51:17.645 22255 22276 E TestRunner: |
+10-10 20:51:17.645 22255 22276 E TestRunner: +->LinearLayout{id=-1, visibility=VISIBLE, width=1080, height=2296, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@e77aa6a, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+10-10 20:51:17.645 22255 22276 E TestRunner: |
+10-10 20:51:17.645 22255 22276 E TestRunner: +-->ViewStub{id=16908723, res-name=action_mode_bar_stub, visibility=GONE, width=0, height=0, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=true, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@6dc0b5b, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
+10-10 20:51:17.645 22255 22276 E TestRunner: |
+10-10 20:51:17.645 22255 22276 E TestRunner: +-->FrameLayout{id=-1, visibility=VISIBLE, width=1080, height=2230, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@8877cd1, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=66.0, child-count=1}
+10-10 20:51:17.645 22255 22276 E TestRunner: |
+10-10 20:51:17.645 22255 22276 E TestRunner: +--->ActionBarOverlayLayout{id=2131230865, res-name=decor_content_parent, visibility=VISIBLE, width=1080, height=2230, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@85e3a4, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+10-10 20:51:17.645 22255 22276 E TestRunner: |
+10-10 20:51:17.645 22255 22276 E TestRunner: +---->ContentFrameLayout{id=16908290, res-name=content, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.ActionBarOverlayLayout$LayoutParams@b7f1cc2, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=154.0, child-count=1}
+10-10 20:51:17.645 22255 22276 E TestRunner: |
+10-10 20:51:17.645 22255 22276 E TestRunner: +----->ConstraintLayout{id=-1, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@90f9610, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=1}
+10-10 20:51:17.645 22255 22276 E TestRunner: |
+10-10 20:51:17.645 22255 22276 E TestRunner: +------>RecyclerView{id=2131231061, res-name=recyclerview, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@40033c, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+10-10 20:51:17.645 22255 22276 E TestRunner: |
+10-10 20:51:17.645 22255 22276 E TestRunner: +------->CardView{id=-1, visibility=VISIBLE, width=1058, height=165, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@407821a, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, child-count=1}
+10-10 20:51:17.645 22255 22276 E TestRunner: |
+10-10 20:51:17.645 22255 22276 E TestRunner: +-------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=165, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@a903c41, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+10-10 20:51:17.645 22255 22276 E TestRunner: |
+10-10 20:51:17.645 22255 22276 E TestRunner: +--------->MaterialTextView{id=2131231015, res-name=name, visibility=VISIBLE, width=369, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@d0ba5e6, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=CSE118 Fall 22, input-type=0, ime-target=false, has-links=false}
+10-10 20:51:17.645 22255 22276 E TestRunner: |
+10-10 20:51:17.645 22255 22276 E TestRunner: +--------->MaterialTextView{id=2131230831, res-name=channels, visibility=VISIBLE, width=218, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@65e727, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=3 Channels, input-type=0, ime-target=false, has-links=false}
+10-10 20:51:17.645 22255 22276 E TestRunner: |
+10-10 20:51:17.645 22255 22276 E TestRunner: +------->CardView{id=-1, visibility=VISIBLE, width=1058, height=165, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@f635b7d, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=198.0, child-count=1}
+10-10 20:51:17.645 22255 22276 E TestRunner: |
+10-10 20:51:17.645 22255 22276 E TestRunner: +-------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=165, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@b7ca340, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+10-10 20:51:17.645 22255 22276 E TestRunner: |
+10-10 20:51:17.645 22255 22276 E TestRunner: +--------->MaterialTextView{id=2131231015, res-name=name, visibility=VISIBLE, width=335, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@14f3279, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=No Messages, input-type=0, ime-target=false, has-links=false}
+10-10 20:51:17.645 22255 22276 E TestRunner: |
+10-10 20:51:17.645 22255 22276 E TestRunner: +--------->MaterialTextView{id=2131230831, res-name=channels, visibility=VISIBLE, width=218, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@2af8bbe, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=2 Channels, input-type=0, ime-target=false, has-links=false}
+10-10 20:51:17.645 22255 22276 E TestRunner: |
+10-10 20:51:17.645 22255 22276 E TestRunner: +------->CardView{id=-1, visibility=VISIBLE, width=1058, height=165, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@228b36c, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=385.0, child-count=1}
+10-10 20:51:17.645 22255 22276 E TestRunner: |
+10-10 20:51:17.645 22255 22276 E TestRunner: +-------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=165, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@d4a533b, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+10-10 20:51:17.645 22255 22276 E TestRunner: |
+10-10 20:51:17.645 22255 22276 E TestRunner: +--------->MaterialTextView{id=2131231015, res-name=name, visibility=VISIBLE, width=310, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@8a39a58, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=No Channels, input-type=0, ime-target=false, has-links=false}
+10-10 20:51:17.645 22255 22276 E TestRunner: |
+10-10 20:51:17.645 22255 22276 E TestRunner: +--------->MaterialTextView{id=2131230831, res-name=channels, visibility=VISIBLE, width=218, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@ebfb7b1, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=0 Channels, input-type=0, ime-target=false, has-links=false}
+10-10 20:51:17.645 22255 22276 E TestRunner: |
+10-10 20:51:17.645 22255 22276 E TestRunner: +---->ActionBarContainer{id=2131230773, res-name=action_bar_container, visibility=VISIBLE, width=1080, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.ActionBarOverlayLayout$LayoutParams@e40404, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+10-10 20:51:17.645 22255 22276 E TestRunner: |
+10-10 20:51:17.645 22255 22276 E TestRunner: +----->Toolbar{id=2131230771, res-name=action_bar, visibility=VISIBLE, width=1080, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@121eeb3, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+10-10 20:51:17.645 22255 22276 E TestRunner: |
+10-10 20:51:17.645 22255 22276 E TestRunner: +------>AppCompatTextView{id=-1, visibility=VISIBLE, width=560, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.Toolbar$LayoutParams@39f5c70, tag=null, root-is-layout-requested=false, has-input-connection=false, x=44.0, y=40.0, text=CSE118 Assignment 2, input-type=0, ime-target=false, has-links=false}
+10-10 20:51:17.645 22255 22276 E TestRunner: |
+10-10 20:51:17.645 22255 22276 E TestRunner: +------>ActionMenuView{id=-1, visibility=VISIBLE, width=0, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.Toolbar$LayoutParams@7a4abe9, tag=null, root-is-layout-requested=false, has-input-connection=false, x=1080.0, y=0.0, child-count=0}
+10-10 20:51:17.645 22255 22276 E TestRunner: |
+10-10 20:51:17.645 22255 22276 E TestRunner: +----->ActionBarContextView{id=2131230779, res-name=action_context_bar, visibility=GONE, width=0, height=0, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=true, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@cb4606e, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=0}
+10-10 20:51:17.645 22255 22276 E TestRunner: |
+10-10 20:51:17.645 22255 22276 E TestRunner: +->View{id=16908336, res-name=navigationBarBackground, visibility=VISIBLE, width=1080, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@142c30f, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=2296.0}
+10-10 20:51:17.645 22255 22276 E TestRunner: |
+10-10 20:51:17.645 22255 22276 E TestRunner: +->View{id=16908335, res-name=statusBarBackground, visibility=VISIBLE, width=1080, height=66, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@d75cf9c, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at androidx.test.espresso.NoMatchingViewException$Builder.build(NoMatchingViewException.java:5)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at androidx.test.espresso.base.ViewFinderImpl.getView(ViewFinderImpl.java:26)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at androidx.test.espresso.ViewInteraction.doPerform(ViewInteraction.java:4)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at androidx.test.espresso.ViewInteraction.access$100(ViewInteraction.java:1)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at androidx.test.espresso.ViewInteraction$1.call(ViewInteraction.java:2)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at androidx.test.espresso.ViewInteraction$1.call(ViewInteraction.java:1)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at android.os.Handler.handleCallback(Handler.java:938)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at android.os.Looper.loopOnce(Looper.java:201)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at android.os.Looper.loop(Looper.java:288)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at android.app.ActivityThread.main(ActivityThread.java:7842)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at java.lang.reflect.Method.invoke(Native Method)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:548)
+10-10 20:51:17.645 22255 22276 E TestRunner: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1003)
+10-10 20:51:17.645 22255 22276 E TestRunner: ----- end exception -----
+10-10 20:51:17.646 22255 22276 I TestRunner: finished: invisible_message_date(edu.ucsc.cse118.assignment2.AdvancedInstrumentedTest)
