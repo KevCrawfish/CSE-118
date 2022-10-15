@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "edu.ucsc.cse118.assignment3.app-mergeDebugResources-48:/layout/fragment_login.xml",
+        "source": "edu.ucsc.cse118.assignment3.app-main-51:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "edu.ucsc.cse118.assignment3.app-mergeDebugResources-48:/layout/fragment_master.xml",
+        "source": "edu.ucsc.cse118.assignment3.app-main-51:/layout/fragment_master.xml"
+    }
+]

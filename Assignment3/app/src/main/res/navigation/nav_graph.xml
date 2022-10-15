@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/loginFragment">
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="edu.ucsc.cse118.assignment3.ui.login.LoginFragment"
+        android:label="CSE118 Workspaces"
+        tools:layout="@layout/fragment_login">
+        <action
+            android:id="@+id/action_loginFragment_to_masterFragment"
+            app:destination="@id/masterFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/masterFragment"
+        android:name="edu.ucsc.cse118.assignment3.ui.master.MasterFragment"
+        android:label="@string/master"
+        tools:layout="@layout/fragment_master">
+    </fragment>
+</navigation>
+
