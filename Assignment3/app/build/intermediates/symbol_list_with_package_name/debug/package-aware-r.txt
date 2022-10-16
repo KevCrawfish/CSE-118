@@ -1949,6 +1949,7 @@ id action_context_bar
 id action_divider
 id action_image
 id action_loginFragment_to_masterFragment
+id action_masterFragment_to_channelFragment
 id action_menu_divider
 id action_menu_presenter
 id action_mode_bar
@@ -1997,6 +1998,7 @@ id center_vertical
 id chain
 id chain2
 id chains
+id channelFragment
 id channels
 id checkbox
 id checked
@@ -2152,6 +2154,7 @@ id material_timepicker_ok_button
 id material_timepicker_view
 id material_value_index
 id message
+id messages
 id middle
 id mini
 id month_grid
@@ -2449,6 +2452,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
+layout card_view_channel
 layout card_view_master
 layout custom_dialog
 layout design_bottom_navigation_item
@@ -2466,6 +2470,8 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout fragment_channel
+layout fragment_fake
 layout fragment_login
 layout fragment_master
 layout material_chip_input_combo
@@ -2572,6 +2578,7 @@ string app_name
 string appbar_scrolling_view_behavior
 string bottom_sheet_behavior
 string bottomsheet_action_expand_halfway
+string channel
 string character_counter_content_description
 string character_counter_overflowed_content_description
 string character_counter_pattern

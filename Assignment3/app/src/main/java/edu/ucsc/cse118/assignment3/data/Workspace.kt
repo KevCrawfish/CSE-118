@@ -4,7 +4,7 @@ import kotlinx.serialization.Serializable
 
 @Serializable
 data class Workspace (
-    val name: String,
     val id: String,
+    val name: String,
     val channels: Integer,
 )

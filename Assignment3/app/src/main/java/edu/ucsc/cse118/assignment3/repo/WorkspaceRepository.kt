@@ -37,35 +37,4 @@ class WorkspaceRepository {
             throw Exception("Failed to GET HTTP $responseCode")
         }
     }
-
-    fun getOne(member: Member?, workspace: Workspace?): Workspace {
-        val path = "$url/${workspace?.id}"
-        with(URL(path).openConnection() as HttpsURLConnection) {
-            requestMethod = "GET"
-            setRequestProperty("Content-Type", "text/html; charset=UTF-8n")
-            setRequestProperty("Accept", "application/json")
-            setRequestProperty("Authorization", "Bearer ${member?.accessToken}")
-            if (responseCode == HttpsURLConnection.HTTP_OK) {
-                return Json.decodeFromString(inputStream.bufferedReader().use {it.readText()})
-            }
-            throw Exception("Failed to GET HTTP $responseCode")
-        }
-    }
-
-    fun addOne(member: Member?, workspace: Workspace?): Workspace {
-        with(URL(url).openConnection() as HttpsURLConnection) {
-            requestMethod = "POST"
-            setRequestProperty("Content-Type", "application/json")
-            setRequestProperty("Accept", "application/json")
-            setRequestProperty("Authorization", "Bearer ${member?.accessToken}")
-            outputStream.write(Json.encodeToString(workspace).toByteArray())
-            if (responseCode == HttpsURLConnection.HTTP_CREATED) {
-                return Json.decodeFromString(inputStream.bufferedReader().use {it.readText()})
-            }
-            if (responseCode == HttpsURLConnection.HTTP_CONFLICT) {
-                throw Exception("Workspace.kt with id ${workspace?.id} already exists!")
-            }
-            throw Exception("Failed to PUT HTTP $responseCode")
-        }
-    }
 }

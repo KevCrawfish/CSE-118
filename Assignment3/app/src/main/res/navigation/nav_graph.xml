@@ -18,6 +18,14 @@
         android:name="edu.ucsc.cse118.assignment3.ui.master.MasterFragment"
         android:label="@string/master"
         tools:layout="@layout/fragment_master">
+        <action
+            android:id="@+id/action_masterFragment_to_channelFragment"
+            app:destination="@id/channelFragment" />
     </fragment>
+    <fragment
+        android:id="@+id/channelFragment"
+        android:name="edu.ucsc.cse118.assignment3.ui.channel.ChannelFragment"
+        android:label="@string/channel"
+        tools:layout="@layout/fragment_channel"/>
 </navigation>
 

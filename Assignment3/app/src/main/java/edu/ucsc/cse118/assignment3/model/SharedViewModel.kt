@@ -4,19 +4,28 @@ import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import edu.ucsc.cse118.assignment3.data.Member
+import edu.ucsc.cse118.assignment3.data.Channel
 import edu.ucsc.cse118.assignment3.data.Workspace
-import edu.ucsc.cse118.assignment3.repo.MemberRepository
 import edu.ucsc.cse118.assignment3.repo.WorkspaceRepository
+import edu.ucsc.cse118.assignment3.data.Member
+import edu.ucsc.cse118.assignment3.repo.ChannelRepository
+import edu.ucsc.cse118.assignment3.repo.MemberRepository
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 
 class SharedViewModel : ViewModel() {
+
     private val _workspaces = MutableLiveData<ArrayList<Workspace>>()
     val workspaces: LiveData<ArrayList<Workspace>> = _workspaces
 
     private val _workspace = MutableLiveData<ViewModelEvent<Workspace>>()
     val workspace : LiveData<ViewModelEvent<Workspace>> = _workspace
+
+    private val _channels = MutableLiveData<ArrayList<Channel>>()
+    val channels: LiveData<ArrayList<Channel>> = _channels
+
+    private val _channel = MutableLiveData<ViewModelEvent<Channel>>()
+    val channel : LiveData<ViewModelEvent<Channel>> = _channel
 
     private val _member = MutableLiveData<Member>()
     val member : LiveData<Member> = _member
@@ -27,7 +36,9 @@ class SharedViewModel : ViewModel() {
     fun setWorkspace(value: Workspace) {
         _workspace.value = ViewModelEvent(value)
     }
-
+    fun setChannel(value: Channel) {
+        _channel.value = ViewModelEvent(value)
+    }
     fun login(email: String, password: String) {
         viewModelScope.launch(Dispatchers.IO) {
             try {
@@ -37,7 +48,6 @@ class SharedViewModel : ViewModel() {
             }
         }
     }
-
     fun getWorkspaces() {
         viewModelScope.launch(Dispatchers.IO) {
             try {
@@ -47,14 +57,14 @@ class SharedViewModel : ViewModel() {
             }
         }
     }
-
-    fun getWorkspace() {
+    fun getChannels() {
         viewModelScope.launch(Dispatchers.IO) {
             try {
-                _workspace.postValue(ViewModelEvent(WorkspaceRepository().getOne(member.value, _workspace.value?.getRawContent())))
+                _channels.postValue(ChannelRepository().getAll(member.value, _workspace.value?.getRawContent()))
             } catch (e: Exception) {
                 _error.postValue(ViewModelEvent(e.message.toString()))
             }
         }
     }
 }
+
