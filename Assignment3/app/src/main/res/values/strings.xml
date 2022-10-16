@@ -5,6 +5,7 @@
     <string name="app_name">CSE118 Assignment 3</string>
     <string name="login">Login</string>
     <string name="channel">Channel</string>
+    <string name="message">Message</string>
     <string name="master">All Workspaces</string>
     <string name="select_workspace">Workspaces</string>
     <string name="select_channel">Channels</string>

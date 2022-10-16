@@ -26,6 +26,16 @@
         android:id="@+id/channelFragment"
         android:name="edu.ucsc.cse118.assignment3.ui.channel.ChannelFragment"
         android:label="@string/channel"
-        tools:layout="@layout/fragment_channel"/>
+        tools:layout="@layout/fragment_channel">
+        <action
+            android:id="@+id/action_channelFragment_to_messageFragment"
+            app:destination="@id/messageFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/messageFragment"
+        android:name="edu.ucsc.cse118.assignment3.ui.message.MessageFragment"
+        android:label="@string/message"
+        tools:layout="@layout/fragment_message">
+    </fragment>
 </navigation>
 

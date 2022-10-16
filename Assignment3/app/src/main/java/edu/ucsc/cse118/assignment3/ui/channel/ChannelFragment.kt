@@ -75,5 +75,6 @@ class ChannelFragment : Fragment(), ChannelListener {
     }
     override fun onClick(channel: Channel) {
         sharedViewModel.setChannel(channel)
+        findNavController().navigate(R.id.action_channelFragment_to_messageFragment)
     }
 }

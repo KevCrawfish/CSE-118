@@ -10,6 +10,7 @@ import edu.ucsc.cse118.assignment3.databinding.FragmentChannelBindingImpl;
 import edu.ucsc.cse118.assignment3.databinding.FragmentFakeBindingImpl;
 import edu.ucsc.cse118.assignment3.databinding.FragmentLoginBindingImpl;
 import edu.ucsc.cse118.assignment3.databinding.FragmentMasterBindingImpl;
+import edu.ucsc.cse118.assignment3.databinding.FragmentMessageBindingImpl;
 import java.lang.IllegalArgumentException;
 import java.lang.Integer;
 import java.lang.Object;
@@ -29,13 +30,16 @@ public class DataBinderMapperImpl extends DataBinderMapper {
 
   private static final int LAYOUT_FRAGMENTMASTER = 4;
 
-  private static final SparseIntArray INTERNAL_LAYOUT_ID_LOOKUP = new SparseIntArray(4);
+  private static final int LAYOUT_FRAGMENTMESSAGE = 5;
+
+  private static final SparseIntArray INTERNAL_LAYOUT_ID_LOOKUP = new SparseIntArray(5);
 
   static {
     INTERNAL_LAYOUT_ID_LOOKUP.put(edu.ucsc.cse118.assignment3.R.layout.fragment_channel, LAYOUT_FRAGMENTCHANNEL);
     INTERNAL_LAYOUT_ID_LOOKUP.put(edu.ucsc.cse118.assignment3.R.layout.fragment_fake, LAYOUT_FRAGMENTFAKE);
     INTERNAL_LAYOUT_ID_LOOKUP.put(edu.ucsc.cse118.assignment3.R.layout.fragment_login, LAYOUT_FRAGMENTLOGIN);
     INTERNAL_LAYOUT_ID_LOOKUP.put(edu.ucsc.cse118.assignment3.R.layout.fragment_master, LAYOUT_FRAGMENTMASTER);
+    INTERNAL_LAYOUT_ID_LOOKUP.put(edu.ucsc.cse118.assignment3.R.layout.fragment_message, LAYOUT_FRAGMENTMESSAGE);
   }
 
   @Override
@@ -70,6 +74,12 @@ public class DataBinderMapperImpl extends DataBinderMapper {
             return new FragmentMasterBindingImpl(component, view);
           }
           throw new IllegalArgumentException("The tag for fragment_master is invalid. Received: " + tag);
+        }
+        case  LAYOUT_FRAGMENTMESSAGE: {
+          if ("layout/fragment_message_0".equals(tag)) {
+            return new FragmentMessageBindingImpl(component, view);
+          }
+          throw new IllegalArgumentException("The tag for fragment_message is invalid. Received: " + tag);
         }
       }
     }
@@ -129,13 +139,14 @@ public class DataBinderMapperImpl extends DataBinderMapper {
   }
 
   private static class InnerLayoutIdLookup {
-    static final HashMap<String, Integer> sKeys = new HashMap<String, Integer>(4);
+    static final HashMap<String, Integer> sKeys = new HashMap<String, Integer>(5);
 
     static {
       sKeys.put("layout/fragment_channel_0", edu.ucsc.cse118.assignment3.R.layout.fragment_channel);
       sKeys.put("layout/fragment_fake_0", edu.ucsc.cse118.assignment3.R.layout.fragment_fake);
       sKeys.put("layout/fragment_login_0", edu.ucsc.cse118.assignment3.R.layout.fragment_login);
       sKeys.put("layout/fragment_master_0", edu.ucsc.cse118.assignment3.R.layout.fragment_master);
+      sKeys.put("layout/fragment_message_0", edu.ucsc.cse118.assignment3.R.layout.fragment_message);
     }
   }
 }

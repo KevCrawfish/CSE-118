@@ -8,8 +8,10 @@ import edu.ucsc.cse118.assignment3.data.Channel
 import edu.ucsc.cse118.assignment3.data.Workspace
 import edu.ucsc.cse118.assignment3.repo.WorkspaceRepository
 import edu.ucsc.cse118.assignment3.data.Member
+import edu.ucsc.cse118.assignment3.data.Message
 import edu.ucsc.cse118.assignment3.repo.ChannelRepository
 import edu.ucsc.cse118.assignment3.repo.MemberRepository
+import edu.ucsc.cse118.assignment3.repo.MessageRepository
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 
@@ -27,6 +29,12 @@ class SharedViewModel : ViewModel() {
     private val _channel = MutableLiveData<ViewModelEvent<Channel>>()
     val channel : LiveData<ViewModelEvent<Channel>> = _channel
 
+    private val _messages = MutableLiveData<ArrayList<Message>>()
+    val messages: LiveData<ArrayList<Message>> = _messages
+
+    private val _message = MutableLiveData<ViewModelEvent<Message>>()
+    val message : LiveData<ViewModelEvent<Message>> = _message
+
     private val _member = MutableLiveData<Member>()
     val member : LiveData<Member> = _member
 
@@ -38,6 +46,9 @@ class SharedViewModel : ViewModel() {
     }
     fun setChannel(value: Channel) {
         _channel.value = ViewModelEvent(value)
+    }
+    fun setMessage(value: Message) {
+        _message.value = ViewModelEvent(value)
     }
     fun login(email: String, password: String) {
         viewModelScope.launch(Dispatchers.IO) {
@@ -61,6 +72,15 @@ class SharedViewModel : ViewModel() {
         viewModelScope.launch(Dispatchers.IO) {
             try {
                 _channels.postValue(ChannelRepository().getAll(member.value, _workspace.value?.getRawContent()))
+            } catch (e: Exception) {
+                _error.postValue(ViewModelEvent(e.message.toString()))
+            }
+        }
+    }
+    fun getMessages() {
+        viewModelScope.launch(Dispatchers.IO) {
+            try {
+                _messages.postValue(MessageRepository().getAll(member.value, _channel.value?.getRawContent()))
             } catch (e: Exception) {
                 _error.postValue(ViewModelEvent(e.message.toString()))
             }

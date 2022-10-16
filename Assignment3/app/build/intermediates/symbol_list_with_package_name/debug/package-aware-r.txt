@@ -1944,6 +1944,7 @@ id action_bar_root
 id action_bar_spinner
 id action_bar_subtitle
 id action_bar_title
+id action_channelFragment_to_messageFragment
 id action_container
 id action_context_bar
 id action_divider
@@ -2030,6 +2031,7 @@ id custom
 id customPanel
 id cut
 id dataBinding
+id date
 id date_picker_actions
 id decelerate
 id decelerateAndComplete
@@ -2154,6 +2156,7 @@ id material_timepicker_ok_button
 id material_timepicker_view
 id material_value_index
 id message
+id messageFragment
 id messages
 id middle
 id mini
@@ -2232,6 +2235,7 @@ id percent
 id pin
 id position
 id postLayout
+id poster
 id progress_circular
 id progress_horizontal
 id radio
@@ -2454,6 +2458,7 @@ layout abc_tooltip
 layout activity_main
 layout card_view_channel
 layout card_view_master
+layout card_view_message
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -2474,6 +2479,7 @@ layout fragment_channel
 layout fragment_fake
 layout fragment_login
 layout fragment_master
+layout fragment_message
 layout material_chip_input_combo
 layout material_clock_display
 layout material_clock_display_divider
@@ -2613,6 +2619,7 @@ string material_timepicker_minute
 string material_timepicker_pm
 string material_timepicker_select_time
 string material_timepicker_text_input_mode_description
+string message
 string mtrl_badge_numberless_content_description
 string mtrl_chip_close_icon_content_description
 string mtrl_exceed_max_badge_number_content_description

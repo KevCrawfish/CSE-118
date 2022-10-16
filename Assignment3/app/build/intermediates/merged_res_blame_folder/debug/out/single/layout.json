@@ -12,8 +12,8 @@
         "source": "/Users/kemcrawf/.gradle/daemon/7.3.3/edu.ucsc.cse118.assignment3.app-main-51:/layout/fragment_master.xml"
     },
     {
-        "merged": "edu.ucsc.cse118.assignment3.app-mergeDebugResources-48:/layout/fragment_channel.xml",
-        "source": "edu.ucsc.cse118.assignment3.app-main-51:/layout/fragment_channel.xml"
+        "merged": "edu.ucsc.cse118.assignment3.app-mergeDebugResources-48:/layout/fragment_message.xml",
+        "source": "edu.ucsc.cse118.assignment3.app-main-51:/layout/fragment_message.xml"
     },
     {
         "merged": "/Users/kemcrawf/.gradle/daemon/7.3.3/edu.ucsc.cse118.assignment3.app-mergeDebugResources-48:/layout/fragment_login.xml",
