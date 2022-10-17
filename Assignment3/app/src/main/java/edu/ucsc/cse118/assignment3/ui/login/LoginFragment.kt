@@ -38,7 +38,7 @@ class LoginFragment : Fragment() {
         override fun beforeTextChanged(s: CharSequence?, start: Int, count: Int, after: Int) {}
         override fun onTextChanged(s: CharSequence?, start: Int, before: Int, count: Int) {
             binding.login.isEnabled =
-                (binding.email.text.length > 3) && (binding.password.text.length > 3);
+                (binding.email.text.length > 3) && (binding.password.text.length > 3)
         }
     }
     override fun onCreate(savedInstanceState: Bundle?) {

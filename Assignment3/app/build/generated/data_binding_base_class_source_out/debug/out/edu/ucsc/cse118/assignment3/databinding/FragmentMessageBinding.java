@@ -10,6 +10,7 @@ import androidx.databinding.Bindable;
 import androidx.databinding.DataBindingUtil;
 import androidx.databinding.ViewDataBinding;
 import androidx.recyclerview.widget.RecyclerView;
+import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import edu.ucsc.cse118.assignment3.R;
 import edu.ucsc.cse118.assignment3.model.SharedViewModel;
 import edu.ucsc.cse118.assignment3.ui.message.MessageFragment;
@@ -18,17 +19,21 @@ import java.lang.Object;
 
 public abstract class FragmentMessageBinding extends ViewDataBinding {
   @NonNull
+  public final FloatingActionButton fab;
+
+  @NonNull
   public final RecyclerView recyclerview;
 
   @Bindable
   protected SharedViewModel mViewModel;
 
   @Bindable
-  protected MessageFragment mChannelFragment;
+  protected MessageFragment mMessageFragment;
 
   protected FragmentMessageBinding(Object _bindingComponent, View _root, int _localFieldCount,
-      RecyclerView recyclerview) {
+      FloatingActionButton fab, RecyclerView recyclerview) {
     super(_bindingComponent, _root, _localFieldCount);
+    this.fab = fab;
     this.recyclerview = recyclerview;
   }
 
@@ -39,11 +44,11 @@ public abstract class FragmentMessageBinding extends ViewDataBinding {
     return mViewModel;
   }
 
-  public abstract void setChannelFragment(@Nullable MessageFragment channelFragment);
+  public abstract void setMessageFragment(@Nullable MessageFragment messageFragment);
 
   @Nullable
-  public MessageFragment getChannelFragment() {
-    return mChannelFragment;
+  public MessageFragment getMessageFragment() {
+    return mMessageFragment;
   }
 
   @NonNull

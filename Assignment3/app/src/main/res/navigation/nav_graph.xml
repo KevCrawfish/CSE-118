@@ -36,6 +36,14 @@
         android:name="edu.ucsc.cse118.assignment3.ui.message.MessageFragment"
         android:label="@string/message"
         tools:layout="@layout/fragment_message">
+        <action
+            android:id="@+id/action_messageFragment_to_detailFragment"
+            app:destination="@id/detailFragment" />
     </fragment>
+    <fragment
+        android:id="@+id/detailFragment"
+        android:name="edu.ucsc.cse118.assignment3.ui.detail.DetailFragment"
+        android:label="@string/detail"
+        tools:layout="@layout/fragment_detail"/>
 </navigation>
 

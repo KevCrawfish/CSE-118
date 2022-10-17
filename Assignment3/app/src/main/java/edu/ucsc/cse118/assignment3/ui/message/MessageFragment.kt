@@ -76,5 +76,6 @@ class MessageFragment : Fragment(), MessageListener {
     }
     override fun onClick(message: Message) {
         sharedViewModel.setMessage(message)
+        findNavController().navigate(R.id.action_messageFragment_to_detailFragment)
     }
 }

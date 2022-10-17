@@ -4,8 +4,8 @@ import kotlinx.serialization.Serializable
 
 @Serializable
 data class Message (
-    val poster: String,
-    val id: String,
-    val date: String,
     val content: String,
+    val id: String,
+    val poster: String,
+    val date: String,
 )

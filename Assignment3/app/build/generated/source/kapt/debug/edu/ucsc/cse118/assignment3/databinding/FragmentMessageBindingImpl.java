@@ -15,6 +15,7 @@ public class FragmentMessageBindingImpl extends FragmentMessageBinding  {
         sIncludes = null;
         sViewsWithIds = new android.util.SparseIntArray();
         sViewsWithIds.put(R.id.recyclerview, 1);
+        sViewsWithIds.put(R.id.fab, 2);
     }
     // views
     @NonNull
@@ -25,10 +26,11 @@ public class FragmentMessageBindingImpl extends FragmentMessageBinding  {
     // Inverse Binding Event Handlers
 
     public FragmentMessageBindingImpl(@Nullable androidx.databinding.DataBindingComponent bindingComponent, @NonNull View root) {
-        this(bindingComponent, root, mapBindings(bindingComponent, root, 2, sIncludes, sViewsWithIds));
+        this(bindingComponent, root, mapBindings(bindingComponent, root, 3, sIncludes, sViewsWithIds));
     }
     private FragmentMessageBindingImpl(androidx.databinding.DataBindingComponent bindingComponent, View root, Object[] bindings) {
         super(bindingComponent, root, 0
+            , (com.google.android.material.floatingactionbutton.FloatingActionButton) bindings[2]
             , (androidx.recyclerview.widget.RecyclerView) bindings[1]
             );
         this.mboundView0 = (androidx.constraintlayout.widget.ConstraintLayout) bindings[0];
@@ -59,8 +61,8 @@ public class FragmentMessageBindingImpl extends FragmentMessageBinding  {
     @Override
     public boolean setVariable(int variableId, @Nullable Object variable)  {
         boolean variableSet = true;
-        if (BR.channelFragment == variableId) {
-            setChannelFragment((edu.ucsc.cse118.assignment3.ui.message.MessageFragment) variable);
+        if (BR.messageFragment == variableId) {
+            setMessageFragment((edu.ucsc.cse118.assignment3.ui.message.MessageFragment) variable);
         }
         else if (BR.viewModel == variableId) {
             setViewModel((edu.ucsc.cse118.assignment3.model.SharedViewModel) variable);
@@ -71,8 +73,8 @@ public class FragmentMessageBindingImpl extends FragmentMessageBinding  {
             return variableSet;
     }
 
-    public void setChannelFragment(@Nullable edu.ucsc.cse118.assignment3.ui.message.MessageFragment ChannelFragment) {
-        this.mChannelFragment = ChannelFragment;
+    public void setMessageFragment(@Nullable edu.ucsc.cse118.assignment3.ui.message.MessageFragment MessageFragment) {
+        this.mMessageFragment = MessageFragment;
     }
     public void setViewModel(@Nullable edu.ucsc.cse118.assignment3.model.SharedViewModel ViewModel) {
         this.mViewModel = ViewModel;
@@ -99,7 +101,7 @@ public class FragmentMessageBindingImpl extends FragmentMessageBinding  {
     // dirty flag
     private  long mDirtyFlags = 0xffffffffffffffffL;
     /* flag mapping
-        flag 0 (0x1L): channelFragment
+        flag 0 (0x1L): messageFragment
         flag 1 (0x2L): viewModel
         flag 2 (0x3L): null
     flag mapping end*/

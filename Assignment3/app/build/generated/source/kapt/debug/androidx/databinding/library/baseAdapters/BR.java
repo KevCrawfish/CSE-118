@@ -5,11 +5,15 @@ public class BR {
 
   public static final int channelFragment = 1;
 
-  public static final int fakeFragment = 2;
+  public static final int detailFragment = 2;
 
-  public static final int loginFragment = 3;
+  public static final int fakeFragment = 3;
 
-  public static final int masterFragment = 4;
+  public static final int loginFragment = 4;
 
-  public static final int viewModel = 5;
+  public static final int masterFragment = 5;
+
+  public static final int messageFragment = 6;
+
+  public static final int viewModel = 7;
 }

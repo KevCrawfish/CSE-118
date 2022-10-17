@@ -1,17 +1,9 @@
 <?xml version='1.0' encoding='UTF-8' ?>
-<testsuite name="edu.ucsc.cse118.assignment3.BasicTest" tests="9" failures="0" errors="0" skipped="0" time="19.437" timestamp="2022-10-16T09:25:44" hostname="localhost">
+<testsuite name="edu.ucsc.cse118.assignment3.BasicTest" tests="1" failures="0" errors="0" skipped="0" time="1.093" timestamp="2022-10-17T11:08:56" hostname="localhost">
   <properties>
     <property name="device" value="Pixel_5_API_32(AVD) - 12" />
     <property name="flavor" value="" />
     <property name="project" value=":app" />
   </properties>
-  <testcase name="header" classname="edu.ucsc.cse118.assignment3.BasicTest" time="2.42" />
-  <testcase name="workspace_movies" classname="edu.ucsc.cse118.assignment3.BasicTest" time="1.66" />
-  <testcase name="workspace_construction" classname="edu.ucsc.cse118.assignment3.BasicTest" time="1.679" />
-  <testcase name="movies_channel_count" classname="edu.ucsc.cse118.assignment3.BasicTest" time="1.69" />
-  <testcase name="movies_channel_drama" classname="edu.ucsc.cse118.assignment3.BasicTest" time="1.98" />
-  <testcase name="construction_channel_framing" classname="edu.ucsc.cse118.assignment3.BasicTest" time="2.084" />
-  <testcase name="construction_channel_framing_message_ranice" classname="edu.ucsc.cse118.assignment3.BasicTest" time="2.346" />
-  <testcase name="construction_channel_framing_message_ranice_date" classname="edu.ucsc.cse118.assignment3.BasicTest" time="2.264" />
-  <testcase name="construction_channel_count" classname="edu.ucsc.cse118.assignment3.BasicTest" time="1.693" />
+  <testcase name="header" classname="edu.ucsc.cse118.assignment3.BasicTest" time="-1.666004935218E9" />
 </testsuite>

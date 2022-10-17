@@ -86,5 +86,14 @@ class SharedViewModel : ViewModel() {
             }
         }
     }
+    fun getMessage() {
+        viewModelScope.launch(Dispatchers.IO) {
+            try {
+                _message.postValue(ViewModelEvent(MessageRepository().getOne(member.value, _channel.value?.getRawContent())))
+            } catch (e: Exception) {
+                _error.postValue(ViewModelEvent(e.message.toString()))
+            }
+        }
+    }
 }
 

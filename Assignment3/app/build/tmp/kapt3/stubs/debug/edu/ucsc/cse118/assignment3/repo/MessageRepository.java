@@ -2,7 +2,7 @@ package edu.ucsc.cse118.assignment3.repo;
 
 import java.lang.System;
 
-@kotlin.Metadata(mv = {1, 7, 1}, k = 1, d1 = {"\u0000(\n\u0002\u0018\u0002\n\u0002\u0010\u0000\n\u0002\b\u0002\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0002\b\u0002\u0018\u0000 \u000b2\u00020\u0001:\u0001\u000bB\u0005\u00a2\u0006\u0002\u0010\u0002J*\u0010\u0003\u001a\u0012\u0012\u0004\u0012\u00020\u00050\u0004j\b\u0012\u0004\u0012\u00020\u0005`\u00062\b\u0010\u0007\u001a\u0004\u0018\u00010\b2\b\u0010\t\u001a\u0004\u0018\u00010\n\u00a8\u0006\f"}, d2 = {"Ledu/ucsc/cse118/assignment3/repo/MessageRepository;", "", "()V", "getAll", "Ljava/util/ArrayList;", "Ledu/ucsc/cse118/assignment3/data/Message;", "Lkotlin/collections/ArrayList;", "member", "Ledu/ucsc/cse118/assignment3/data/Member;", "channel", "Ledu/ucsc/cse118/assignment3/data/Channel;", "Companion", "app_debug"})
+@kotlin.Metadata(mv = {1, 7, 1}, k = 1, d1 = {"\u0000(\n\u0002\u0018\u0002\n\u0002\u0010\u0000\n\u0002\b\u0002\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0002\b\u0003\u0018\u0000 \f2\u00020\u0001:\u0001\fB\u0005\u00a2\u0006\u0002\u0010\u0002J*\u0010\u0003\u001a\u0012\u0012\u0004\u0012\u00020\u00050\u0004j\b\u0012\u0004\u0012\u00020\u0005`\u00062\b\u0010\u0007\u001a\u0004\u0018\u00010\b2\b\u0010\t\u001a\u0004\u0018\u00010\nJ\u001a\u0010\u000b\u001a\u00020\u00052\b\u0010\u0007\u001a\u0004\u0018\u00010\b2\b\u0010\t\u001a\u0004\u0018\u00010\n\u00a8\u0006\r"}, d2 = {"Ledu/ucsc/cse118/assignment3/repo/MessageRepository;", "", "()V", "getAll", "Ljava/util/ArrayList;", "Ledu/ucsc/cse118/assignment3/data/Message;", "Lkotlin/collections/ArrayList;", "member", "Ledu/ucsc/cse118/assignment3/data/Member;", "channel", "Ledu/ucsc/cse118/assignment3/data/Channel;", "getOne", "Companion", "app_debug"})
 public final class MessageRepository {
     @org.jetbrains.annotations.NotNull()
     public static final edu.ucsc.cse118.assignment3.repo.MessageRepository.Companion Companion = null;
@@ -14,6 +14,13 @@ public final class MessageRepository {
     
     @org.jetbrains.annotations.NotNull()
     public final java.util.ArrayList<edu.ucsc.cse118.assignment3.data.Message> getAll(@org.jetbrains.annotations.Nullable()
+    edu.ucsc.cse118.assignment3.data.Member member, @org.jetbrains.annotations.Nullable()
+    edu.ucsc.cse118.assignment3.data.Channel channel) {
+        return null;
+    }
+    
+    @org.jetbrains.annotations.NotNull()
+    public final edu.ucsc.cse118.assignment3.data.Message getOne(@org.jetbrains.annotations.Nullable()
     edu.ucsc.cse118.assignment3.data.Member member, @org.jetbrains.annotations.Nullable()
     edu.ucsc.cse118.assignment3.data.Channel channel) {
         return null;

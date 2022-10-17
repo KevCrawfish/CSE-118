@@ -44,4 +44,18 @@ class MessageRepository {
             throw Exception("Failed to GET HTTP $responseCode")
         }
     }
+
+    fun getOne(member: Member?, channel: Channel?): Message {
+        val path = "$url/${channel?.id}"
+        with(URL(path).openConnection() as HttpsURLConnection) {
+            requestMethod = "GET"
+            setRequestProperty("Content-Type", "text/html; charset=UTF-8n")
+            setRequestProperty("Accept", "application/json")
+            setRequestProperty("Authorization", "Bearer ${member?.accessToken}")
+            if (responseCode == HttpsURLConnection.HTTP_OK) {
+                return Json.decodeFromString(inputStream.bufferedReader().use { it.readText() })
+            }
+            throw Exception("Failed to GET HTTP $responseCode")
+        }
+    }
 }

@@ -1,22 +1,26 @@
 [
     {
-        "merged": "/Users/kemcrawf/.gradle/daemon/7.3.3/edu.ucsc.cse118.assignment3.app-mergeDebugResources-48:/layout/fragment_fake.xml",
-        "source": "/Users/kemcrawf/.gradle/daemon/7.3.3/edu.ucsc.cse118.assignment3.app-main-51:/layout/fragment_fake.xml"
+        "merged": "edu.ucsc.cse118.assignment3.app-mergeDebugResources-48:/layout/fragment_login.xml",
+        "source": "edu.ucsc.cse118.assignment3.app-main-51:/layout/fragment_login.xml"
     },
     {
-        "merged": "/Users/kemcrawf/.gradle/daemon/7.3.3/edu.ucsc.cse118.assignment3.app-mergeDebugResources-48:/layout/fragment_channel.xml",
-        "source": "/Users/kemcrawf/.gradle/daemon/7.3.3/edu.ucsc.cse118.assignment3.app-main-51:/layout/fragment_channel.xml"
+        "merged": "edu.ucsc.cse118.assignment3.app-mergeDebugResources-48:/layout/fragment_master.xml",
+        "source": "edu.ucsc.cse118.assignment3.app-main-51:/layout/fragment_master.xml"
     },
     {
-        "merged": "/Users/kemcrawf/.gradle/daemon/7.3.3/edu.ucsc.cse118.assignment3.app-mergeDebugResources-48:/layout/fragment_master.xml",
-        "source": "/Users/kemcrawf/.gradle/daemon/7.3.3/edu.ucsc.cse118.assignment3.app-main-51:/layout/fragment_master.xml"
+        "merged": "edu.ucsc.cse118.assignment3.app-mergeDebugResources-48:/layout/fragment_fake.xml",
+        "source": "edu.ucsc.cse118.assignment3.app-main-51:/layout/fragment_fake.xml"
     },
     {
         "merged": "edu.ucsc.cse118.assignment3.app-mergeDebugResources-48:/layout/fragment_message.xml",
         "source": "edu.ucsc.cse118.assignment3.app-main-51:/layout/fragment_message.xml"
     },
     {
-        "merged": "/Users/kemcrawf/.gradle/daemon/7.3.3/edu.ucsc.cse118.assignment3.app-mergeDebugResources-48:/layout/fragment_login.xml",
-        "source": "/Users/kemcrawf/.gradle/daemon/7.3.3/edu.ucsc.cse118.assignment3.app-main-51:/layout/fragment_login.xml"
+        "merged": "edu.ucsc.cse118.assignment3.app-mergeDebugResources-48:/layout/fragment_detail.xml",
+        "source": "edu.ucsc.cse118.assignment3.app-main-51:/layout/fragment_detail.xml"
+    },
+    {
+        "merged": "edu.ucsc.cse118.assignment3.app-mergeDebugResources-48:/layout/fragment_channel.xml",
+        "source": "edu.ucsc.cse118.assignment3.app-main-51:/layout/fragment_channel.xml"
     }
 ]
