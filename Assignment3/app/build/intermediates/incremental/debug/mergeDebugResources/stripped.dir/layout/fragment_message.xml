@@ -30,16 +30,14 @@
 
         <com.google.android.material.floatingactionbutton.FloatingActionButton
             android:id="@+id/fab"
-            android:layout_width="67dp"
-            android:layout_height="61dp"
-            android:layout_marginEnd="32dp"
-            android:layout_marginBottom="32dp"
-            android:contentDescription="@string/todo"
-            android:src="@drawable/ic_launcher_foreground"
-            app:elevation="6dp"
-            app:fabSize="normal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="16dp"
+            android:layout_marginBottom="16dp"
+            app:srcCompat="@drawable/ic_launcher_foreground"
             app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toEndOf="parent" />
+            app:layout_constraintEnd_toEndOf="parent"
+            android:contentDescription="@string/floating_action_button" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 

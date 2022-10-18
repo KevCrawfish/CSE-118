@@ -4,11 +4,8 @@ import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import edu.ucsc.cse118.assignment3.data.Channel
-import edu.ucsc.cse118.assignment3.data.Workspace
+import edu.ucsc.cse118.assignment3.data.*
 import edu.ucsc.cse118.assignment3.repo.WorkspaceRepository
-import edu.ucsc.cse118.assignment3.data.Member
-import edu.ucsc.cse118.assignment3.data.Message
 import edu.ucsc.cse118.assignment3.repo.ChannelRepository
 import edu.ucsc.cse118.assignment3.repo.MemberRepository
 import edu.ucsc.cse118.assignment3.repo.MessageRepository
@@ -34,6 +31,12 @@ class SharedViewModel : ViewModel() {
 
     private val _message = MutableLiveData<ViewModelEvent<Message>>()
     val message : LiveData<ViewModelEvent<Message>> = _message
+
+    private val _newMessages = MutableLiveData<ArrayList<NewMessage>>()
+    val newMessages: LiveData<ArrayList<NewMessage>> = _newMessages
+
+    private val _newMessage = MutableLiveData<ViewModelEvent<NewMessage>>()
+    val newMessage : LiveData<ViewModelEvent<NewMessage>> = _newMessage
 
     private val _member = MutableLiveData<Member>()
     val member : LiveData<Member> = _member
@@ -90,6 +93,27 @@ class SharedViewModel : ViewModel() {
         viewModelScope.launch(Dispatchers.IO) {
             try {
                 _message.postValue(ViewModelEvent(MessageRepository().getOne(member.value, _channel.value?.getRawContent())))
+            } catch (e: Exception) {
+                _error.postValue(ViewModelEvent(e.message.toString()))
+            }
+        }
+    }
+    fun addMessage(newMessage: NewMessage) {
+        viewModelScope.launch(Dispatchers.IO) {
+            try {
+                MessageRepository().addOne(member.value, _channel.value?.getRawContent(), newMessage)
+                _messages.postValue(MessageRepository().getAll(member.value, _channel.value?.getRawContent()))
+            } catch (e: Exception) {
+                _error.postValue(ViewModelEvent(e.message.toString()))
+            }
+        }
+    }
+
+    fun removeMessage() {
+        viewModelScope.launch(Dispatchers.IO) {
+            try {
+                MessageRepository().deleteOne(member.value, _message.value?.getRawContent())
+                _messages.postValue(MessageRepository().getAll(member.value, _channel.value?.getRawContent()))
             } catch (e: Exception) {
                 _error.postValue(ViewModelEvent(e.message.toString()))
             }

@@ -27,11 +27,11 @@ import androidx.lifecycle.Observer
 import androidx.navigation.fragment.findNavController
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.google.android.material.snackbar.Snackbar
 import edu.ucsc.cse118.assignment3.R
-import edu.ucsc.cse118.assignment3.data.Channel
 import edu.ucsc.cse118.assignment3.data.Message
-import edu.ucsc.cse118.assignment3.data.Workspace
 import edu.ucsc.cse118.assignment3.databinding.FragmentMasterBinding
+import edu.ucsc.cse118.assignment3.databinding.FragmentMessageBinding
 import edu.ucsc.cse118.assignment3.model.SharedViewModel
 import edu.ucsc.cse118.assignment3.model.ViewModelEvent
 
@@ -63,7 +63,10 @@ class MessageFragment : Fragment(), MessageListener {
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View {
-        val fragmentBinding = FragmentMasterBinding.inflate(inflater, container, false)
+        val fragmentBinding = FragmentMessageBinding.inflate(inflater, container, false)
+        fragmentBinding.fab.setOnClickListener {
+            findNavController().navigate(R.id.action_messageFragment_to_composeFragment)
+        }
         return fragmentBinding.root
     }
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {

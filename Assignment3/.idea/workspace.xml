@@ -46,7 +46,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2G6EGHwuRHdGHoXQZPaSkbSThPk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -202,5 +202,12 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.lang.NullPointerException" memberName="backtrace" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
 </project>

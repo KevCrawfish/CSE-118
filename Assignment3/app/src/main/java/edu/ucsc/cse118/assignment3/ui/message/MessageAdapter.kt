@@ -2,21 +2,15 @@ package edu.ucsc.cse118.assignment3.ui.message
 
 import android.annotation.SuppressLint
 import android.view.LayoutInflater
-import edu.ucsc.cse118.assignment3.R
 import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import edu.ucsc.cse118.assignment3.data.Channel
+import edu.ucsc.cse118.assignment3.R
 import edu.ucsc.cse118.assignment3.data.Message
-import edu.ucsc.cse118.assignment3.data.Workspace
-import edu.ucsc.cse118.assignment3.ui.channel.ChannelListener
-import edu.ucsc.cse118.assignment3.ui.message.MessageListener
-import java.time.LocalDate
-import java.time.LocalDateTime
+import java.time.ZoneId
 import java.time.ZonedDateTime
 import java.time.format.DateTimeFormatter
-import java.time.format.FormatStyle
 
 class MessageAdapter(private val messages: ArrayList<Message>, private val listener: MessageListener) :
     RecyclerView.Adapter<MessageAdapter.MessageViewHolder>()
@@ -41,7 +35,7 @@ class MessageAdapter(private val messages: ArrayList<Message>, private val liste
         fun bind(message: Message) {
             val dated : ZonedDateTime = ZonedDateTime.parse(message.date)
             poster.text = message.poster
-            date.text = dated.format(DateTimeFormatter.ofPattern("MMM d, y, H:mm:ss a"))
+            date.text = dated.format(DateTimeFormatter.ofPattern("MMM d, y, h:mm:ss a"))
             content.text = message.content
         }
     }

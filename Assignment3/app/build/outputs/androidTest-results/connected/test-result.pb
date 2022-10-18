@@ -1,0 +1,801 @@
+
+∏
+S
+AdvancedTestedu.ucsc.cse118.assignment3
+fab_exists2œÉπöÄµ¿√:“ÉπöÄŸ±¡"’
+
+logcatandroidø
+º/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/logcat-edu.ucsc.cse118.assignment3.AdvancedTest-fab_exists.txt"™
+
+device-infoandroidè
+å/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/device-info.pb"´
+
+device-info.meminfoandroidà
+Ö/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/meminfo"´
+
+device-info.cpuinfoandroidà
+Ö/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/cpuinfo…
+[
+AdvancedTestedu.ucsc.cse118.assignment3fab_type_not_enough2“Éπö¿¿≠Ã:÷Éπö¿ÖÎ6"ﬁ
+
+logcatandroid»
+≈/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/logcat-edu.ucsc.cse118.assignment3.AdvancedTest-fab_type_not_enough.txt"™
+
+device-infoandroidè
+å/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/device-info.pb"´
+
+device-info.meminfoandroidà
+Ö/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/meminfo"´
+
+device-info.cpuinfoandroidà
+Ö/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/cpuinfo 
+[
+AdvancedTestedu.ucsc.cse118.assignment3fab_type_new_message2÷ÉπöÄ£√G:⁄ÉπöÄÍÂ"ﬂ
+
+logcatandroid…
+∆/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/logcat-edu.ucsc.cse118.assignment3.AdvancedTest-fab_type_new_message.txt"™
+
+device-infoandroidè
+å/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/device-info.pb"´
+
+device-info.meminfoandroidà
+Ö/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/meminfo"´
+
+device-info.cpuinfoandroidà
+Ö/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/cpuinfo©
+K
+	BasicTestedu.ucsc.cse118.assignment3header2⁄ÉπöÄÍÂ:€Éπö¿¬Äø"Œ
+
+logcatandroid∏
+µ/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/logcat-edu.ucsc.cse118.assignment3.BasicTest-header.txt"™
+
+device-infoandroidè
+å/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/device-info.pb"´
+
+device-info.meminfoandroidà
+Ö/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/meminfo"´
+
+device-info.cpuinfoandroidà
+Ö/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/cpuinfoæ
+V
+	BasicTestedu.ucsc.cse118.assignment3workspace_movies2€ÉπöÄ‚´¬:›ÉπöÄ√é‡"ÿ
+
+logcatandroid¬
+ø/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/logcat-edu.ucsc.cse118.assignment3.BasicTest-workspace_movies.txt"™
+
+device-infoandroidè
+å/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/device-info.pb"´
+
+device-info.meminfoandroidà
+Ö/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/meminfo"´
+
+device-info.cpuinfoandroidà
+Ö/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/cpuinfo…
+[
+	BasicTestedu.ucsc.cse118.assignment3workspace_construction2›Éπö¿Ù≠Â:ﬂÉπöÄä®7"ﬁ
+
+logcatandroid»
+≈/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/logcat-edu.ucsc.cse118.assignment3.BasicTest-workspace_construction.txt"™
+
+device-infoandroidè
+å/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/device-info.pb"´
+
+device-info.meminfoandroidà
+Ö/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/meminfo"´
+
+device-info.cpuinfoandroidà
+Ö/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/cpuinfo≈
+Y
+	BasicTestedu.ucsc.cse118.assignment3movies_channel_count2ﬂÉπö¿éÂ7:‡ÉπöÄ˘ﬁ"‹
+
+logcatandroid∆
+√/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/logcat-edu.ucsc.cse118.assignment3.BasicTest-movies_channel_count.txt"™
+
+device-infoandroidè
+å/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/device-info.pb"´
+
+device-info.meminfoandroidà
+Ö/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/meminfo"´
+
+device-info.cpuinfoandroidà
+Ö/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/cpuinfo∆
+Z
+	BasicTestedu.ucsc.cse118.assignment3movies_channel_drama2‡Éπö¿è•‚:‚ÉπöÄ•®Æ"‹
+
+logcatandroid∆
+√/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/logcat-edu.ucsc.cse118.assignment3.BasicTest-movies_channel_drama.txt"™
+
+device-infoandroidè
+å/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/device-info.pb"´
+
+device-info.meminfoandroidà
+Ö/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/meminfo"´
+
+device-info.cpuinfoandroidà
+Ö/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/cpuinfo÷
+b
+	BasicTestedu.ucsc.cse118.assignment3construction_channel_framing2‚Éπö¿©ÂÆ:‰Éπö¿°êÍ"‰
+
+logcatandroidŒ
+À/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/logcat-edu.ucsc.cse118.assignment3.BasicTest-construction_channel_framing.txt"™
+
+device-infoandroidè
+å/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/device-info.pb"´
+
+device-info.meminfoandroidà
+Ö/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/meminfo"´
+
+device-info.cpuinfoandroidà
+Ö/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/cpuinfoÖü
+p
+	BasicTestedu.ucsc.cse118.assignment3+construction_channel_framing_message_ranice2‰ÉπöÄ µÓ:ÌÉπö¿’á	éò
+Îãandroidx.test.espresso.NoMatchingViewException: No views in hierarchy found matching: an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Ranice Desantis"
+
+View Hierarchy:
++>DecorView{id=-1, visibility=VISIBLE, width=1080, height=2340, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params={(0,0)(fillxfill) ty=BASE_APPLICATION wanim=0x10302fe
+fl=LAYOUT_IN_SCREEN LAYOUT_INSET_DECOR SPLIT_TOUCH HARDWARE_ACCELERATED DRAWS_SYSTEM_BAR_BACKGROUNDS
+pfl=NO_MOVE_ANIMATION FORCE_DRAW_STATUS_BAR_BACKGROUND FIT_INSETS_CONTROLLED
+bhv=DEFAULT
+fitSides=}, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++->LinearLayout{id=-1, visibility=VISIBLE, width=1080, height=2296, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@41e4967, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+|
++-->ViewStub{id=16908723, res-name=action_mode_bar_stub, visibility=GONE, width=0, height=0, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=true, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@7ecd314, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
+|
++-->FrameLayout{id=-1, visibility=VISIBLE, width=1080, height=2230, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@5a0b1b2, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=66.0, child-count=1}
+|
++--->ActionBarOverlayLayout{id=2131230872, res-name=decor_content_parent, visibility=VISIBLE, width=1080, height=2230, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@d3c1503, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+|
++---->ContentFrameLayout{id=16908290, res-name=content, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.ActionBarOverlayLayout$LayoutParams@80a82b9, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=154.0, child-count=1}
+|
++----->ConstraintLayout{id=-1, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@de0fe5f, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=1}
+|
++------>FragmentContainerView{id=2131231033, res-name=nav_host_fragment, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@4479175, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=1}
+|
++------->FragmentContainerView{id=2131231033, res-name=nav_host_fragment, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@8c1217b, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=1}
+|
++-------->ConstraintLayout{id=-1, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@53627d6, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+|
++--------->RecyclerView{id=2131231080, res-name=recyclerview, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@720c1e5, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=10}
+|
++---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@1d95f6b, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, child-count=1}
+|
++----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@2ac8747, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@c976b74, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@eee489d, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 6:04:09 AM, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=506, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@c02f112, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=A very long line of content, input-type=0, ime-target=false, has-links=false}
+|
++---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@779cae0, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=239.0, child-count=1}
+|
++----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@260b50c, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@d9eee55, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@407906a, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 6:01:06 AM, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=501, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@134f95b, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=Testing Deleting 7654321, input-type=0, ime-target=false, has-links=false}
+|
++---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@22d1ad1, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=467.0, child-count=1}
+|
++----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@a97930d, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@a65c2c2, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@2b738d3, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 6:01:02 AM, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=501, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@185ac10, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=Testing Deleting 1234567, input-type=0, ime-target=false, has-links=false}
+|
++---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@f51490e, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=695.0, child-count=1}
+|
++----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@85ce81a, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@c62ef4b, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@a0aed28, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 6:00:50 AM, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=581, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@fd95a41, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=Testing Posting Message 111, input-type=0, ime-target=false, has-links=false}
+|
++---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@36f3527, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=923.0, child-count=1}
+|
++----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@d0ffcc3, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@a43940, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@6de1079, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 5:59:55 AM, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=506, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@c2811be, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=A very long line of content, input-type=0, ime-target=false, has-links=false}
+|
++---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@133a96c, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=1151.0, child-count=1}
+|
++----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@c67f058, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@f8c55b1, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@8c29a96, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 5:59:51 AM, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=501, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@bf9b617, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=Testing Deleting 7654321, input-type=0, ime-target=false, has-links=false}
+|
++---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@d5f9bed, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=1379.0, child-count=1}
+|
++----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@5a709e9, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@5a666e, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@8c7510f, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 5:59:47 AM, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=501, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@82a459c, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=Testing Deleting 1234567, input-type=0, ime-target=false, has-links=false}
+|
++---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@fca7b7a, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=1607.0, child-count=1}
+|
++----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@6f4d546, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@95e5307, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@8dfac34, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 5:59:35 AM, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=581, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@1ec5a5d, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=Testing Posting Message 111, input-type=0, ime-target=false, has-links=false}
+|
++---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@50318a3, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=1835.0, child-count=1}
+|
++----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@2a49bff, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@dd84dcc, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@4957815, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 5:56:00 AM, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=581, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@378b72a, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=Testing Posting Message 111, input-type=0, ime-target=false, has-links=false}
+|
++---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@b227ab8, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=2063.0, child-count=1}
+|
++----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@ee08a64, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@d1d94cd, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@c7d0182, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 5:03:10 AM, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=949, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@43b7093, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=This is test #4 of Advanced. Good luck everyone!, input-type=0, ime-target=false, has-links=false}
+|
++--------->FloatingActionButton{id=2131230913, res-name=fab, desc=Fab, visibility=VISIBLE, width=154, height=154, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@e4de8d0, tag=null, root-is-layout-requested=false, has-input-connection=false, x=882.0, y=1878.0}
+|
++---->ActionBarContainer{id=2131230773, res-name=action_bar_container, visibility=VISIBLE, width=1080, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.ActionBarOverlayLayout$LayoutParams@8a282ef, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+|
++----->Toolbar{id=2131230771, res-name=action_bar, visibility=VISIBLE, width=1080, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@a859085, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++------>AppCompatTextView{id=-1, visibility=VISIBLE, width=361, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.Toolbar$LayoutParams@8c53eda, tag=null, root-is-layout-requested=false, has-input-connection=false, x=198.0, y=40.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+|
++------>ActionMenuView{id=-1, visibility=VISIBLE, width=0, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.Toolbar$LayoutParams@bbe5f0b, tag=null, root-is-layout-requested=false, has-input-connection=false, x=1080.0, y=0.0, child-count=0}
+|
++------>AppCompatImageButton{id=-1, desc=Navigate up, visibility=VISIBLE, width=154, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.Toolbar$LayoutParams@e8601e8, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
+|
++----->ActionBarContextView{id=2131230780, res-name=action_context_bar, visibility=GONE, width=0, height=0, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=true, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@513b001, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=0}
+|
++->View{id=16908336, res-name=navigationBarBackground, visibility=VISIBLE, width=1080, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@ac86ea6, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=2296.0}
+|
++->View{id=16908335, res-name=statusBarBackground, visibility=VISIBLE, width=1080, height=66, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@371e0e7, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
+at dalvik.system.VMStack.getThreadStackTrace(Native Method)
+at java.lang.Thread.getStackTrace(Thread.java:1724)
+at androidx.test.espresso.base.DefaultFailureHandler.getUserFriendlyError(DefaultFailureHandler.java:12)
+at androidx.test.espresso.base.DefaultFailureHandler.handle(DefaultFailureHandler.java:7)
+at androidx.test.espresso.ViewInteraction.waitForAndHandleInteractionResults(ViewInteraction.java:8)
+at androidx.test.espresso.ViewInteraction.desugaredPerform(ViewInteraction.java:11)
+at androidx.test.espresso.ViewInteraction.perform(ViewInteraction.java:4)
+at edu.ucsc.cse118.assignment3.TestHelper.waitForView(TestHelper.kt:48)
+at edu.ucsc.cse118.assignment3.TestHelper.waitForView$default(TestHelper.kt:39)
+at edu.ucsc.cse118.assignment3.TestHelper.waitForText(TestHelper.kt:60)
+at edu.ucsc.cse118.assignment3.BasicTest.construction_channel_framing_message_ranice(BasicTest.kt:68).androidx.test.espresso.NoMatchingViewExceptionÎãandroidx.test.espresso.NoMatchingViewException: No views in hierarchy found matching: an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Ranice Desantis"
+
+View Hierarchy:
++>DecorView{id=-1, visibility=VISIBLE, width=1080, height=2340, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params={(0,0)(fillxfill) ty=BASE_APPLICATION wanim=0x10302fe
+fl=LAYOUT_IN_SCREEN LAYOUT_INSET_DECOR SPLIT_TOUCH HARDWARE_ACCELERATED DRAWS_SYSTEM_BAR_BACKGROUNDS
+pfl=NO_MOVE_ANIMATION FORCE_DRAW_STATUS_BAR_BACKGROUND FIT_INSETS_CONTROLLED
+bhv=DEFAULT
+fitSides=}, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++->LinearLayout{id=-1, visibility=VISIBLE, width=1080, height=2296, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@41e4967, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+|
++-->ViewStub{id=16908723, res-name=action_mode_bar_stub, visibility=GONE, width=0, height=0, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=true, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@7ecd314, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
+|
++-->FrameLayout{id=-1, visibility=VISIBLE, width=1080, height=2230, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@5a0b1b2, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=66.0, child-count=1}
+|
++--->ActionBarOverlayLayout{id=2131230872, res-name=decor_content_parent, visibility=VISIBLE, width=1080, height=2230, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@d3c1503, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+|
++---->ContentFrameLayout{id=16908290, res-name=content, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.ActionBarOverlayLayout$LayoutParams@80a82b9, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=154.0, child-count=1}
+|
++----->ConstraintLayout{id=-1, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@de0fe5f, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=1}
+|
++------>FragmentContainerView{id=2131231033, res-name=nav_host_fragment, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@4479175, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=1}
+|
++------->FragmentContainerView{id=2131231033, res-name=nav_host_fragment, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@8c1217b, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=1}
+|
++-------->ConstraintLayout{id=-1, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@53627d6, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+|
++--------->RecyclerView{id=2131231080, res-name=recyclerview, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@720c1e5, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=10}
+|
++---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@1d95f6b, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, child-count=1}
+|
++----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@2ac8747, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@c976b74, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@eee489d, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 6:04:09 AM, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=506, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@c02f112, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=A very long line of content, input-type=0, ime-target=false, has-links=false}
+|
++---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@779cae0, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=239.0, child-count=1}
+|
++----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@260b50c, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@d9eee55, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@407906a, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 6:01:06 AM, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=501, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@134f95b, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=Testing Deleting 7654321, input-type=0, ime-target=false, has-links=false}
+|
++---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@22d1ad1, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=467.0, child-count=1}
+|
++----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@a97930d, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@a65c2c2, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@2b738d3, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 6:01:02 AM, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=501, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@185ac10, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=Testing Deleting 1234567, input-type=0, ime-target=false, has-links=false}
+|
++---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@f51490e, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=695.0, child-count=1}
+|
++----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@85ce81a, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@c62ef4b, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@a0aed28, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 6:00:50 AM, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=581, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@fd95a41, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=Testing Posting Message 111, input-type=0, ime-target=false, has-links=false}
+|
++---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@36f3527, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=923.0, child-count=1}
+|
++----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@d0ffcc3, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@a43940, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@6de1079, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 5:59:55 AM, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=506, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@c2811be, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=A very long line of content, input-type=0, ime-target=false, has-links=false}
+|
++---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@133a96c, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=1151.0, child-count=1}
+|
++----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@c67f058, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@f8c55b1, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@8c29a96, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 5:59:51 AM, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=501, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@bf9b617, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=Testing Deleting 7654321, input-type=0, ime-target=false, has-links=false}
+|
++---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@d5f9bed, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=1379.0, child-count=1}
+|
++----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@5a709e9, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@5a666e, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@8c7510f, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 5:59:47 AM, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=501, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@82a459c, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=Testing Deleting 1234567, input-type=0, ime-target=false, has-links=false}
+|
++---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@fca7b7a, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=1607.0, child-count=1}
+|
++----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@6f4d546, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@95e5307, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@8dfac34, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 5:59:35 AM, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=581, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@1ec5a5d, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=Testing Posting Message 111, input-type=0, ime-target=false, has-links=false}
+|
++---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@50318a3, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=1835.0, child-count=1}
+|
++----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@2a49bff, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@dd84dcc, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@4957815, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 5:56:00 AM, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=581, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@378b72a, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=Testing Posting Message 111, input-type=0, ime-target=false, has-links=false}
+|
++---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@b227ab8, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=2063.0, child-count=1}
+|
++----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@ee08a64, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@d1d94cd, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@c7d0182, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 5:03:10 AM, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=949, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@43b7093, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=This is test #4 of Advanced. Good luck everyone!, input-type=0, ime-target=false, has-links=false}
+|
++--------->FloatingActionButton{id=2131230913, res-name=fab, desc=Fab, visibility=VISIBLE, width=154, height=154, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@e4de8d0, tag=null, root-is-layout-requested=false, has-input-connection=false, x=882.0, y=1878.0}
+|
++---->ActionBarContainer{id=2131230773, res-name=action_bar_container, visibility=VISIBLE, width=1080, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.ActionBarOverlayLayout$LayoutParams@8a282ef, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+|
++----->Toolbar{id=2131230771, res-name=action_bar, visibility=VISIBLE, width=1080, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@a859085, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++------>AppCompatTextView{id=-1, visibility=VISIBLE, width=361, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.Toolbar$LayoutParams@8c53eda, tag=null, root-is-layout-requested=false, has-input-connection=false, x=198.0, y=40.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+|
++------>ActionMenuView{id=-1, visibility=VISIBLE, width=0, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.Toolbar$LayoutParams@bbe5f0b, tag=null, root-is-layout-requested=false, has-input-connection=false, x=1080.0, y=0.0, child-count=0}
+|
++------>AppCompatImageButton{id=-1, desc=Navigate up, visibility=VISIBLE, width=154, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.Toolbar$LayoutParams@e8601e8, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
+|
++----->ActionBarContextView{id=2131230780, res-name=action_context_bar, visibility=GONE, width=0, height=0, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=true, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@513b001, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=0}
+|
++->View{id=16908336, res-name=navigationBarBackground, visibility=VISIBLE, width=1080, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@ac86ea6, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=2296.0}
+|
++->View{id=16908335, res-name=statusBarBackground, visibility=VISIBLE, width=1080, height=66, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@371e0e7, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
+at dalvik.system.VMStack.getThreadStackTrace(Native Method)
+at java.lang.Thread.getStackTrace(Thread.java:1724)
+at androidx.test.espresso.base.DefaultFailureHandler.getUserFriendlyError(DefaultFailureHandler.java:12)
+at androidx.test.espresso.base.DefaultFailureHandler.handle(DefaultFailureHandler.java:7)
+at androidx.test.espresso.ViewInteraction.waitForAndHandleInteractionResults(ViewInteraction.java:8)
+at androidx.test.espresso.ViewInteraction.desugaredPerform(ViewInteraction.java:11)
+at androidx.test.espresso.ViewInteraction.perform(ViewInteraction.java:4)
+at edu.ucsc.cse118.assignment3.TestHelper.waitForView(TestHelper.kt:48)
+at edu.ucsc.cse118.assignment3.TestHelper.waitForView$default(TestHelper.kt:39)
+at edu.ucsc.cse118.assignment3.TestHelper.waitForText(TestHelper.kt:60)
+at edu.ucsc.cse118.assignment3.BasicTest.construction_channel_framing_message_ranice(BasicTest.kt:68)"Û
+
+logcatandroid›
+⁄/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/logcat-edu.ucsc.cse118.assignment3.BasicTest-construction_channel_framing_message_ranice.txt"™
+
+device-infoandroidè
+å/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/device-info.pb"´
+
+device-info.meminfoandroidà
+Ö/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/meminfo"´
+
+device-info.cpuinfoandroidà
+Ö/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/cpuinfoˇû
+u
+	BasicTestedu.ucsc.cse118.assignment30construction_channel_framing_message_ranice_date2ÌÉπöÄ‘À1:ˆÉπöÄ‘‘´˛ó
+„ãandroidx.test.espresso.NoMatchingViewException: No views in hierarchy found matching: an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM"
+
+View Hierarchy:
++>DecorView{id=-1, visibility=VISIBLE, width=1080, height=2340, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params={(0,0)(fillxfill) ty=BASE_APPLICATION wanim=0x10302fe
+fl=LAYOUT_IN_SCREEN LAYOUT_INSET_DECOR SPLIT_TOUCH HARDWARE_ACCELERATED DRAWS_SYSTEM_BAR_BACKGROUNDS
+pfl=NO_MOVE_ANIMATION FORCE_DRAW_STATUS_BAR_BACKGROUND FIT_INSETS_CONTROLLED
+bhv=DEFAULT
+fitSides=}, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++->LinearLayout{id=-1, visibility=VISIBLE, width=1080, height=2296, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@7f8d4af, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+|
++-->ViewStub{id=16908723, res-name=action_mode_bar_stub, visibility=GONE, width=0, height=0, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=true, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@41a10bc, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
+|
++-->FrameLayout{id=-1, visibility=VISIBLE, width=1080, height=2230, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@f960b9a, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=66.0, child-count=1}
+|
++--->ActionBarOverlayLayout{id=2131230872, res-name=decor_content_parent, visibility=VISIBLE, width=1080, height=2230, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@d880ccb, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+|
++---->ContentFrameLayout{id=16908290, res-name=content, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.ActionBarOverlayLayout$LayoutParams@6d173c1, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=154.0, child-count=1}
+|
++----->ConstraintLayout{id=-1, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@188aaa7, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=1}
+|
++------>FragmentContainerView{id=2131231033, res-name=nav_host_fragment, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@7408afd, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=1}
+|
++------->FragmentContainerView{id=2131231033, res-name=nav_host_fragment, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@f0b4a43, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=1}
+|
++-------->ConstraintLayout{id=-1, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@73fdd3e, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+|
++--------->RecyclerView{id=2131231080, res-name=recyclerview, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@af2d6d, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=10}
+|
++---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@6034a33, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, child-count=1}
+|
++----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@59e568f, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@4649d1c, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@65d9d25, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 6:04:28 AM, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=506, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@b5b5efa, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=A very long line of content, input-type=0, ime-target=false, has-links=false}
+|
++---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@1ac6f08, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=239.0, child-count=1}
+|
++----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@81d73b4, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@f034bdd, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@f72d352, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 6:04:09 AM, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=506, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@3b32623, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=A very long line of content, input-type=0, ime-target=false, has-links=false}
+|
++---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@56dc8d9, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=467.0, child-count=1}
+|
++----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@c691995, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@cc97aaa, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@ea5369b, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 6:01:06 AM, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=501, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@9ddaa38, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=Testing Deleting 7654321, input-type=0, ime-target=false, has-links=false}
+|
++---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@f9c9776, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=695.0, child-count=1}
+|
++----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@fb2b502, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@3c9de13, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@44f8850, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 6:01:02 AM, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=501, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@f459a49, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=Testing Deleting 1234567, input-type=0, ime-target=false, has-links=false}
+|
++---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@a6a486f, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=923.0, child-count=1}
+|
++----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@5fcfc8b, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@2c1168, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@e814981, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 6:00:50 AM, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=581, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@c37ca26, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=Testing Posting Message 111, input-type=0, ime-target=false, has-links=false}
+|
++---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@e64dc14, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=1151.0, child-count=1}
+|
++----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@4bda580, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@e2ca7b9, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@633f7fe, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 5:59:55 AM, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=506, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@6242b5f, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=A very long line of content, input-type=0, ime-target=false, has-links=false}
+|
++---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@ae70675, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=1379.0, child-count=1}
+|
++----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@8ae94f1, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@71d08d6, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@b922757, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 5:59:51 AM, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=501, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@9817244, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=Testing Deleting 7654321, input-type=0, ime-target=false, has-links=false}
+|
++---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@fb8dc62, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=1607.0, child-count=1}
+|
++----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@d4c5cae, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@a54aa4f, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@a0ac5dc, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 5:59:47 AM, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=501, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@30776e5, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=Testing Deleting 1234567, input-type=0, ime-target=false, has-links=false}
+|
++---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@65b9c6b, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=1835.0, child-count=1}
+|
++----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@9959447, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@dc7f474, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@569d9d, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 5:59:35 AM, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=581, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@d552212, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=Testing Posting Message 111, input-type=0, ime-target=false, has-links=false}
+|
++---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@5a9e3e0, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=2063.0, child-count=1}
+|
++----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@5f95e0c, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@f1ce355, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@54ee16a, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 5:56:00 AM, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=581, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@d40765b, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=Testing Posting Message 111, input-type=0, ime-target=false, has-links=false}
+|
++--------->FloatingActionButton{id=2131230913, res-name=fab, desc=Fab, visibility=VISIBLE, width=154, height=154, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@de44ef8, tag=null, root-is-layout-requested=false, has-input-connection=false, x=882.0, y=1878.0}
+|
++---->ActionBarContainer{id=2131230773, res-name=action_bar_container, visibility=VISIBLE, width=1080, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.ActionBarOverlayLayout$LayoutParams@2861d37, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+|
++----->Toolbar{id=2131230771, res-name=action_bar, visibility=VISIBLE, width=1080, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@53f280d, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++------>AppCompatTextView{id=-1, visibility=VISIBLE, width=361, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.Toolbar$LayoutParams@12633c2, tag=null, root-is-layout-requested=false, has-input-connection=false, x=198.0, y=40.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+|
++------>ActionMenuView{id=-1, visibility=VISIBLE, width=0, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.Toolbar$LayoutParams@b1555d3, tag=null, root-is-layout-requested=false, has-input-connection=false, x=1080.0, y=0.0, child-count=0}
+|
++------>AppCompatImageButton{id=-1, desc=Navigate up, visibility=VISIBLE, width=154, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.Toolbar$LayoutParams@c6e0510, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
+|
++----->ActionBarContextView{id=2131230780, res-name=action_context_bar, visibility=GONE, width=0, height=0, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=true, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@ac33809, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=0}
+|
++->View{id=16908336, res-name=navigationBarBackground, visibility=VISIBLE, width=1080, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@27ca0e, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=2296.0}
+|
++->View{id=16908335, res-name=statusBarBackground, visibility=VISIBLE, width=1080, height=66, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@5557c2f, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
+at dalvik.system.VMStack.getThreadStackTrace(Native Method)
+at java.lang.Thread.getStackTrace(Thread.java:1724)
+at androidx.test.espresso.base.DefaultFailureHandler.getUserFriendlyError(DefaultFailureHandler.java:12)
+at androidx.test.espresso.base.DefaultFailureHandler.handle(DefaultFailureHandler.java:7)
+at androidx.test.espresso.ViewInteraction.waitForAndHandleInteractionResults(ViewInteraction.java:8)
+at androidx.test.espresso.ViewInteraction.desugaredPerform(ViewInteraction.java:11)
+at androidx.test.espresso.ViewInteraction.perform(ViewInteraction.java:4)
+at edu.ucsc.cse118.assignment3.TestHelper.waitForView(TestHelper.kt:48)
+at edu.ucsc.cse118.assignment3.TestHelper.waitForView$default(TestHelper.kt:39)
+at edu.ucsc.cse118.assignment3.TestHelper.waitForText(TestHelper.kt:60)
+at edu.ucsc.cse118.assignment3.BasicTest.construction_channel_framing_message_ranice_date(BasicTest.kt:73).androidx.test.espresso.NoMatchingViewException„ãandroidx.test.espresso.NoMatchingViewException: No views in hierarchy found matching: an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM"
+
+View Hierarchy:
++>DecorView{id=-1, visibility=VISIBLE, width=1080, height=2340, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params={(0,0)(fillxfill) ty=BASE_APPLICATION wanim=0x10302fe
+fl=LAYOUT_IN_SCREEN LAYOUT_INSET_DECOR SPLIT_TOUCH HARDWARE_ACCELERATED DRAWS_SYSTEM_BAR_BACKGROUNDS
+pfl=NO_MOVE_ANIMATION FORCE_DRAW_STATUS_BAR_BACKGROUND FIT_INSETS_CONTROLLED
+bhv=DEFAULT
+fitSides=}, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++->LinearLayout{id=-1, visibility=VISIBLE, width=1080, height=2296, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@7f8d4af, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+|
++-->ViewStub{id=16908723, res-name=action_mode_bar_stub, visibility=GONE, width=0, height=0, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=true, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@41a10bc, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
+|
++-->FrameLayout{id=-1, visibility=VISIBLE, width=1080, height=2230, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@f960b9a, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=66.0, child-count=1}
+|
++--->ActionBarOverlayLayout{id=2131230872, res-name=decor_content_parent, visibility=VISIBLE, width=1080, height=2230, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@d880ccb, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+|
++---->ContentFrameLayout{id=16908290, res-name=content, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.ActionBarOverlayLayout$LayoutParams@6d173c1, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=154.0, child-count=1}
+|
++----->ConstraintLayout{id=-1, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@188aaa7, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=1}
+|
++------>FragmentContainerView{id=2131231033, res-name=nav_host_fragment, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@7408afd, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=1}
+|
++------->FragmentContainerView{id=2131231033, res-name=nav_host_fragment, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@f0b4a43, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=1}
+|
++-------->ConstraintLayout{id=-1, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@73fdd3e, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+|
++--------->RecyclerView{id=2131231080, res-name=recyclerview, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@af2d6d, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=10}
+|
++---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@6034a33, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, child-count=1}
+|
++----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@59e568f, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@4649d1c, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@65d9d25, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 6:04:28 AM, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=506, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@b5b5efa, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=A very long line of content, input-type=0, ime-target=false, has-links=false}
+|
++---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@1ac6f08, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=239.0, child-count=1}
+|
++----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@81d73b4, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@f034bdd, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@f72d352, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 6:04:09 AM, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=506, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@3b32623, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=A very long line of content, input-type=0, ime-target=false, has-links=false}
+|
++---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@56dc8d9, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=467.0, child-count=1}
+|
++----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@c691995, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@cc97aaa, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@ea5369b, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 6:01:06 AM, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=501, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@9ddaa38, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=Testing Deleting 7654321, input-type=0, ime-target=false, has-links=false}
+|
++---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@f9c9776, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=695.0, child-count=1}
+|
++----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@fb2b502, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@3c9de13, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@44f8850, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 6:01:02 AM, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=501, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@f459a49, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=Testing Deleting 1234567, input-type=0, ime-target=false, has-links=false}
+|
++---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@a6a486f, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=923.0, child-count=1}
+|
++----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@5fcfc8b, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@2c1168, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@e814981, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 6:00:50 AM, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=581, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@c37ca26, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=Testing Posting Message 111, input-type=0, ime-target=false, has-links=false}
+|
++---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@e64dc14, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=1151.0, child-count=1}
+|
++----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@4bda580, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@e2ca7b9, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@633f7fe, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 5:59:55 AM, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=506, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@6242b5f, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=A very long line of content, input-type=0, ime-target=false, has-links=false}
+|
++---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@ae70675, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=1379.0, child-count=1}
+|
++----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@8ae94f1, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@71d08d6, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@b922757, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 5:59:51 AM, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=501, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@9817244, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=Testing Deleting 7654321, input-type=0, ime-target=false, has-links=false}
+|
++---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@fb8dc62, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=1607.0, child-count=1}
+|
++----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@d4c5cae, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@a54aa4f, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@a0ac5dc, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 5:59:47 AM, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=501, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@30776e5, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=Testing Deleting 1234567, input-type=0, ime-target=false, has-links=false}
+|
++---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@65b9c6b, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=1835.0, child-count=1}
+|
++----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@9959447, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@dc7f474, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@569d9d, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 5:59:35 AM, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=581, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@d552212, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=Testing Posting Message 111, input-type=0, ime-target=false, has-links=false}
+|
++---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@5a9e3e0, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=2063.0, child-count=1}
+|
++----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@5f95e0c, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@f1ce355, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@54ee16a, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 5:56:00 AM, input-type=0, ime-target=false, has-links=false}
+|
++------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=581, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@d40765b, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=Testing Posting Message 111, input-type=0, ime-target=false, has-links=false}
+|
++--------->FloatingActionButton{id=2131230913, res-name=fab, desc=Fab, visibility=VISIBLE, width=154, height=154, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@de44ef8, tag=null, root-is-layout-requested=false, has-input-connection=false, x=882.0, y=1878.0}
+|
++---->ActionBarContainer{id=2131230773, res-name=action_bar_container, visibility=VISIBLE, width=1080, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.ActionBarOverlayLayout$LayoutParams@2861d37, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+|
++----->Toolbar{id=2131230771, res-name=action_bar, visibility=VISIBLE, width=1080, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@53f280d, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+|
++------>AppCompatTextView{id=-1, visibility=VISIBLE, width=361, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.Toolbar$LayoutParams@12633c2, tag=null, root-is-layout-requested=false, has-input-connection=false, x=198.0, y=40.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+|
++------>ActionMenuView{id=-1, visibility=VISIBLE, width=0, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.Toolbar$LayoutParams@b1555d3, tag=null, root-is-layout-requested=false, has-input-connection=false, x=1080.0, y=0.0, child-count=0}
+|
++------>AppCompatImageButton{id=-1, desc=Navigate up, visibility=VISIBLE, width=154, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.Toolbar$LayoutParams@c6e0510, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
+|
++----->ActionBarContextView{id=2131230780, res-name=action_context_bar, visibility=GONE, width=0, height=0, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=true, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@ac33809, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=0}
+|
++->View{id=16908336, res-name=navigationBarBackground, visibility=VISIBLE, width=1080, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@27ca0e, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=2296.0}
+|
++->View{id=16908335, res-name=statusBarBackground, visibility=VISIBLE, width=1080, height=66, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@5557c2f, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
+at dalvik.system.VMStack.getThreadStackTrace(Native Method)
+at java.lang.Thread.getStackTrace(Thread.java:1724)
+at androidx.test.espresso.base.DefaultFailureHandler.getUserFriendlyError(DefaultFailureHandler.java:12)
+at androidx.test.espresso.base.DefaultFailureHandler.handle(DefaultFailureHandler.java:7)
+at androidx.test.espresso.ViewInteraction.waitForAndHandleInteractionResults(ViewInteraction.java:8)
+at androidx.test.espresso.ViewInteraction.desugaredPerform(ViewInteraction.java:11)
+at androidx.test.espresso.ViewInteraction.perform(ViewInteraction.java:4)
+at edu.ucsc.cse118.assignment3.TestHelper.waitForView(TestHelper.kt:48)
+at edu.ucsc.cse118.assignment3.TestHelper.waitForView$default(TestHelper.kt:39)
+at edu.ucsc.cse118.assignment3.TestHelper.waitForText(TestHelper.kt:60)
+at edu.ucsc.cse118.assignment3.BasicTest.construction_channel_framing_message_ranice_date(BasicTest.kt:73)"¯
+
+logcatandroid‚
+ﬂ/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/logcat-edu.ucsc.cse118.assignment3.BasicTest-construction_channel_framing_message_ranice_date.txt"™
+
+device-infoandroidè
+å/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/device-info.pb"´
+
+device-info.meminfoandroidà
+Ö/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/meminfo"´
+
+device-info.cpuinfoandroidà
+Ö/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/cpuinfo“
+`
+	BasicTestedu.ucsc.cse118.assignment3construction_channel_count2ˆÉπöÄ¿ç∑:˘ÉπöÄ¢ßÖ"‚
+
+logcatandroidÃ
+…/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/logcat-edu.ucsc.cse118.assignment3.BasicTest-construction_channel_count.txt"™
+
+device-infoandroidè
+å/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/device-info.pb"´
+
+device-info.meminfoandroidà
+Ö/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/meminfo"´
+
+device-info.cpuinfoandroidà
+Ö/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/cpuinfo*è
+c
+test-results.logOcom.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriverô
+ñ/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/testlog/test-results.log 2
+text/plain

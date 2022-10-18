@@ -1,10 +1,7 @@
 package edu.ucsc.cse118.assignment3.repo
 
 import androidx.lifecycle.LiveData
-import edu.ucsc.cse118.assignment3.data.Channel
-import edu.ucsc.cse118.assignment3.data.Member
-import edu.ucsc.cse118.assignment3.data.Message
-import edu.ucsc.cse118.assignment3.data.Workspace
+import edu.ucsc.cse118.assignment3.data.*
 import edu.ucsc.cse118.assignment3.model.SharedViewModel
 import edu.ucsc.cse118.assignment3.model.ViewModelEvent
 import edu.ucsc.cse118.assignment3.repo.WorkspaceRepository
@@ -20,6 +17,7 @@ class MessageRepository {
 
     companion object {
         private const val url = "https://cse118.com/api/v0/channel"
+        private const val messageUrl = "https://cse118.com/api/v0/message"
     }
 
     fun getAll(member: Member?, channel: Channel?): ArrayList<Message> {
@@ -56,6 +54,35 @@ class MessageRepository {
                 return Json.decodeFromString(inputStream.bufferedReader().use { it.readText() })
             }
             throw Exception("Failed to GET HTTP $responseCode")
+        }
+    }
+
+    fun addOne(member: Member?, channel: Channel?, newMessage: NewMessage?): Message {
+        val path = "$messageUrl/${channel?.id}"
+        with(URL(path).openConnection() as HttpsURLConnection) {
+            requestMethod = "POST"
+            setRequestProperty("Content-Type", "application/json")
+            setRequestProperty("Accept", "application/json")
+            setRequestProperty("Authorization", "Bearer ${member?.accessToken}")
+            outputStream.write(Json.encodeToString(newMessage).toByteArray())
+            if (responseCode == HttpsURLConnection.HTTP_CREATED) {
+                return Json.decodeFromString(inputStream.bufferedReader().use { it.readText() })
+            }
+            throw Exception("Failed to POST HTTP $responseCode")
+        }
+    }
+
+    fun deleteOne(member: Member?, message: Message?) {
+        val path = "$messageUrl/${message?.id}"
+        with(URL(path).openConnection() as HttpsURLConnection) {
+            requestMethod = "DELETE"
+            setRequestProperty("Content-Type", "application/json")
+            setRequestProperty("Accept", "application/json")
+            setRequestProperty("Authorization", "Bearer ${member?.accessToken}")
+            if (responseCode == HttpsURLConnection.HTTP_OK) {
+                return Json.decodeFromString(inputStream.bufferedReader().use { it.readText() })
+            }
+            throw Exception("Failed to DELETE HTTP $responseCode")
         }
     }
 }

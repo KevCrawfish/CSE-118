@@ -1,0 +1,615 @@
+10-17 18:27:18.004  1274  1317 I TestRunner: started: construction_channel_framing_message_ranice_date(edu.ucsc.cse118.assignment3.BasicTest)
+10-17 18:27:18.308  1274  1317 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+10-17 18:27:18.383  1694  1694 I GsaVoiceInteractionSrv: Handling ACTION_START_HOTWORD
+10-17 18:27:18.386  1694  1694 I GsaVoiceInteractionSrv: disregardVoiceMatch: false
+10-17 18:27:18.387  1694  1694 I GsaVoiceInteractionSrv: Cannot start hotword, hotword has been explicitly disabled.
+10-17 18:27:18.400  1274  1293 I 118.assignment: Background concurrent copying GC freed 44268(3006KB) AllocSpace objects, 45(2408KB) LOS objects, 49% free, 5400KB/10MB, paused 14.697ms,233us total 480.411ms
+10-17 18:27:18.472  1166  1177 I s.nexuslaunche: NativeAlloc concurrent copying GC freed 20214(1127KB) AllocSpace objects, 0(0B) LOS objects, 49% free, 5584KB/10MB, paused 530us,946us total 633.477ms
+10-17 18:27:18.487  1166  1179 W System  : A resource failed to call release.
+10-17 18:27:18.487  1166  1179 W System  : A resource failed to call release.
+10-17 18:27:18.487  1166  1179 W System  : A resource failed to call release.
+10-17 18:27:18.488  1166  1179 W System  : A resource failed to call release.
+10-17 18:27:18.488  1166  1179 W System  : A resource failed to call release.
+10-17 18:27:18.488  1166  1179 W System  : A resource failed to call release.
+10-17 18:27:18.488  1166  1179 W System  : A resource failed to call release.
+10-17 18:27:18.488  1166  1179 W System  : A resource failed to call release.
+10-17 18:27:18.489  1166  1179 W System  : A resource failed to call release.
+10-17 18:27:18.495   863   891 I ndroid.systemu: NativeAlloc concurrent copying GC freed 59773(2613KB) AllocSpace objects, 2(40KB) LOS objects, 49% free, 14MB/29MB, paused 52us,104us total 661.945ms
+10-17 18:27:18.525   565  2069 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:18.525   565  2069 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:18.525   565  2069 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:18.525   565  2069 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:18.525   565  2069 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:18.525   565  2069 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:18.525   565  2069 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:18.525   565  2069 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:18.525   565  2069 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:18.525   565  2069 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:18.525   863   942 D SplashScreenView: Build android.window.SplashScreenView{6f9ddfc V.E...... ......ID 0,0-0,0}
+10-17 18:27:18.525   863   942 D SplashScreenView: Icon: view: null drawable: null size: 0
+10-17 18:27:18.525   863   942 D SplashScreenView: Branding: view: android.view.View{6ee7c85 G.ED..... ......I. 0,0-0,0 #10204a9 android:id/splashscreen_branding_view} drawable: null size w: 0 h: 0
+10-17 18:27:18.525   565  2069 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:18.525   565  2069 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:18.525   565  2069 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:18.525   565  2069 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:18.525   565  2069 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:18.525   565  2069 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:18.525   565  2069 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:18.525   565  2069 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:18.525   565  2069 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:18.525   565  2069 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:18.556   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1f0000000 0x1f09a4000]
+10-17 18:27:18.558  1694  1694 I GsaVoiceInteractionSrv: Handling ACTION_STOP_HOTWORD
+10-17 18:27:18.562  1694  1694 E HwDetectorWithState: a: 3
+10-17 18:27:18.569   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1f2944000 0x1f32e8000]
+10-17 18:27:18.573   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1f6944000 0x1f72e8000]
+10-17 18:27:18.614   565   679 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:18.614   565   679 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:18.614   565   679 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:18.614   565   679 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:18.614   565   679 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:18.614   565   679 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:18.614   565   679 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:18.614   565   679 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:18.614   565   679 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:18.614   565   679 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:18.614   565   679 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:18.614   565   679 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:18.614   565   679 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:18.614   565   679 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:18.614   565   679 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:18.614   565   679 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:18.614   565   679 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:18.614   565   679 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:18.614   565   679 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:18.614   565   679 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:18.649  1274  1274 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment3.MainActivity@fb3ce89 in: PRE_ON_CREATE
+10-17 18:27:18.649  1274  1274 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+10-17 18:27:18.649 16906 16906 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=66, right=0, bottom=44}
+10-17 18:27:18.650 16906 16906 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=66, right=0, bottom=44}
+10-17 18:27:18.686   565  2076 W InputManager-JNI: Input channel object '69ecb53 edu.ucsc.cse118.assignment3.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity (client)' was disposed without first being removed with the input manager!
+10-17 18:27:18.737  1274  1274 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment3.MainActivity@fb3ce89 in: CREATED
+10-17 18:27:18.737  1274  1274 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=edu.ucsc.cse118.assignment3.MainActivity@fb3ce89
+10-17 18:27:18.760  1274  1274 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment3.MainActivity@fb3ce89 in: STARTED
+10-17 18:27:18.760  1274  1274 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=edu.ucsc.cse118.assignment3.MainActivity@fb3ce89
+10-17 18:27:18.761  1274  1274 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment3.MainActivity@fb3ce89 in: RESUMED
+10-17 18:27:18.761  1274  1274 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=edu.ucsc.cse118.assignment3.MainActivity@fb3ce89
+10-17 18:27:18.772   565   575 I system_server: NativeAlloc concurrent copying GC freed 172822(6389KB) AllocSpace objects, 33(692KB) LOS objects, 49% free, 23MB/47MB, paused 1.581ms,92us total 843.093ms
+10-17 18:27:18.784   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1ec000000 0x1ec9a4000]
+10-17 18:27:18.791   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1ecfd0000 0x1ed974000]
+10-17 18:27:18.793   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1f15fc000 0x1f1fa0000]
+10-17 18:27:18.810   565   606 I ActivityTaskManager: Displayed edu.ucsc.cse118.assignment3/.MainActivity: +339ms
+10-17 18:27:18.818  1274  1274 D RootViewPicker: Root not ready - waiting: 10ms for one to appear.
+10-17 18:27:18.818   565  2031 W InputManager-JNI: Input channel object '82a6e1c Splash Screen edu.ucsc.cse118.assignment3.test (client)' was disposed without first being removed with the input manager!
+10-17 18:27:18.824  1570  1570 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3269
+10-17 18:27:18.828  1570  1570 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1947
+10-17 18:27:18.835  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-17 18:27:18.848  1274  1274 I ViewInteraction: Performing 'type text(molly@cse118.com)' action on view ((view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle) and ((view.getId() is <2131230905/edu.ucsc.cse118.assignment3:id/email> and is assignable from class <class android.widget.EditText>) or (is descendant of a view matching view.getId() is <2131230905/edu.ucsc.cse118.assignment3:id/email> and is assignable from class <class android.widget.EditText>)))
+10-17 18:27:18.862  1166  1166 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=539.5, y[0]=782.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=56101134, downTime=56101134, deviceId=-1, source=0x1002, displayId=0, eventId=-965578104 }
+10-17 18:27:18.891  1166  1166 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=539.5, y[0]=782.5, toolType[0]=TOOL_TYPE_FINGER, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=56101176, downTime=56101134, deviceId=-1, source=0x1002, displayId=0, eventId=-839660825 }
+10-17 18:27:18.900  1274  1274 D InputMethodManager: showSoftInput() view=androidx.appcompat.widget.AppCompatEditText{31a26ca VFED..CL. .F.P..ID 196,501-884,625 #7f0800b9 app:id/email aid=1073741824} flags=0 reason=SHOW_SOFT_INPUT
+10-17 18:27:18.900  1570  1570 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3269
+10-17 18:27:18.901  1570  1570 W KeyboardViewController: KeyboardViewController.show():493 Requesting to show sub view with id 2131428238(#0x7f0b038e) when keyboard HEADER view is not ready to show
+10-17 18:27:18.906  1274  1274 I AssistStructure: Flattened final assist data: 1940 bytes, containing 1 windows, 12 views
+10-17 18:27:18.909  1570  1570 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1947
+10-17 18:27:18.909  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-17 18:27:18.913  1570  1570 I GoogleInputMethodService: GoogleInputMethodService.onStartInputView():2057
+10-17 18:27:18.913  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-17 18:27:18.914  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-17 18:27:18.916  1570  1570 I KeyboardViewUtil: KeyboardViewUtil.getKeyboardHeightRatio():168 systemKeyboardHeightRatio:1.000000; userKeyboardHeightRatio:1.000000.
+10-17 18:27:18.918  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-17 18:27:18.918  1570  1570 I AndroidIME: AbstractIme.onActivate():86 LatinIme.onActivate() : EditorInfo = inputType=Email imeActionName=NEXT dump=[inputType=0x21 imeOptions=0x8000005 privateImeOptions=null actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x0 hintText=Email label=null packageName=edu.ucsc.cse118.assignment3 autofillId=1073741824 fieldId=2131230905 fieldName=null extras=Bundle[{android.support.text.emoji.emojiCompat_metadataVersion=7, android.support.text.emoji.emojiCompat_replaceAll=false}] hintLocales=null contentMimeTypes=null ], IncognitoMode = false, DeviceLocked = false
+10-17 18:27:18.920  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-17 18:27:18.920  1570  1570 I Delight5Facilitator: Delight5Facilitator.initializeForIme():769 initializeForIme() : Locale = [en_US], layout = qwerty
+10-17 18:27:18.920  1570  1570 I Delight5Facilitator: Delight5Facilitator.resetDecoder():925 resetDecoder() : Locale = [en_US]
+10-17 18:27:18.926  1570  1570 E UserFeatureCache: UserFeatureCache.getStore():468 Wrong feature id provided PERSONALIZED_FST_MODEL_PARAMS for protobuf lab.
+10-17 18:27:18.927  1570  1570 E InputContextLock: InputContextLock.mayLockAndRun():126 Failed to run
+10-17 18:27:18.927  1570  1570 E InputContextLock: java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Class java.lang.Object.getClass()' on a null object reference
+10-17 18:27:18.927  1570  1570 E InputContextLock: 	at com.google.android.libraries.inputmethod.userfeaturecache.UserFeatureCache.c(PG:8)
+10-17 18:27:18.927  1570  1570 E InputContextLock: 	at com.google.android.apps.inputmethod.libs.delight5.Delight5Facilitator.K(PG:131)
+10-17 18:27:18.927  1570  1570 E InputContextLock: 	at cng.call(Unknown Source:4)
+10-17 18:27:18.927  1570  1570 E InputContextLock: 	at con.a(PG:6)
+10-17 18:27:18.927  1570  1570 E InputContextLock: 	at com.google.android.apps.inputmethod.libs.delight5.Delight5Facilitator.G(PG:37)
+10-17 18:27:18.927  1570  1570 E InputContextLock: 	at com.google.android.apps.inputmethod.libs.latin5.LatinIme.h(PG:17)
+10-17 18:27:18.927  1570  1570 E InputContextLock: 	at jlx.g(PG:6)
+10-17 18:27:18.927  1570  1570 E InputContextLock: 	at jlx.m(PG:2)
+10-17 18:27:18.927  1570  1570 E InputContextLock: 	at dww.u(PG:18)
+10-17 18:27:18.927  1570  1570 E InputContextLock: 	at com.android.inputmethod.latin.LatinIME.u(PG:104)
+10-17 18:27:18.927  1570  1570 E InputContextLock: 	at dww.onStartInputView(PG:29)
+10-17 18:27:18.927  1570  1570 E InputContextLock: 	at android.inputmethodservice.InputMethodService.startViews(InputMethodService.java:2291)
+10-17 18:27:18.927  1570  1570 E InputContextLock: 	at android.inputmethodservice.InputMethodService.showWindow(InputMethodService.java:2237)
+10-17 18:27:18.927  1570  1570 E InputContextLock: 	at android.inputmethodservice.InputMethodService$InputMethodImpl.showSoftInput(InputMethodService.java:808)
+10-17 18:27:18.927  1570  1570 E InputContextLock: 	at android.inputmethodservice.InputMethodService$InputMethodImpl.showSoftInputWithToken(InputMethodService.java:782)
+10-17 18:27:18.927  1570  1570 E InputContextLock: 	at android.inputmethodservice.IInputMethodWrapper.executeMessage(IInputMethodWrapper.java:225)
+10-17 18:27:18.927  1570  1570 E InputContextLock: 	at com.android.internal.os.HandlerCaller$MyHandler.handleMessage(HandlerCaller.java:44)
+10-17 18:27:18.927  1570  1570 E InputContextLock: 	at android.os.Handler.dispatchMessage(Handler.java:106)
+10-17 18:27:18.927  1570  1570 E InputContextLock: 	at android.os.Looper.loopOnce(Looper.java:201)
+10-17 18:27:18.927  1570  1570 E InputContextLock: 	at android.os.Looper.loop(Looper.java:288)
+10-17 18:27:18.927  1570  1570 E InputContextLock: 	at android.app.ActivityThread.main(ActivityThread.java:7842)
+10-17 18:27:18.927  1570  1570 E InputContextLock: 	at java.lang.reflect.Method.invoke(Native Method)
+10-17 18:27:18.927  1570  1570 E InputContextLock: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:548)
+10-17 18:27:18.927  1570  1570 E InputContextLock: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1003)
+10-17 18:27:18.928  1570  1570 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.cancelShutdown():55 cancelShutdown()
+10-17 18:27:18.928  1570  1570 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.syncLanguagePacks():67 syncLanguagePacks()
+10-17 18:27:18.929  1570  1570 I LatinIme: LatinIme.updateEnableInlineSuggestionsOnDecoderSideFlags():1264 inline flag updated to:false
+10-17 18:27:18.930  1570  7663 I SpeechFactory: SpeechRecognitionFactory.maybeScheduleAutoPackDownloadForFallback():184 maybeScheduleAutoPackDownloadForFallback()
+10-17 18:27:18.930  1570  7663 I FallbackOnDeviceRecognitionProvider: FallbackOnDeviceRecognitionProvider.maybeScheduleAutoPackDownload():196 maybeScheduleAutoPackDownload() for language tag en-US
+10-17 18:27:18.930  1570  1570 W Delight5Decoder: Decoder.setRuntimeParams():372 setRuntimeParams() : Native lib is not ready.
+10-17 18:27:18.934  1570  1570 I KeyboardWrapper: KeyboardWrapper.consumeEvent():284 Skip consuming an event as current keyboard is deactivated (state=0, keyboard existence=true)
+10-17 18:27:18.935  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-17 18:27:18.944  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-17 18:27:18.944  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-17 18:27:18.944  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-17 18:27:18.944  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-17 18:27:18.944  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-17 18:27:18.944  1271  1271 W ngj     : Pending fill request while another request in the same session was triggered. [CONTEXT service_id=177 ]
+10-17 18:27:18.945  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-17 18:27:18.948  1570  1570 I KeyboardViewHelper: KeyboardViewHelper.getView():166 Get view with height ratio:1.000000
+10-17 18:27:18.960  1570  1570 I KeyboardViewUtil: KeyboardViewUtil.calculateMaxKeyboardBodyHeight():53 leave 344 height for app when screen height:2208, header height:121 and isFullscreenMode:false, so the max keyboard body height is:1743
+10-17 18:27:18.961  1580  1580 V InlineSuggestionRenderService: handleDestroySuggestionViews called for 0:1622762057
+10-17 18:27:18.962  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-17 18:27:18.962  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-17 18:27:18.962  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-17 18:27:18.962  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-17 18:27:18.962  1570  1570 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():96 Get device mode phone by ui mode:1 and smallestScreenWidthDp:392
+10-17 18:27:18.964  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-17 18:27:18.967  1570  1570 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():111 currentPrimeKeyboardType:SOFT systemPaddingBottom:-1
+10-17 18:27:18.968  1570  1570 I KeyboardViewUtil: KeyboardViewUtil.calculateMaxKeyboardBodyHeight():53 leave 344 height for app when screen height:2208, header height:121 and isFullscreenMode:false, so the max keyboard body height is:1743
+10-17 18:27:18.969  1570  1570 E LatinPrimeKeyboard: LatinPrimeKeyboard.updateCurrentImeLocales():414 consumeEvent: UPDATE_CURRENT_IME_LOCALES, Illegal argument
+10-17 18:27:18.969  1570  1570 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():111 currentPrimeKeyboardType:SOFT systemPaddingBottom:-1
+10-17 18:27:18.969  1570  1570 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():111 currentPrimeKeyboardType:SOFT systemPaddingBottom:-1
+10-17 18:27:18.971  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-17 18:27:18.971  1570  1570 I CurrentMicStatusHolder: CurrentMicStatusHolder.onStartInputView():79 Current Mic status = {MicIconHidden-EmailInputType,}
+10-17 18:27:18.971  1570  1570 I VoiceImeExtension: VoiceImeExtension.shouldStartVoiceInputAutomatically():364 No private IME option set to start voice input.
+10-17 18:27:18.984  1570  1570 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():111 currentPrimeKeyboardType:SOFT systemPaddingBottom:-1
+10-17 18:27:18.985   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1f2944000 0x1f32a4000]
+10-17 18:27:18.998  1389  1389 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+10-17 18:27:18.998  1389  1389 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+10-17 18:27:19.005  1389  1389 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+10-17 18:27:19.026   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1f0000000 0x1f0960000]
+10-17 18:27:19.035  1274  1274 D InsetsController: show(ime(), fromIme=true)
+10-17 18:27:19.042   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1f4c58000 0x1f55b8000]
+10-17 18:27:19.043  1389  1389 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+10-17 18:27:19.043  1389  1389 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+10-17 18:27:19.044  1389  1389 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+10-17 18:27:19.068   863   945 D EGL_emulation: app_time_stats: avg=3022.70ms min=116.23ms max=8068.76ms count=3
+10-17 18:27:19.132  1274  1274 D UiControllerImpl: Injecting string: "molly@cse118.com"
+10-17 18:27:19.135  1570  1570 W SpellCheckerExtension: SpellCheckerExtension.consumeEvent():156 SPELL_CHECK_SUGGESTIONS received with bad key data.
+10-17 18:27:19.135  1570  1570 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():157 Tooltip with id spell_check_add_to_dictionary not found in tooltipManager.
+10-17 18:27:19.435  1274  1274 I ViewInteraction: Performing 'type text(molly)' action on view ((view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle) and ((view.getId() is <2131231065/edu.ucsc.cse118.assignment3:id/password> and is assignable from class <class android.widget.EditText>) or (is descendant of a view matching view.getId() is <2131231065/edu.ucsc.cse118.assignment3:id/password> and is assignable from class <class android.widget.EditText>)))
+10-17 18:27:19.437  1166  1166 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=539.5, y[0]=928.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=56101721, downTime=56101721, deviceId=-1, source=0x1002, displayId=0, eventId=-715479466 }
+10-17 18:27:19.478  1166  1166 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=539.5, y[0]=928.5, toolType[0]=TOOL_TYPE_FINGER, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=56101763, downTime=56101721, deviceId=-1, source=0x1002, displayId=0, eventId=-497053017 }
+10-17 18:27:19.480  1570  1570 I GoogleInputMethodService: GoogleInputMethodService.onFinishInputView():2291
+10-17 18:27:19.480  1274  1274 D InputMethodManager: showSoftInput() view=androidx.appcompat.widget.AppCompatEditText{430403b VFED..CL. .F.P..ID 196,647-884,771 #7f080159 app:id/password aid=1073741825} flags=0 reason=SHOW_SOFT_INPUT
+10-17 18:27:19.480  1570  1570 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():157 Tooltip with id spell_check_add_to_dictionary not found in tooltipManager.
+10-17 18:27:19.481  1570  1570 I InputBundle: InputBundle.consumeEvent():920 Skip consuming an event as keyboard status is 0
+10-17 18:27:19.482  1570  1570 I KeyboardWrapper: KeyboardWrapper.consumeEvent():284 Skip consuming an event as current keyboard is deactivated (state=0, keyboard existence=true)
+10-17 18:27:19.482  1570  1570 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.shutdown():77 shutdown()
+10-17 18:27:19.483  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-17 18:27:19.483  1570  1570 I AndroidIME: AbstractIme.onDeactivate():207 LatinIme.onDeactivate()
+10-17 18:27:19.484  1570  1570 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3269
+10-17 18:27:19.485  1570  1570 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1947
+10-17 18:27:19.485  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-17 18:27:19.485  1570  1570 I GoogleInputMethodService: GoogleInputMethodService.onStartInputView():2057
+10-17 18:27:19.486  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-17 18:27:19.486  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-17 18:27:19.486  1570  1570 I KeyboardViewUtil: KeyboardViewUtil.getKeyboardHeightRatio():168 systemKeyboardHeightRatio:1.000000; userKeyboardHeightRatio:1.000000.
+10-17 18:27:19.487  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-17 18:27:19.487  1570  1570 I AndroidIME: AbstractIme.onActivate():86 PasswordIme.onActivate() : EditorInfo = inputType=Password imeActionName=DONE dump=[inputType=0x81 imeOptions=0x4000006 privateImeOptions=null actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x0 hintText=Password label=null packageName=edu.ucsc.cse118.assignment3 autofillId=1073741825 fieldId=2131231065 fieldName=null extras=Bundle[{android.support.text.emoji.emojiCompat_metadataVersion=7, android.support.text.emoji.emojiCompat_replaceAll=false}] hintLocales=null contentMimeTypes=null ], IncognitoMode = false, DeviceLocked = false
+10-17 18:27:19.488  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-17 18:27:19.489  1570  1570 I KeyboardViewHelper: KeyboardViewHelper.getView():166 Get view with height ratio:1.000000
+10-17 18:27:19.492  1570  1570 I KeyboardViewUtil: KeyboardViewUtil.calculateMaxKeyboardBodyHeight():53 leave 344 height for app when screen height:2208, header height:121 and isFullscreenMode:false, so the max keyboard body height is:1743
+10-17 18:27:19.493  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-17 18:27:19.493  1570  1570 I KeyboardViewUtil: KeyboardViewUtil.calculateMaxKeyboardBodyHeight():53 leave 344 height for app when screen height:2208, header height:121 and isFullscreenMode:false, so the max keyboard body height is:1743
+10-17 18:27:19.493  1570  1570 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():111 currentPrimeKeyboardType:SOFT systemPaddingBottom:-1
+10-17 18:27:19.493  1570  1570 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():111 currentPrimeKeyboardType:SOFT systemPaddingBottom:-1
+10-17 18:27:19.495  1570  1570 I CurrentMicStatusHolder: CurrentMicStatusHolder.onStartInputView():79 Current Mic status = {MicIconHidden-SettingOff,MicIconHidden-PasswordOrNumberOrDateInputType,}
+10-17 18:27:19.495  1570  1570 I VoiceImeExtension: VoiceImeExtension.shouldStartVoiceInputAutomatically():364 No private IME option set to start voice input.
+10-17 18:27:19.503  1389  1389 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+10-17 18:27:19.503  1389  1389 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+10-17 18:27:19.504  1389  1389 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+10-17 18:27:19.505  1274  1274 D InsetsController: show(ime(), fromIme=true)
+10-17 18:27:19.505  1274  1274 D InsetsController: show(ime(), fromIme=true)
+10-17 18:27:19.507  1389  1389 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+10-17 18:27:19.507  1389  1389 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+10-17 18:27:19.508  1389  1389 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+10-17 18:27:19.724  1274  1274 D UiControllerImpl: Injecting string: "molly"
+10-17 18:27:19.818  1274  1416 D EGL_emulation: app_time_stats: avg=31.56ms min=9.28ms max=245.06ms count=32
+10-17 18:27:19.835  1274  1274 I ViewInteraction: Performing 'single click' action on view ((view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle) and (an instance of android.widget.TextView and view.getText() with or without transformation to match: is "LOGIN" or (view.getParent() is assignable from class <class com.google.android.material.textfield.TextInputLayout> and (view is an instance of android.view.ViewGroup and has descendant matching an instance of android.widget.TextView and view.getText() with or without transformation to match: is "LOGIN"))))
+10-17 18:27:19.837  1166  1166 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=539.5, y[0]=1078.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=56102121, downTime=56102121, deviceId=-1, source=0x1002, displayId=0, eventId=-698384629 }
+10-17 18:27:19.879  1166  1166 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=539.5, y[0]=1078.5, toolType[0]=TOOL_TYPE_FINGER, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=56102163, downTime=56102121, deviceId=-1, source=0x1002, displayId=0, eventId=-485710152 }
+10-17 18:27:19.887   354   474 E android.hardware.audio@7.0-impl.ranchu: device/generic/goldfish/audio/stream_out.cpp:updateSourceMetadata:377 failure: Result::NOT_SUPPORTED
+10-17 18:27:19.952  1570  1570 I GoogleInputMethodService: GoogleInputMethodService.onFinishInputView():2291
+10-17 18:27:19.953  1570  1570 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():157 Tooltip with id spell_check_add_to_dictionary not found in tooltipManager.
+10-17 18:27:19.954  1570  1570 I AndroidIME: AbstractIme.onDeactivate():207 PasswordIme.onDeactivate()
+10-17 18:27:20.027   354   474 E android.hardware.audio@7.0-impl.ranchu: device/generic/goldfish/audio/stream_out.cpp:updateSourceMetadata:377 failure: Result::NOT_SUPPORTED
+10-17 18:27:20.081   863   945 D EGL_emulation: app_time_stats: avg=337.71ms min=32.05ms max=869.29ms count=3
+10-17 18:27:20.190  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Construction" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:20.191  1274  1274 I ViewInteraction: Performing 'single click' action on view ((view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle) and (an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Construction" or (view.getParent() is assignable from class <class com.google.android.material.textfield.TextInputLayout> and (view is an instance of android.view.ViewGroup and has descendant matching an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Construction"))))
+10-17 18:27:20.193  1166  1166 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=178.0, y[0]=278.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=56102477, downTime=56102477, deviceId=-1, source=0x1002, displayId=0, eventId=-394715805 }
+10-17 18:27:20.234  1166  1166 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=178.0, y[0]=278.5, toolType[0]=TOOL_TYPE_FINGER, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=56102519, downTime=56102477, deviceId=-1, source=0x1002, displayId=0, eventId=-299451729 }
+10-17 18:27:20.237   354   474 E android.hardware.audio@7.0-impl.ranchu: device/generic/goldfish/audio/stream_out.cpp:updateSourceMetadata:377 failure: Result::NOT_SUPPORTED
+10-17 18:27:20.360   354   474 E android.hardware.audio@7.0-impl.ranchu: device/generic/goldfish/audio/stream_out.cpp:updateSourceMetadata:377 failure: Result::NOT_SUPPORTED
+10-17 18:27:20.465  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Framing (Wood)" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:20.469  1274  1274 I ViewInteraction: Performing 'single click' action on view ((view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle) and (an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Framing (Wood)" or (view.getParent() is assignable from class <class com.google.android.material.textfield.TextInputLayout> and (view is an instance of android.view.ViewGroup and has descendant matching an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Framing (Wood)"))))
+10-17 18:27:20.477  1166  1166 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=218.0, y[0]=465.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=56102757, downTime=56102757, deviceId=-1, source=0x1002, displayId=0, eventId=-487809610 }
+10-17 18:27:20.512  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-17 18:27:20.515  1166  1166 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=218.0, y[0]=465.5, toolType[0]=TOOL_TYPE_FINGER, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=56102799, downTime=56102757, deviceId=-1, source=0x1002, displayId=0, eventId=-726088995 }
+10-17 18:27:20.517   354   474 E android.hardware.audio@7.0-impl.ranchu: device/generic/goldfish/audio/stream_out.cpp:updateSourceMetadata:377 failure: Result::NOT_SUPPORTED
+10-17 18:27:20.648   354   474 E android.hardware.audio@7.0-impl.ranchu: device/generic/goldfish/audio/stream_out.cpp:updateSourceMetadata:377 failure: Result::NOT_SUPPORTED
+10-17 18:27:20.764  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:20.779  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:20.884  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:20.896  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:21.000  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:21.023  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:21.128  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:21.136  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:21.257  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:21.287  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:21.393  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:21.408  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:21.511  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:21.521  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:21.626  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:21.641  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:21.745  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:21.756  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:21.860  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:21.875  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:21.980  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:21.998  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:22.103  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:22.122  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:22.227  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:22.241  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:22.345  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:22.355  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:22.457  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:22.473  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:22.533  1570  1647 W LatinCommonCountersMetricsProcessor: LatinCommonCountersMetricsProcessor$DelightProblemReporter.run():765 Missing LM for 'en'
+10-17 18:27:22.580  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:22.594  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:22.700  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:22.714  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:22.817  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:22.839  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:22.948  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:22.969  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:23.077  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:23.092  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:23.197  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:23.210  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:23.314  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:23.327  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:23.432  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:23.443  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:23.548  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:23.559  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:23.661  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:23.672  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:23.781  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:23.797  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:23.906  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:23.914  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:24.016  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:24.020  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:24.128  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:24.139  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:24.244  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:24.264  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:24.368  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:24.384  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:24.487  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:24.500  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:24.609  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:24.623  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:24.725  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:24.734  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:24.839  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:24.853  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:24.960  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:24.975  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:25.077  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:25.086  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:25.189  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:25.194  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:25.296  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:25.300  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:25.401  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:25.408  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:25.511  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:25.515  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:25.619  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:25.624  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:25.732  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:25.744  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:25.848  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:25.860  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:25.967  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:25.976  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:26.082  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:26.090  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:26.196  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:26.201  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:26.303  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:26.349  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:26.457  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:26.463  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:26.565  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:26.571  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:26.674  1274  1274 I ViewInteraction: Performing 'searching for view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM" in the root view' action on view view.getRootView() to equal view
+10-17 18:27:26.680  1274  1274 I ViewInteraction: Performing 'Wait for at least 100 millis' action on view view.getRootView() to equal view
+10-17 18:27:26.841  1274  1274 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment3.MainActivity@fb3ce89 in: PAUSED
+10-17 18:27:26.841  1274  1274 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=edu.ucsc.cse118.assignment3.MainActivity@fb3ce89
+10-17 18:27:26.853   565   601 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:26.853   565   601 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:26.854   565   601 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:26.854   565   601 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:26.854   565   601 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:26.854   565   601 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:26.854   565   601 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:26.854   565   601 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:26.854   565   601 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:26.856   565   601 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:26.864   565   601 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:26.864   565   601 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:26.864   565   601 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:26.864   565   601 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:26.864   565   601 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:26.864   565   601 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:26.864   565   601 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:26.864   565   601 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:26.864   565   601 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:26.864   565   601 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:26.972  1274  1416 D EGL_emulation: app_time_stats: avg=509.64ms min=2.19ms max=6380.29ms count=14
+10-17 18:27:26.999   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1f0000000 0x1f09a4000]
+10-17 18:27:27.004   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1f2944000 0x1f32e8000]
+10-17 18:27:27.019   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1f4c58000 0x1f55fc000]
+10-17 18:27:27.058   565   969 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:27.058   565   969 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:27.058   565   969 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:27.058   565   969 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:27.058   565   969 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:27.058   565   969 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:27.058   565   969 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:27.058   565   969 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:27.058   565   969 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:27.058   565   969 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:27.058   565   969 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:27.058   565   969 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:27.058   565   969 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:27.058   565   969 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:27.058   565   969 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:27.058   565   969 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:27.058   565   969 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:27.058   565   969 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:27.058   565   969 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:27.058   565   969 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:27.129   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1f55fc000 0x1f5fa0000]
+10-17 18:27:27.139   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1f5fa0000 0x1f6944000]
+10-17 18:27:27.142   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1f6944000 0x1f72e8000]
+10-17 18:27:27.171   565   606 I ActivityTaskManager: Displayed edu.ucsc.cse118.assignment3.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +169ms
+10-17 18:27:27.177   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1f0fd0000 0x1f15fc000]
+10-17 18:27:27.227   565   969 W InputManager-JNI: Input channel object '7736a72 edu.ucsc.cse118.assignment3.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity (client)' was disposed without first being removed with the input manager!
+10-17 18:27:27.236   565  2069 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:27.237   565  2069 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:27.237   565  2069 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:27.237   565  2069 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:27.237   565  2069 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:27.237   565  2069 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:27.237   565  2069 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:27.237   565  2069 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:27.237   565  2069 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:27.237   565  2069 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:27.237   565  2069 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:27.237   565  2069 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:27.237   565  2069 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:27.237   565  2069 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:27.237   565  2069 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:27.237   565  2069 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:27.237   565  2069 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:27.237   565  2069 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:27.237   565  2069 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:27.237   565  2069 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+10-17 18:27:27.241  1274  1274 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment3.MainActivity@fb3ce89 in: STOPPED
+10-17 18:27:27.241  1274  1274 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=edu.ucsc.cse118.assignment3.MainActivity@fb3ce89
+10-17 18:27:27.243  1274  1274 D AutofillManager: onActivityFinishing(): calling cancelLocked()
+10-17 18:27:27.257  1274  1274 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment3.MainActivity@fb3ce89 in: DESTROYED
+10-17 18:27:27.258  1274  1274 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+10-17 18:27:27.259  1274  1317 E TestRunner: failed: construction_channel_framing_message_ranice_date(edu.ucsc.cse118.assignment3.BasicTest)
+10-17 18:27:27.259  1274  1317 E TestRunner: ----- begin exception -----
+10-17 18:27:27.277  1274  1317 E TestRunner: androidx.test.espresso.NoMatchingViewException: No views in hierarchy found matching: an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Jul 21, 2022, 10:42:36 AM"
+10-17 18:27:27.277  1274  1317 E TestRunner:
+10-17 18:27:27.277  1274  1317 E TestRunner: View Hierarchy:
+10-17 18:27:27.277  1274  1317 E TestRunner: +>DecorView{id=-1, visibility=VISIBLE, width=1080, height=2340, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params={(0,0)(fillxfill) ty=BASE_APPLICATION wanim=0x10302fe
+10-17 18:27:27.277  1274  1317 E TestRunner:   fl=LAYOUT_IN_SCREEN LAYOUT_INSET_DECOR SPLIT_TOUCH HARDWARE_ACCELERATED DRAWS_SYSTEM_BAR_BACKGROUNDS
+10-17 18:27:27.277  1274  1317 E TestRunner:   pfl=NO_MOVE_ANIMATION FORCE_DRAW_STATUS_BAR_BACKGROUND FIT_INSETS_CONTROLLED
+10-17 18:27:27.277  1274  1317 E TestRunner:   bhv=DEFAULT
+10-17 18:27:27.277  1274  1317 E TestRunner:   fitSides=}, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +->LinearLayout{id=-1, visibility=VISIBLE, width=1080, height=2296, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@7f8d4af, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +-->ViewStub{id=16908723, res-name=action_mode_bar_stub, visibility=GONE, width=0, height=0, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=true, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@41a10bc, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +-->FrameLayout{id=-1, visibility=VISIBLE, width=1080, height=2230, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@f960b9a, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=66.0, child-count=1}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +--->ActionBarOverlayLayout{id=2131230872, res-name=decor_content_parent, visibility=VISIBLE, width=1080, height=2230, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@d880ccb, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +---->ContentFrameLayout{id=16908290, res-name=content, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.ActionBarOverlayLayout$LayoutParams@6d173c1, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=154.0, child-count=1}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +----->ConstraintLayout{id=-1, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@188aaa7, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=1}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +------>FragmentContainerView{id=2131231033, res-name=nav_host_fragment, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@7408afd, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=1}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +------->FragmentContainerView{id=2131231033, res-name=nav_host_fragment, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@f0b4a43, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=1}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +-------->ConstraintLayout{id=-1, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@73fdd3e, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +--------->RecyclerView{id=2131231080, res-name=recyclerview, visibility=VISIBLE, width=1080, height=2076, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@af2d6d, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=10}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@6034a33, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, child-count=1}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@59e568f, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@4649d1c, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@65d9d25, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 6:04:28 AM, input-type=0, ime-target=false, has-links=false}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=506, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@b5b5efa, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=A very long line of content, input-type=0, ime-target=false, has-links=false}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@1ac6f08, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=239.0, child-count=1}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@81d73b4, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@f034bdd, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@f72d352, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 6:04:09 AM, input-type=0, ime-target=false, has-links=false}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=506, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@3b32623, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=A very long line of content, input-type=0, ime-target=false, has-links=false}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@56dc8d9, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=467.0, child-count=1}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@c691995, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@cc97aaa, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@ea5369b, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 6:01:06 AM, input-type=0, ime-target=false, has-links=false}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=501, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@9ddaa38, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=Testing Deleting 7654321, input-type=0, ime-target=false, has-links=false}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@f9c9776, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=695.0, child-count=1}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@fb2b502, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@3c9de13, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@44f8850, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 6:01:02 AM, input-type=0, ime-target=false, has-links=false}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=501, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@f459a49, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=Testing Deleting 1234567, input-type=0, ime-target=false, has-links=false}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@a6a486f, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=923.0, child-count=1}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@5fcfc8b, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@2c1168, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@e814981, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 6:00:50 AM, input-type=0, ime-target=false, has-links=false}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=581, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@c37ca26, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=Testing Posting Message 111, input-type=0, ime-target=false, has-links=false}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@e64dc14, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=1151.0, child-count=1}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@4bda580, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@e2ca7b9, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@633f7fe, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 5:59:55 AM, input-type=0, ime-target=false, has-links=false}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=506, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@6242b5f, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=A very long line of content, input-type=0, ime-target=false, has-links=false}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@ae70675, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=1379.0, child-count=1}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@8ae94f1, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@71d08d6, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@b922757, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 5:59:51 AM, input-type=0, ime-target=false, has-links=false}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=501, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@9817244, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=Testing Deleting 7654321, input-type=0, ime-target=false, has-links=false}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@fb8dc62, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=1607.0, child-count=1}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@d4c5cae, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@a54aa4f, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@a0ac5dc, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 5:59:47 AM, input-type=0, ime-target=false, has-links=false}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=501, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@30776e5, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=Testing Deleting 1234567, input-type=0, ime-target=false, has-links=false}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@65b9c6b, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=1835.0, child-count=1}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@9959447, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@dc7f474, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@569d9d, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 5:59:35 AM, input-type=0, ime-target=false, has-links=false}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=581, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@d552212, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=Testing Posting Message 111, input-type=0, ime-target=false, has-links=false}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +---------->CardView{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@5a9e3e0, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=2063.0, child-count=1}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +----------->LinearLayout{id=-1, visibility=VISIBLE, width=1058, height=206, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@5f95e0c, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +------------>MaterialTextView{id=2131231074, res-name=poster, visibility=VISIBLE, width=349, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@f1ce355, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=11.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +------------>MaterialTextView{id=2131230868, res-name=date, visibility=VISIBLE, width=373, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@54ee16a, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=85.0, text=Oct 18, 2022, 5:56:00 AM, input-type=0, ime-target=false, has-links=false}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +------------>MaterialTextView{id=2131230856, res-name=content, visibility=VISIBLE, width=581, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@d40765b, tag=null, root-is-layout-requested=false, has-input-connection=false, x=11.0, y=129.0, text=Testing Posting Message 111, input-type=0, ime-target=false, has-links=false}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +--------->FloatingActionButton{id=2131230913, res-name=fab, desc=Fab, visibility=VISIBLE, width=154, height=154, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@de44ef8, tag=null, root-is-layout-requested=false, has-input-connection=false, x=882.0, y=1878.0}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +---->ActionBarContainer{id=2131230773, res-name=action_bar_container, visibility=VISIBLE, width=1080, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.ActionBarOverlayLayout$LayoutParams@2861d37, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +----->Toolbar{id=2131230771, res-name=action_bar, visibility=VISIBLE, width=1080, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@53f280d, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +------>AppCompatTextView{id=-1, visibility=VISIBLE, width=361, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.Toolbar$LayoutParams@12633c2, tag=null, root-is-layout-requested=false, has-input-connection=false, x=198.0, y=40.0, text=Molly Member, input-type=0, ime-target=false, has-links=false}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +------>ActionMenuView{id=-1, visibility=VISIBLE, width=0, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.Toolbar$LayoutParams@b1555d3, tag=null, root-is-layout-requested=false, has-input-connection=false, x=1080.0, y=0.0, child-count=0}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +------>AppCompatImageButton{id=-1, desc=Navigate up, visibility=VISIBLE, width=154, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.Toolbar$LayoutParams@c6e0510, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +----->ActionBarContextView{id=2131230780, res-name=action_context_bar, visibility=GONE, width=0, height=0, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=true, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@ac33809, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=0}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +->View{id=16908336, res-name=navigationBarBackground, visibility=VISIBLE, width=1080, height=44, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@27ca0e, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=2296.0}
+10-17 18:27:27.277  1274  1317 E TestRunner: |
+10-17 18:27:27.277  1274  1317 E TestRunner: +->View{id=16908335, res-name=statusBarBackground, visibility=VISIBLE, width=1080, height=66, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@5557c2f, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
+10-17 18:27:27.277  1274  1317 E TestRunner: 	at dalvik.system.VMStack.getThreadStackTrace(Native Method)
+10-17 18:27:27.277  1274  1317 E TestRunner: 	at java.lang.Thread.getStackTrace(Thread.java:1724)
+10-17 18:27:27.277  1274  1317 E TestRunner: 	at androidx.test.espresso.base.DefaultFailureHandler.getUserFriendlyError(DefaultFailureHandler.java:12)
+10-17 18:27:27.277  1274  1317 E TestRunner: 	at androidx.test.espresso.base.DefaultFailureHandler.handle(DefaultFailureHandler.java:7)
+10-17 18:27:27.277  1274  1317 E TestRunner: 	at androidx.test.espresso.ViewInteraction.waitForAndHandleInteractionResults(ViewInteraction.java:8)
+10-17 18:27:27.277  1274  1317 E TestRunner: 	at androidx.test.espresso.ViewInteraction.desugaredPerform(ViewInteraction.java:11)
+10-17 18:27:27.277  1274  1317 E TestRunner: 	at androidx.test.espresso.ViewInteraction.perform(ViewInteraction.java:4)
+10-17 18:27:27.277  1274  1317 E TestRunner: 	at edu.ucsc.cse118.assignment3.TestHelper.waitForView(TestHelper.kt:48)
+10-17 18:27:27.277  1274  1317 E TestRunner: 	at edu.ucsc.cse118.assignment3.TestHelper.waitForView$default(TestHelper.kt:39)
+10-17 18:27:27.277  1274  1317 E TestRunner: 	at edu.ucsc.cse118.assignment3.TestHelper.waitForText(TestHelper.kt:60)
+10-17 18:27:27.277  1274  1317 E TestRunner: 	at edu.ucsc.cse118.assignment3.BasicTest.construction_channel_framing_message_ranice_date(BasicTest.kt:73)
+10-17 18:27:27.277  1274  1317 E TestRunner: 	at java.lang.reflect.Method.invoke(Native Method)
+10-17 18:27:27.277  1274  1317 E TestRunner: 	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+10-17 18:27:27.277  1274  1317 E TestRunner: 	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+10-17 18:27:27.277  1274  1317 E TestRunner: 	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+10-17 18:27:27.277  1274  1317 E TestRunner: 	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+10-17 18:27:27.277  1274  1317 E TestRunner: 	at org.junit.rules.ExternalResource$1.evaluate(ExternalResource.java:48)
+10-17 18:27:27.277  1274  1317 E TestRunner: 	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+10-17 18:27:27.277  1274  1317 E TestRunner: 	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+10-17 18:27:27.277  1274  1317 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+10-17 18:27:27.277  1274  1317 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+10-17 18:27:27.277  1274  1317 E TestRunner: 	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+10-17 18:27:27.277  1274  1317 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+10-17 18:27:27.277  1274  1317 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+10-17 18:27:27.277  1274  1317 E TestRunner: 	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+10-17 18:27:27.277  1274  1317 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+10-17 18:27:27.277  1274  1317 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+10-17 18:27:27.277  1274  1317 E TestRunner: 	at androidx.test.ext.junit.runners.AndroidJUnit4.run(AndroidJUnit4.java:162)
+10-17 18:27:27.277  1274  1317 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:128)
+10-17 18:27:27.277  1274  1317 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:27)
+10-17 18:27:27.277  1274  1317 E TestRunner: 	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+10-17 18:27:27.277  1274  1317 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+10-17 18:27:27.277  1274  1317 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+10-17 18:27:27.277  1274  1317 E TestRunner: 	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+10-17 18:27:27.277  1274  1317 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+10-17 18:27:27.277  1274  1317 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+10-17 18:27:27.277  1274  1317 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+10-17 18:27:27.277  1274  1317 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+10-17 18:27:27.277  1274  1317 E TestRunner: 	at androidx.test.internal.runner.TestExecutor.execute(TestExecutor.java:56)
+10-17 18:27:27.277  1274  1317 E TestRunner: 	at androidx.test.runner.AndroidJUnitRunner.onStart(AndroidJUnitRunner.java:444)
+10-17 18:27:27.277  1274  1317 E TestRunner: 	at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:2278)
+10-17 18:27:27.277  1274  1317 E TestRunner: ----- end exception -----
+10-17 18:27:27.281 16906 16906 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=66, right=0, bottom=44}
+10-17 18:27:27.281 16906 16906 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=66, right=0, bottom=44}
+10-17 18:27:27.283   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1ec000000 0x1ec9a4000]
+10-17 18:27:27.293   565  2069 W InputManager-JNI: Input channel object '51c418b edu.ucsc.cse118.assignment3/edu.ucsc.cse118.assignment3.MainActivity (client)' was disposed without first being removed with the input manager!
+10-17 18:27:27.295   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1f0000000 0x1f09a4000]
+10-17 18:27:27.296  1274  1317 I TestRunner: finished: construction_channel_framing_message_ranice_date(edu.ucsc.cse118.assignment3.BasicTest)

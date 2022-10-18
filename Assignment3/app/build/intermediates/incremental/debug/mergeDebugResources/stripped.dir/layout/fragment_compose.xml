@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                       
+                                                  
+                                                
+
+    
+                 
+                                  
+                                                                            
+           
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="479dp"
+        android:orientation="vertical"
+        android:padding="@dimen/side_margin" android:tag="layout/fragment_compose_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools" tools:context=".ui.compose.ComposeFragment">
+
+        <EditText
+            android:id="@+id/content"
+            android:layout_width="wrap_content"
+            android:layout_height="400dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/margin_between_elements"
+            android:hint="@string/message"
+            android:inputType="text"
+            android:minWidth="@dimen/logo_width"
+            android:selectAllOnFocus="true" />
+
+        <Button
+            android:id="@+id/add"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/margin_between_elements"
+            android:minWidth="@dimen/logo_width"
+            android:tag="binding_1"                         
+            android:text="Add" />
+
+        <TextView
+            android:id="@+id/label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/margin_between_elements"
+            android:minWidth="@dimen/logo_width"
+            android:selectAllOnFocus="true" />
+
+    </LinearLayout>
+         

@@ -80,6 +80,10 @@
         "source": "edu.ucsc.cse118.assignment3.app-main-51:/drawable/ic_launcher_foreground.xml"
     },
     {
+        "merged": "edu.ucsc.cse118.assignment3.app-merged_res-49:/layout_fragment_compose.xml.flat",
+        "source": "edu.ucsc.cse118.assignment3.app-main-51:/layout/fragment_compose.xml"
+    },
+    {
         "merged": "edu.ucsc.cse118.assignment3.app-merged_res-49:/drawable_ic_uc_santa_cruz_banana_slug.xml.flat",
         "source": "edu.ucsc.cse118.assignment3.app-main-51:/drawable/ic_uc_santa_cruz_banana_slug.xml"
     },

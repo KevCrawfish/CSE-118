@@ -1953,6 +1953,7 @@ id action_loginFragment_to_masterFragment
 id action_masterFragment_to_channelFragment
 id action_menu_divider
 id action_menu_presenter
+id action_messageFragment_to_composeFragment
 id action_messageFragment_to_detailFragment
 id action_mode_bar
 id action_mode_bar_stub
@@ -2017,6 +2018,7 @@ id clip_vertical
 id clockwise
 id closest
 id collapseActionView
+id composeFragment
 id confirm_button
 id constraint
 id container
@@ -2479,6 +2481,7 @@ layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout fragment_channel
+layout fragment_compose
 layout fragment_detail
 layout fragment_fake
 layout fragment_login
@@ -2594,6 +2597,7 @@ string character_counter_overflowed_content_description
 string character_counter_pattern
 string chip_text
 string clear_text_end_icon_content_description
+string compose
 string content
 string date
 string detail
@@ -2601,6 +2605,7 @@ string error_icon_content_description
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
+string floating_action_button
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string item_view_role_description
@@ -2679,7 +2684,6 @@ string select_message
 string select_new_message
 string select_workspace
 string status_bar_notification_info_overflow
-string todo
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style AndroidThemeColorAccentYellow

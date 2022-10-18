@@ -29,6 +29,18 @@
                       </LayoutPositions>
                     </value>
                   </entry>
+                  <entry key="composeFragment">
+                    <value>
+                      <LayoutPositions>
+                        <option name="myPosition">
+                          <Point>
+                            <option name="x" value="-306" />
+                            <option name="y" value="-509" />
+                          </Point>
+                        </option>
+                      </LayoutPositions>
+                    </value>
+                  </entry>
                   <entry key="detailFragment">
                     <value>
                       <LayoutPositions>
@@ -94,6 +106,11 @@
                         </option>
                         <option name="myPositions">
                           <map>
+                            <entry key="action_messageFragment_to_composeFragment">
+                              <value>
+                                <LayoutPositions />
+                              </value>
+                            </entry>
                             <entry key="action_messageFragment_to_detailFragment">
                               <value>
                                 <LayoutPositions />

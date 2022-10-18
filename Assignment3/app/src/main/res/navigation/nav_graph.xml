@@ -39,11 +39,19 @@
         <action
             android:id="@+id/action_messageFragment_to_detailFragment"
             app:destination="@id/detailFragment" />
+        <action
+            android:id="@+id/action_messageFragment_to_composeFragment"
+            app:destination="@id/composeFragment" />
     </fragment>
     <fragment
         android:id="@+id/detailFragment"
         android:name="edu.ucsc.cse118.assignment3.ui.detail.DetailFragment"
         android:label="@string/detail"
         tools:layout="@layout/fragment_detail"/>
+    <fragment
+        android:id="@+id/composeFragment"
+        android:name="edu.ucsc.cse118.assignment3.ui.compose.ComposeFragment"
+        android:label="@string/compose"
+        tools:layout="@layout/fragment_compose"/>
 </navigation>
 

@@ -13,6 +13,7 @@ import edu.ucsc.cse118.assignment3.databinding.FragmentDetailBinding
 import edu.ucsc.cse118.assignment3.model.SharedViewModel
 import edu.ucsc.cse118.assignment3.data.Message
 import edu.ucsc.cse118.assignment3.model.ViewModelEvent
+import java.time.ZoneId
 import java.time.ZonedDateTime
 import java.time.format.DateTimeFormatter
 
@@ -32,7 +33,7 @@ class DetailFragment : Fragment() {
         if (detail != null) {
             (activity as AppCompatActivity?)!!.supportActionBar!!.title = detail.poster
             val dated : ZonedDateTime = ZonedDateTime.parse(detail.date)
-            binding.date.text = dated.format(DateTimeFormatter.ofPattern("MMM d, y, H:mm:ss a"))
+            binding.date.text = dated.format(DateTimeFormatter.ofPattern("MMM d, y, h:mm:ss a"))
             binding.content.text = detail.content
         }
     }

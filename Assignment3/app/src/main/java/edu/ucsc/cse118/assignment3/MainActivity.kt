@@ -22,4 +22,9 @@ class MainActivity : AppCompatActivity(R.layout.activity_main) {
             .findFragmentById(R.id.nav_host_fragment) as NavHostFragment)
         return navController.navigateUp() || super.onSupportNavigateUp()
     }
+
+    override fun onBackPressed() {
+        super.onBackPressed()
+        // perform your action here
+    }
 }
