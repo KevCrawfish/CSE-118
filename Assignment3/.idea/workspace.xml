@@ -46,7 +46,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2G6EGHwuRHdGHoXQZPaSkbSThPk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -61,7 +61,7 @@
     <property name="cidr.known.project.marker" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
-  <component name="RunManager" selected="Android Instrumented Tests.Tests in 'edu.ucsc.cse118.assignment3'">
+  <component name="RunManager" selected="Android App.app">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="Assignment3.app.main" />
       <option name="DEPLOY" value="true" />

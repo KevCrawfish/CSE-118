@@ -61,4 +61,13 @@ class AdvancedTest {
         clickOn("ADD")
         waitForText("mollycse118 making a test message")
     }
+
+    @Test
+    fun fab_show_snackbar() {
+        doors()
+        clickOn(R.id.fab)
+        typeTo(R.id.content, "mollycse118 making a test message")
+        clickOn("ADD")
+        waitForText("Message Created")
+    }
 }

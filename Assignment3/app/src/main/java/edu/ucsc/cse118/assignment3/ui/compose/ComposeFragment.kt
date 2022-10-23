@@ -78,5 +78,12 @@ class ComposeFragment : Fragment() {
             )
         )
         activity?.onBackPressed()
+        activity?.let {
+            Snackbar.make(
+                it.findViewById(android.R.id.content),
+                "Message Created",
+                Snackbar.LENGTH_LONG,
+            ).show()
+        }
     }
 }
