@@ -112,7 +112,7 @@ struct Assignment4View: View {
 				.multilineTextAlignment(.center)
 				.accessibilityLabel("Calendar")
 			HStack {
-				Button("Prev", action: prev)
+				Button("Previous", action: prev)
 				Button("Today", action: today)
 				Button("Next", action: next)
           }
@@ -122,10 +122,4 @@ struct Assignment4View: View {
     }
     .padding()
   }
-}
-
-struct Assignment4View_Previews: PreviewProvider {
-    static var previews: some View {
-        Assignment4View()
-    }
 }
