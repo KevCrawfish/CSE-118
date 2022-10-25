@@ -44,7 +44,7 @@ struct Assignment4View: View {
     do {
       result = try PostfixCalculator().parse(expression: expression).description
     } catch {
-      result = "Error!"
+      result = "Error"
     }
   }
   

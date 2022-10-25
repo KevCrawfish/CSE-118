@@ -31,7 +31,7 @@ final class PostfixCaculatorUITests: XCTestCase {
     field.typeText("2 2 !")
     app.buttons["Evaluate"].tap()
     let result = app.textFields["Result"]
-    XCTAssertEqual(result.value as! String, "Error!")
+    XCTAssertEqual(result.value as! String, "Error")
   }
   
   func testClearExpression() throws {
