@@ -1,21 +1,24 @@
 import SwiftUI
 
 struct WorkspaceList: View {
-  var body: some View {
-    VStack {
-      Spacer()
-      Label("CSE118 Assignment 5", systemImage: "person.3.sequence")
-      Spacer()
-      Spacer()
+    let workspaces: [Workspace]
+    var body: some View {
+        List {
+            ForEach(workspaces) { workspace in
+                NavigationLink(destination:
+                    ChannelList(workspace: workspace)) {
+                        WorkspaceCard(workspace: workspace)
+                }
+            }
+        }
+        .navigationTitle("Workspaces")
     }
-    .padding()
-  }
 }
 
 #if !TESTING
 struct WorkspaceList_Previews: PreviewProvider {
   static var previews: some View {
-    WorkspaceList()
+      WorkspaceList(workspaces: Workspace.examples)
   }
 }
 #endif
