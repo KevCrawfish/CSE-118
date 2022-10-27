@@ -1,0 +1,275 @@
+10-17 12:28:09.385 22687 22710 I TestRunner: started: header(edu.ucsc.cse118.assignment3.AdvancedTest)
+10-17 12:28:09.391 22687 22710 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+10-17 12:28:09.395 22687 22710 D CompatibilityChangeReporter: Compat change id reported: 160794467; UID 10153; state: ENABLED
+10-17 12:28:09.416   863   942 D SplashScreenView: Build android.window.SplashScreenView{db0df19 V.E...... ......ID 0,0-0,0}
+10-17 12:28:09.416   863   942 D SplashScreenView: Icon: view: null drawable: null size: 0
+10-17 12:28:09.416   863   942 D SplashScreenView: Branding: view: android.view.View{e9ecbde G.ED..... ......I. 0,0-0,0 #10204a9 android:id/splashscreen_branding_view} drawable: null size w: 0 h: 0
+10-17 12:28:09.473   352   352 D Zygote  : Forked child process 22712
+10-17 12:28:09.482 22712 22712 I ssignment3.tes: Late-enabling -Xcheck:jni
+10-17 12:28:09.492   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1ec000000 0x1ec9a4000]
+10-17 12:28:09.507   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1ec9a4000 0x1ed348000]
+10-17 12:28:09.510   443   483 I adbd    : jdwp connection from 22712
+10-17 12:28:09.538   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1ed348000 0x1edcec000]
+10-17 12:28:09.556   565   602 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:09.556   565   602 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:09.556   565   602 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:09.556   565   602 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:09.557   565   602 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:09.557   565   602 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:09.558   565   602 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:09.558   565   602 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:09.558   565   602 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:09.559   565   602 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:09.569   565   602 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:09.569   565   602 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:09.569   565   602 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:09.569   565   602 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:09.569   565   602 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:09.569   565   602 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:09.569   565   602 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:09.569   565   602 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:09.569   565   602 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:09.569   565   602 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:09.574  1166  1818 D EGL_emulation: app_time_stats: avg=1386.18ms min=1386.18ms max=1386.18ms count=1
+10-17 12:28:09.634  1694  1694 I GsaVoiceInteractionSrv: Handling ACTION_STOP_HOTWORD
+10-17 12:28:09.669  1694  1694 E HwDetectorWithState: a: 3
+10-17 12:28:09.690 22712 22712 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10152; state: ENABLED
+10-17 12:28:09.728 22712 22712 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+10-17 12:28:09.734   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1edcec000 0x1edf58000]
+10-17 12:28:09.737 22712 22712 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+10-17 12:28:09.738   565  8116 D HostConnection: createUnique: call
+10-17 12:28:09.747   863   945 D EGL_emulation: app_time_stats: avg=535647.38ms min=535647.38ms max=535647.38ms count=1
+10-17 12:28:09.748   565  8116 D HostConnection: HostConnection::get() New Host Connection established 0xb400006f69a11950, tid 8116
+10-17 12:28:09.758   565  8116 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_read_color_buffer_dma ANDROID_EMU_hwc_multi_configs GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0
+10-17 12:28:09.760   565  8116 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+10-17 12:28:09.761   565  8116 W OpenGLRenderer: Failed to initialize 101010-2 format, error = EGL_SUCCESS
+10-17 12:28:09.765   565  8116 D EGL_emulation: eglCreateContext: 0xb400006f69a3b290: maj 3 min 0 rcv 3
+10-17 12:28:09.767   565  8116 D EGL_emulation: eglMakeCurrent: 0xb400006f69a3b290: ver 3 0 (tinfo 0x6ecadae180) (first time)
+10-17 12:28:09.769   565   602 D HostConnection: createUnique: call
+10-17 12:28:09.769   565   602 D HostConnection: HostConnection::get() New Host Connection established 0xb400006f69a3b350, tid 602
+10-17 12:28:09.778   565   602 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_read_color_buffer_dma ANDROID_EMU_hwc_multi_configs GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0
+10-17 12:28:09.908 22712 22712 V GraphicsEnvironment: ANGLE Developer option for 'edu.ucsc.cse118.assignment3.test' set to: 'default'
+10-17 12:28:09.908 22712 22712 V GraphicsEnvironment: ANGLE GameManagerService for edu.ucsc.cse118.assignment3.test: false
+10-17 12:28:09.908 22712 22712 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+10-17 12:28:09.910 22712 22712 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+10-17 12:28:09.910 22712 22712 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+10-17 12:28:09.936 22712 22755 D libEGL  : loaded /vendor/lib64/egl/libEGL_emulation.so
+10-17 12:28:09.937 22712 22755 D libEGL  : loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so
+10-17 12:28:09.939 22712 22755 D libEGL  : loaded /vendor/lib64/egl/libGLESv2_emulation.so
+10-17 12:28:09.964   565   602 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:09.964   565   602 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:09.964   565   602 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:09.964   565   602 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:09.964   565   602 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:09.964   565   602 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:09.964   565   602 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:09.964   565   602 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:09.964   565   602 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:09.964   565   602 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:09.964   565   602 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:09.964   565   602 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:09.964   565   602 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:09.964   565   602 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:09.964   565   602 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:09.964   565   602 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:09.964   565   602 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:09.964   565   602 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:09.964   565   602 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:09.964   565   602 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:09.995 22687 22687 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment3.MainActivity@2ac54d in: PRE_ON_CREATE
+10-17 12:28:09.998 22687 22687 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+10-17 12:28:09.998 22687 22759 D libEGL  : loaded /vendor/lib64/egl/libEGL_emulation.so
+10-17 12:28:09.999 22687 22759 D libEGL  : loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so
+10-17 12:28:10.001 22687 22759 D libEGL  : loaded /vendor/lib64/egl/libGLESv2_emulation.so
+10-17 12:28:10.028 22687 22687 W 118.assignment: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (unsupported, reflection, allowed)
+10-17 12:28:10.029 22687 22687 W 118.assignment: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)
+10-17 12:28:10.076 22687 22687 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment3.MainActivity@2ac54d in: CREATED
+10-17 12:28:10.077 22687 22687 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=edu.ucsc.cse118.assignment3.MainActivity@2ac54d
+10-17 12:28:10.103 22687 22687 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment3.MainActivity@2ac54d in: STARTED
+10-17 12:28:10.104 22687 22687 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=edu.ucsc.cse118.assignment3.MainActivity@2ac54d
+10-17 12:28:10.104 22687 22687 D LifecycleMonitor: Lifecycle status change: edu.ucsc.cse118.assignment3.MainActivity@2ac54d in: RESUMED
+10-17 12:28:10.104 22687 22687 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=edu.ucsc.cse118.assignment3.MainActivity@2ac54d
+10-17 12:28:10.110 22687 22710 W 118.assignment: Accessing hidden method Landroid/view/ViewConfiguration;->getDoubleTapMinTime()I (unsupported, reflection, allowed)
+10-17 12:28:10.116 22687 22710 D EventInjectionStrategy: Creating injection strategy with input manager.
+10-17 12:28:10.117 22687 22710 W 118.assignment: Accessing hidden method Landroid/hardware/input/InputManager;->getInstance()Landroid/hardware/input/InputManager; (unsupported, reflection, allowed)
+10-17 12:28:10.117 22687 22710 W 118.assignment: Accessing hidden method Landroid/hardware/input/InputManager;->injectInputEvent(Landroid/view/InputEvent;I)Z (unsupported, reflection, allowed)
+10-17 12:28:10.117 22687 22710 W 118.assignment: Accessing hidden field Landroid/hardware/input/InputManager;->INJECT_INPUT_EVENT_MODE_WAIT_FOR_FINISH:I (unsupported, reflection, allowed)
+10-17 12:28:10.126 22687 22757 D HostConnection: createUnique: call
+10-17 12:28:10.126 22687 22757 D HostConnection: HostConnection::get() New Host Connection established 0xb400006f699ad990, tid 22757
+10-17 12:28:10.139   863   945 D EGL_emulation: app_time_stats: avg=9997.96ms min=9997.96ms max=9997.96ms count=1
+10-17 12:28:10.145 22687 22757 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_read_color_buffer_dma ANDROID_EMU_hwc_multi_configs GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0
+10-17 12:28:10.146   202   202 I hwservicemanager: getTransport: Cannot find entry android.hardware.configstore@1.0::ISurfaceFlingerConfigs/default in either framework or device VINTF manifest.
+10-17 12:28:10.146 22687 22757 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+10-17 12:28:10.146 22687 22757 W OpenGLRenderer: Failed to initialize 101010-2 format, error = EGL_SUCCESS
+10-17 12:28:10.148 22687 22757 D EGL_emulation: eglCreateContext: 0xb400006f699ade10: maj 3 min 0 rcv 3
+10-17 12:28:10.150 22687 22757 D EGL_emulation: eglMakeCurrent: 0xb400006f699ade10: ver 3 0 (tinfo 0x7174f84080) (first time)
+10-17 12:28:10.154   202   202 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device VINTF manifest.
+10-17 12:28:10.154 22687 22757 I Gralloc4: mapper 4.x is not supported
+10-17 12:28:10.154 22687 22757 D HostConnection: createUnique: call
+10-17 12:28:10.155 22687 22757 D HostConnection: HostConnection::get() New Host Connection established 0xb400006f699ad510, tid 22757
+10-17 12:28:10.156 22687 22757 D goldfish-address-space: allocate: Ask for block of size 0x100
+10-17 12:28:10.156 22687 22757 D goldfish-address-space: allocate: ioctl allocate returned offset 0x1ebff8000 size 0x8000
+10-17 12:28:10.157   202   202 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.allocator@4.0::IAllocator/default in either framework or device VINTF manifest.
+10-17 12:28:10.157 22687 22757 W Gralloc4: allocator 4.x is not supported
+10-17 12:28:10.158   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1edf58000 0x1ee8fc000]
+10-17 12:28:10.161 22687 22757 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_read_color_buffer_dma ANDROID_EMU_hwc_multi_configs GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0
+10-17 12:28:10.162   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1f0000000 0x1f09a4000]
+10-17 12:28:10.163   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1f09a4000 0x1f1348000]
+10-17 12:28:10.222   565   606 I ActivityTaskManager: Displayed edu.ucsc.cse118.assignment3/.MainActivity: +824ms
+10-17 12:28:10.237   565   602 W InputManager-JNI: Input channel object 'ca184e5 Splash Screen edu.ucsc.cse118.assignment3.test (client)' was disposed without first being removed with the input manager!
+10-17 12:28:10.241  1570  1570 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3269
+10-17 12:28:10.247  1570  1570 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1947
+10-17 12:28:10.250  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-17 12:28:10.256 22687 22687 W 118.assignment: Accessing hidden method Landroid/os/MessageQueue;->next()Landroid/os/Message; (unsupported, reflection, allowed)
+10-17 12:28:10.256 22687 22687 W 118.assignment: Accessing hidden field Landroid/os/MessageQueue;->mMessages:Landroid/os/Message; (unsupported, reflection, allowed)
+10-17 12:28:10.258 22687 22687 W 118.assignment: Accessing hidden method Landroid/os/Message;->recycleUnchecked()V (unsupported, reflection, allowed)
+10-17 12:28:10.267 22687 22687 W 118.assignment: Accessing hidden method Landroid/view/WindowManagerGlobal;->getInstance()Landroid/view/WindowManagerGlobal; (unsupported, reflection, allowed)
+10-17 12:28:10.267 22687 22687 W 118.assignment: Accessing hidden field Landroid/view/WindowManagerGlobal;->mViews:Ljava/util/ArrayList; (unsupported, reflection, allowed)
+10-17 12:28:10.267 22687 22687 W 118.assignment: Accessing hidden field Landroid/view/WindowManagerGlobal;->mParams:Ljava/util/ArrayList; (unsupported, reflection, allowed)
+10-17 12:28:10.271 22687 22687 I ViewInteraction: Performing 'type text(molly@cse118.com)' action on view ((view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle) and ((view.getId() is <2131230903/edu.ucsc.cse118.assignment3:id/email> and is assignable from class <class android.widget.EditText>) or (is descendant of a view matching view.getId() is <2131230903/edu.ucsc.cse118.assignment3:id/email> and is assignable from class <class android.widget.EditText>)))
+10-17 12:28:10.274  1166  1166 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=539.5, y[0]=782.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=34552558, downTime=34552558, deviceId=-1, source=0x1002, displayId=0, eventId=-1031401649 }
+10-17 12:28:10.315  1166  1166 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=539.5, y[0]=782.5, toolType[0]=TOOL_TYPE_FINGER, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=34552600, downTime=34552558, deviceId=-1, source=0x1002, displayId=0, eventId=-797256943 }
+10-17 12:28:10.320 22687 22687 D CompatibilityChangeReporter: Compat change id reported: 163400105; UID 10153; state: ENABLED
+10-17 12:28:10.320  1570  1570 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3269
+10-17 12:28:10.321 22687 22687 D InputMethodManager: showSoftInput() view=androidx.appcompat.widget.AppCompatEditText{4482302 VFED..CL. .F.P..ID 196,501-884,625 #7f0800b7 app:id/email aid=1073741824} flags=0 reason=SHOW_SOFT_INPUT
+10-17 12:28:10.323  1570  1570 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1947
+10-17 12:28:10.324  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-17 12:28:10.329  1570  1570 I GoogleInputMethodService: GoogleInputMethodService.onStartInputView():2057
+10-17 12:28:10.330  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-17 12:28:10.330  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-17 12:28:10.334  1570  1570 I KeyboardViewUtil: KeyboardViewUtil.getKeyboardHeightRatio():168 systemKeyboardHeightRatio:1.000000; userKeyboardHeightRatio:1.000000.
+10-17 12:28:10.334  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-17 12:28:10.335  1570  1570 I AndroidIME: AbstractIme.onActivate():86 LatinIme.onActivate() : EditorInfo = inputType=Email imeActionName=NEXT dump=[inputType=0x21 imeOptions=0x8000005 privateImeOptions=null actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x0 hintText=Email label=null packageName=edu.ucsc.cse118.assignment3 autofillId=1073741824 fieldId=2131230903 fieldName=null extras=null hintLocales=null contentMimeTypes=null ], IncognitoMode = false, DeviceLocked = false
+10-17 12:28:10.335  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-17 12:28:10.336  1570  1570 I Delight5Facilitator: Delight5Facilitator.initializeForIme():769 initializeForIme() : Locale = [en_US], layout = qwerty
+10-17 12:28:10.336  1570  1570 I Delight5Facilitator: Delight5Facilitator.resetDecoder():925 resetDecoder() : Locale = [en_US]
+10-17 12:28:10.338  1570  1570 E UserFeatureCache: UserFeatureCache.getStore():468 Wrong feature id provided PERSONALIZED_FST_MODEL_PARAMS for protobuf lab.
+10-17 12:28:10.339  1570  1570 E InputContextLock: InputContextLock.mayLockAndRun():126 Failed to run
+10-17 12:28:10.339  1570  1570 E InputContextLock: java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Class java.lang.Object.getClass()' on a null object reference
+10-17 12:28:10.339  1570  1570 E InputContextLock: 	at com.google.android.libraries.inputmethod.userfeaturecache.UserFeatureCache.c(PG:8)
+10-17 12:28:10.339  1570  1570 E InputContextLock: 	at com.google.android.apps.inputmethod.libs.delight5.Delight5Facilitator.K(PG:131)
+10-17 12:28:10.339  1570  1570 E InputContextLock: 	at cng.call(Unknown Source:4)
+10-17 12:28:10.339  1570  1570 E InputContextLock: 	at con.a(PG:6)
+10-17 12:28:10.339  1570  1570 E InputContextLock: 	at com.google.android.apps.inputmethod.libs.delight5.Delight5Facilitator.G(PG:37)
+10-17 12:28:10.339  1570  1570 E InputContextLock: 	at com.google.android.apps.inputmethod.libs.latin5.LatinIme.h(PG:17)
+10-17 12:28:10.339  1570  1570 E InputContextLock: 	at jlx.g(PG:6)
+10-17 12:28:10.339  1570  1570 E InputContextLock: 	at jlx.m(PG:2)
+10-17 12:28:10.339  1570  1570 E InputContextLock: 	at dww.u(PG:18)
+10-17 12:28:10.339  1570  1570 E InputContextLock: 	at com.android.inputmethod.latin.LatinIME.u(PG:104)
+10-17 12:28:10.339  1570  1570 E InputContextLock: 	at dww.onStartInputView(PG:29)
+10-17 12:28:10.339  1570  1570 E InputContextLock: 	at android.inputmethodservice.InputMethodService.startViews(InputMethodService.java:2291)
+10-17 12:28:10.339  1570  1570 E InputContextLock: 	at android.inputmethodservice.InputMethodService.showWindow(InputMethodService.java:2237)
+10-17 12:28:10.339  1570  1570 E InputContextLock: 	at android.inputmethodservice.InputMethodService$InputMethodImpl.showSoftInput(InputMethodService.java:808)
+10-17 12:28:10.339  1570  1570 E InputContextLock: 	at android.inputmethodservice.InputMethodService$InputMethodImpl.showSoftInputWithToken(InputMethodService.java:782)
+10-17 12:28:10.339  1570  1570 E InputContextLock: 	at android.inputmethodservice.IInputMethodWrapper.executeMessage(IInputMethodWrapper.java:225)
+10-17 12:28:10.339  1570  1570 E InputContextLock: 	at com.android.internal.os.HandlerCaller$MyHandler.handleMessage(HandlerCaller.java:44)
+10-17 12:28:10.339  1570  1570 E InputContextLock: 	at android.os.Handler.dispatchMessage(Handler.java:106)
+10-17 12:28:10.339  1570  1570 E InputContextLock: 	at android.os.Looper.loopOnce(Looper.java:201)
+10-17 12:28:10.339  1570  1570 E InputContextLock: 	at android.os.Looper.loop(Looper.java:288)
+10-17 12:28:10.339  1570  1570 E InputContextLock: 	at android.app.ActivityThread.main(ActivityThread.java:7842)
+10-17 12:28:10.339  1570  1570 E InputContextLock: 	at java.lang.reflect.Method.invoke(Native Method)
+10-17 12:28:10.339  1570  1570 E InputContextLock: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:548)
+10-17 12:28:10.339  1570  1570 E InputContextLock: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1003)
+10-17 12:28:10.341  1570  1570 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.cancelShutdown():55 cancelShutdown()
+10-17 12:28:10.341  1570  1570 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.syncLanguagePacks():67 syncLanguagePacks()
+10-17 12:28:10.343  1570  1570 I LatinIme: LatinIme.updateEnableInlineSuggestionsOnDecoderSideFlags():1264 inline flag updated to:false
+10-17 12:28:10.344  1570  1570 W Delight5Decoder: Decoder.setRuntimeParams():372 setRuntimeParams() : Native lib is not ready.
+10-17 12:28:10.345 22687 22687 I AssistStructure: Flattened final assist data: 1940 bytes, containing 1 windows, 12 views
+10-17 12:28:10.347  1570  7663 I SpeechFactory: SpeechRecognitionFactory.maybeScheduleAutoPackDownloadForFallback():184 maybeScheduleAutoPackDownloadForFallback()
+10-17 12:28:10.348  1570  7663 I FallbackOnDeviceRecognitionProvider: FallbackOnDeviceRecognitionProvider.maybeScheduleAutoPackDownload():196 maybeScheduleAutoPackDownload() for language tag en-US
+10-17 12:28:10.352  1570  1570 I KeyboardWrapper: KeyboardWrapper.consumeEvent():284 Skip consuming an event as current keyboard is deactivated (state=0, keyboard existence=true)
+10-17 12:28:10.356  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-17 12:28:10.361  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-17 12:28:10.361  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-17 12:28:10.361  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-17 12:28:10.361  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-17 12:28:10.361  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-17 12:28:10.361  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-17 12:28:10.367  1570  1570 I KeyboardViewHelper: KeyboardViewHelper.getView():166 Get view with height ratio:1.000000
+10-17 12:28:10.390  1570  1570 I KeyboardViewUtil: KeyboardViewUtil.calculateMaxKeyboardBodyHeight():53 leave 344 height for app when screen height:2208, header height:121 and isFullscreenMode:false, so the max keyboard body height is:1743
+10-17 12:28:10.391  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-17 12:28:10.391  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-17 12:28:10.391  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-17 12:28:10.392  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-17 12:28:10.392  1570  1570 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():96 Get device mode phone by ui mode:1 and smallestScreenWidthDp:392
+10-17 12:28:10.392  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-17 12:28:10.392  1570  1570 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():111 currentPrimeKeyboardType:SOFT systemPaddingBottom:-1
+10-17 12:28:10.393  1570  1570 I KeyboardViewUtil: KeyboardViewUtil.calculateMaxKeyboardBodyHeight():53 leave 344 height for app when screen height:2208, header height:121 and isFullscreenMode:false, so the max keyboard body height is:1743
+10-17 12:28:10.393  1570  1570 E LatinPrimeKeyboard: LatinPrimeKeyboard.updateCurrentImeLocales():414 consumeEvent: UPDATE_CURRENT_IME_LOCALES, Illegal argument
+10-17 12:28:10.393  1570  1570 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():111 currentPrimeKeyboardType:SOFT systemPaddingBottom:-1
+10-17 12:28:10.393  1570  1570 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():111 currentPrimeKeyboardType:SOFT systemPaddingBottom:-1
+10-17 12:28:10.396  1570  1570 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+10-17 12:28:10.396  1570  1570 I CurrentMicStatusHolder: CurrentMicStatusHolder.onStartInputView():79 Current Mic status = {MicIconHidden-EmailInputType,}
+10-17 12:28:10.396  1570  1570 I VoiceImeExtension: VoiceImeExtension.shouldStartVoiceInputAutomatically():364 No private IME option set to start voice input.
+10-17 12:28:10.401  1389  1389 D BoundBrokerSvc: onBind: Intent { act=com.google.firebase.dynamiclinks.service.START pkg=com.google.android.gms }
+10-17 12:28:10.401  1389  1389 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.firebase.dynamiclinks.service.START pkg=com.google.android.gms }
+10-17 12:28:10.412   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1ec000000 0x1ec960000]
+10-17 12:28:10.421  1570  1570 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():111 currentPrimeKeyboardType:SOFT systemPaddingBottom:-1
+10-17 12:28:10.433  1271  1271 W ngj     : Pending fill request while another request in the same session was triggered. [CONTEXT service_id=177 ]
+10-17 12:28:10.443  1389  1389 D BoundBrokerSvc: onBind: Intent { act=com.google.android.mdd.service.START cmp=com.google.android.gms/.chimera.GmsBoundBrokerService }
+10-17 12:28:10.444  1389  1389 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.mdd.service.START cmp=com.google.android.gms/.chimera.GmsBoundBrokerService }
+10-17 12:28:10.455   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1ec960000 0x1ed2c0000]
+10-17 12:28:10.461 22687 22687 D InsetsController: show(ime(), fromIme=true)
+10-17 12:28:10.473   365   424 D goldfish-address-space: claimShared: Ask to claim region [0x1ed2c0000 0x1edc20000]
+10-17 12:28:10.519  1580  1580 V InlineSuggestionRenderService: handleDestroySuggestionViews called for 0:1247534858
+10-17 12:28:10.535  1389  1389 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+10-17 12:28:10.535  1389  1389 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+10-17 12:28:10.536  1389  1389 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+10-17 12:28:10.539  1389  1389 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+10-17 12:28:10.539  1389  1389 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+10-17 12:28:10.540  1389  1389 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+10-17 12:28:10.557  1570  1570 W SpellCheckerExtension: SpellCheckerExtension.consumeEvent():156 SPELL_CHECK_SUGGESTIONS received with bad key data.
+10-17 12:28:10.557  1570  1570 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():157 Tooltip with id spell_check_add_to_dictionary not found in tooltipManager.
+10-17 12:28:10.574 22687 22687 D UiControllerImpl: Injecting string: "molly@cse118.com"
+10-17 12:28:10.617  1271  2459 I FontLog : Received query Noto Color Emoji Compat, URI content://com.google.android.gms.fonts [CONTEXT service_id=132 ]
+10-17 12:28:10.618  1271  2459 I FontLog : Query [emojicompat-emoji-font] resolved to {Noto Color Emoji Compat, wdth 100.0, wght 400, ital 0.0, bestEffort false} [CONTEXT service_id=132 ]
+10-17 12:28:10.620  1271  2459 I FontLog : Fetch {Noto Color Emoji Compat, wdth 100.0, wght 400, ital 0.0, bestEffort false} end status Status{statusCode=SUCCESS, resolution=null} [CONTEXT service_id=132 ]
+10-17 12:28:10.627  1271  2459 I FontLog : Pulling font file for id = 85, cache size = 5 [CONTEXT service_id=132 ]
+10-17 12:28:10.635  1271  2459 I FontLog : Pulling font file for id = 85, cache size = 5 [CONTEXT service_id=132 ]
+10-17 12:28:10.903   565  2074 W InputManager-JNI: Input channel object '6db3e35 edu.ucsc.cse118.assignment3/edu.ucsc.cse118.assignment3.MainActivity (client)' was disposed without first being removed with the input manager!
+10-17 12:28:10.906   565   619 I libprocessgroup: Successfully killed process cgroup uid 10153 pid 22687 in 29ms
+10-17 12:28:10.920   565  2074 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:10.920   565  2074 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:10.920   565  2074 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:10.920   565  2074 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:10.920   565  2074 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:10.920   565  2074 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:10.920   565  2074 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:10.920   565  2074 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:10.920   565  2074 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:10.920   565  2074 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:10.922   565  2074 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:10.923   565  2074 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:10.923   565  2074 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:10.923   565  2074 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:10.923   565  2074 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:10.923   565  2074 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:10.923   565  2074 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:10.923   565  2074 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:10.923   565  2074 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:10.923   565  2074 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+10-17 12:28:10.925 22712 22712 D CompatibilityChangeReporter: Compat change id reported: 78294732; UID 10152; state: ENABLED
+10-17 12:28:10.936 22673 22673 D AndroidRuntime: Shutting down VM
+10-17 12:28:10.962  1570  1570 E InputConnectionWrapper: InputConnectionWrapper.waitForInputConnectionFutureInternal():1533 Failed to get the input connection call's result.
+10-17 12:28:10.962  1570  1570 E InputConnectionWrapper: java.util.concurrent.TimeoutException: Waited 100 milliseconds (plus 1 milliseconds, 1833 nanoseconds delay) for pgn@61c1161[status=PENDING, info=[task=[running=[RUNNING ON ICWrapper-1], jmt@9452486]]]
+10-17 12:28:10.962  1570  1570 E InputConnectionWrapper: 	at pdf.get(PG:50)
+10-17 12:28:10.962  1570  1570 E InputConnectionWrapper: 	at jnj.h(PG:2)
+10-17 12:28:10.962  1570  1570 E InputConnectionWrapper: 	at jnj.g(PG:2)
+10-17 12:28:10.962  1570  1570 E InputConnectionWrapper: 	at jni.b(PG:6)
+10-17 12:28:10.962  1570  1570 E InputConnectionWrapper: 	at jns.C(PG:1)
+10-17 12:28:10.962  1570  1570 E InputConnectionWrapper: 	at jns.o(PG:1)
+10-17 12:28:10.962  1570  1570 E InputConnectionWrapper: 	at jns.q(PG:5)
+10-17 12:28:10.962  1570  1570 E InputConnectionWrapper: 	at jnj.b(PG:14)
+10-17 12:28:10.962  1570  1570 E InputConnectionWrapper: 	at dww.onUpdateSelection(PG:5)
+10-17 12:28:10.962  1570  1570 E InputConnectionWrapper: 	at android.inputmethodservice.InputMethodService$InputMethodSessionImpl.updateSelection(InputMethodService.java:1007)
+10-17 12:28:10.962  1570  1570 E InputConnectionWrapper: 	at android.inputmethodservice.IInputMethodSessionWrapper.executeMessage(IInputMethodSessionWrapper.java:105)
+10-17 12:28:10.962  1570  1570 E InputConnectionWrapper: 	at com.android.internal.os.HandlerCaller$MyHandler.handleMessage(HandlerCaller.java:44)
+10-17 12:28:10.962  1570  1570 E InputConnectionWrapper: 	at android.os.Handler.dispatchMessage(Handler.java:106)
+10-17 12:28:10.962  1570  1570 E InputConnectionWrapper: 	at android.os.Looper.loopOnce(Looper.java:201)
+10-17 12:28:10.962  1570  1570 E InputConnectionWrapper: 	at android.os.Looper.loop(Looper.java:288)
+10-17 12:28:10.962  1570  1570 E InputConnectionWrapper: 	at android.app.ActivityThread.main(ActivityThread.java:7842)
+10-17 12:28:10.962  1570  1570 E InputConnectionWrapper: 	at java.lang.reflect.Method.invoke(Native Method)
+10-17 12:28:10.962  1570  1570 E InputConnectionWrapper: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:548)
+10-17 12:28:10.962  1570  1570 E InputConnectionWrapper: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1003)
+10-17 12:28:10.969  1570  1570 W InputConnectionWrapper: InputConnectionWrapper.recordDuration():1496 IPC IC_GET_SURROUNDING_TEXT took 103 ms
+10-17 12:28:11.007   352   352 I Zygote  : Process 22687 exited due to signal 9 (Killed)

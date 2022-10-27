@@ -18,7 +18,7 @@ final class PostfixCaculatorUITests: XCTestCase {
     field.typeText(expression)
     app.buttons["Evaluate"].tap()
     let result = app.textFields["Result"]
-    XCTAssertEqual(result.value as! String, expected.description, "Invalid")
+    XCTAssertEqual(result.value as! String, expected.description)
   }
 
   func testValidExpression() throws {

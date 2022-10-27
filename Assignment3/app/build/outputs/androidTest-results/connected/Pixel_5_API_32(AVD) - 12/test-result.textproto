@@ -1,0 +1,41 @@
+# 2022-10-17T22:31:43.747Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 10
+}
+test_status: ABORTED
+test_result {
+  test_case {
+    test_class: "AdvancedTest"
+    test_package: "edu.ucsc.cse118.assignment3"
+    test_method: "header"
+    start_time {
+      seconds: 1666045902
+      nanos: 169000000
+    }
+    end_time {
+      seconds: 1666045903
+      nanos: 549000000
+    }
+  }
+  test_status: FAILED
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment3/app/build/outputs/androidTest-results/connected/Pixel_5_API_32(AVD) - 12/testlog/test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}
+issue {
+  namespace {
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  severity: SEVERE
+  code: 1
+  name: "INSTRUMENTATION_FAILED"
+  message: "Test run failed to complete. Expected 10 tests, received 0"
+}
