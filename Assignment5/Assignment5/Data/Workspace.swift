@@ -6,7 +6,8 @@
 //
 
 import Foundation
-
+let date = Date()
+let dateFormatter = DateFormatter()
 struct Workspace: Identifiable {
     let id: UUID
     let name: String

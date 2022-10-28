@@ -5,7 +5,7 @@ struct Assignment5App: App {
     var body: some Scene {
         WindowGroup {
             NavigationStack{
-                WorkspaceList()
+                WorkspaceList(workspaces: Workspace.examples)
             }
         }
     }

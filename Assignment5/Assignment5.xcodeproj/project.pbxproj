@@ -15,6 +15,10 @@
 		07E38880290B2BD700DECB4A /* WorkspaceCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07E3887F290B2BD700DECB4A /* WorkspaceCard.swift */; };
 		07E38882290B2FB100DECB4A /* ChannelList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07E38881290B2FB100DECB4A /* ChannelList.swift */; };
 		07E38884290B316700DECB4A /* ChannelCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07E38883290B316700DECB4A /* ChannelCard.swift */; };
+		07E38886290C881F00DECB4A /* MessageList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07E38885290C881F00DECB4A /* MessageList.swift */; };
+		07E38888290C882B00DECB4A /* MessageCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07E38887290C882B00DECB4A /* MessageCard.swift */; };
+		07E3888A290C89C200DECB4A /* ContentCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07E38889290C89C200DECB4A /* ContentCard.swift */; };
+		07E3888C290C89CE00DECB4A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07E3888B290C89CE00DECB4A /* ContentView.swift */; };
 		FE3CA9F028FA05E4005B09B6 /* Assignment5App.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE3CA9EF28FA05E4005B09B6 /* Assignment5App.swift */; };
 		FE3CA9F428FA05E4005B09B6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FE3CA9F328FA05E4005B09B6 /* Assets.xcassets */; };
 		FE3CA9F728FA05E4005B09B6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FE3CA9F628FA05E4005B09B6 /* Preview Assets.xcassets */; };
@@ -42,6 +46,10 @@
 		07E3887F290B2BD700DECB4A /* WorkspaceCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkspaceCard.swift; sourceTree = "<group>"; };
 		07E38881290B2FB100DECB4A /* ChannelList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChannelList.swift; sourceTree = "<group>"; };
 		07E38883290B316700DECB4A /* ChannelCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChannelCard.swift; sourceTree = "<group>"; };
+		07E38885290C881F00DECB4A /* MessageList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageList.swift; sourceTree = "<group>"; };
+		07E38887290C882B00DECB4A /* MessageCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageCard.swift; sourceTree = "<group>"; };
+		07E38889290C89C200DECB4A /* ContentCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentCard.swift; sourceTree = "<group>"; };
+		07E3888B290C89CE00DECB4A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		FE3CA9EC28FA05E4005B09B6 /* Assignment5.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Assignment5.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FE3CA9EF28FA05E4005B09B6 /* Assignment5App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Assignment5App.swift; sourceTree = "<group>"; };
 		FE3CA9F328FA05E4005B09B6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -144,6 +152,10 @@
 				07E3887F290B2BD700DECB4A /* WorkspaceCard.swift */,
 				07E38881290B2FB100DECB4A /* ChannelList.swift */,
 				07E38883290B316700DECB4A /* ChannelCard.swift */,
+				07E38885290C881F00DECB4A /* MessageList.swift */,
+				07E38887290C882B00DECB4A /* MessageCard.swift */,
+				07E38889290C89C200DECB4A /* ContentCard.swift */,
+				07E3888B290C89CE00DECB4A /* ContentView.swift */,
 			);
 			path = UI;
 			sourceTree = "<group>";
@@ -255,9 +267,13 @@
 				07E38882290B2FB100DECB4A /* ChannelList.swift in Sources */,
 				07E3887E290B29B000DECB4A /* Member.swift in Sources */,
 				07E3887A290B292000DECB4A /* Channel.swift in Sources */,
+				07E3888A290C89C200DECB4A /* ContentCard.swift in Sources */,
+				07E38886290C881F00DECB4A /* MessageList.swift in Sources */,
 				07E3887C290B295D00DECB4A /* Message.swift in Sources */,
 				FE3CA9F028FA05E4005B09B6 /* Assignment5App.swift in Sources */,
 				07E38880290B2BD700DECB4A /* WorkspaceCard.swift in Sources */,
+				07E3888C290C89CE00DECB4A /* ContentView.swift in Sources */,
+				07E38888290C882B00DECB4A /* MessageCard.swift in Sources */,
 				07584FCE290B2679008D87E4 /* WorkspaceList.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
