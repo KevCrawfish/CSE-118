@@ -6,9 +6,8 @@
 //
 
 import Foundation
-let date = Date()
-let dateFormatter = DateFormatter()
-struct Workspace: Identifiable {
+
+struct Workspace: Identifiable, Decodable {
     let id: UUID
     let name: String
     let channels: [Channel]
@@ -16,9 +15,9 @@ struct Workspace: Identifiable {
 
 extension Workspace {
   static let examples = [
-    Workspace(id: UUID(), name: "Example Workspace", channels: [
-      Channel(id: UUID(), name: "Example Channel", messages: [
-        Message(id: UUID(), content: "Example Content", posted: Date(), member: Member(id: UUID(), name: "Example Name"))
+    Workspace(id: UUID(), name: "Workspace", channels: [
+      Channel(id: UUID(), name: "Channel", messages: [
+        Message(id: UUID(), content: "Content", posted: "Date", member: Member(id: UUID(), name: "Name"))
       ])
     ])
   ]

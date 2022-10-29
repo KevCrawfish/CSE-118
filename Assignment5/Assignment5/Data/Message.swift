@@ -7,9 +7,9 @@
 
 import Foundation
 
-struct Message: Identifiable {
+struct Message: Identifiable, Decodable {
     let id: UUID
     let content: String
-    let posted: Date
+    let posted: String
     let member: Member
 }
