@@ -23,6 +23,7 @@ struct MessageList: View {
     }
 }
 
+#if TESTING
 struct MessageList_Previews: PreviewProvider {
   static var previews: some View {
     NavigationStack {
@@ -30,3 +31,4 @@ struct MessageList_Previews: PreviewProvider {
     }
   }
 }
+#endif

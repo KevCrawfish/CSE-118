@@ -26,7 +26,7 @@ struct ContentCard: View {
     }
 }
 
-#if !TESTING
+#if TESTING
 struct ContentCard_Previews: PreviewProvider {
     static var previews: some View {
         ContentCard(message: Workspace.examples[0].channels[0].messages[0])

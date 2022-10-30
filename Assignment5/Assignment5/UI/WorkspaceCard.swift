@@ -15,7 +15,7 @@ struct WorkspaceCard: View {
     }
 }
 
-#if !TESTING
+#if TESTING
 struct WorkspaceCard_Previews: PreviewProvider {
     static var previews: some View {
         WorkspaceCard(workspace: Workspace.examples[0])

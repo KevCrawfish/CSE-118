@@ -3,17 +3,14 @@ import SwiftUI
 extension Workspace {
     static func fromJSONResource(name: String) ->
     [Workspace] {
+        var workspace: [Workspace] = []
         if let bundlePath = Bundle.main.path(forResource:
                 "Workspaces", ofType: "json") {
-            do {
-                if let jsonData = try String(contentsOfFile: bundlePath).data(using: .utf8) {
-                    return try
-                    JSONDecoder().decode([Workspace].self, from: jsonData)
+                if let jsonData = try! String(contentsOfFile: bundlePath).data(using: .utf8) {
+                    workspace = try! JSONDecoder().decode([Workspace].self, from: jsonData)
                 }
-            } catch {
-            }
         }
-        return []
+        return workspace
     }
 }
 
@@ -32,7 +29,7 @@ struct WorkspaceList: View {
     }
 }
 
-#if !TESTING
+#if TESTING
 struct WorkspaceList_Previews: PreviewProvider {
   static var previews: some View {
       WorkspaceList()

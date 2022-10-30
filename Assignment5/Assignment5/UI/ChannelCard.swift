@@ -15,7 +15,7 @@ struct ChannelCard: View {
     }
 }
 
-#if !TESTING
+#if TESTING
 struct ChannelCard_Previews: PreviewProvider {
     static var previews: some View {
         ChannelCard(channel: Workspace.examples[0].channels[0])

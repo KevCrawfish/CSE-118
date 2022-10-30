@@ -20,6 +20,7 @@ struct ContentView: View {
     }
 }
 
+#if TESTING
 struct ContentView_Previews: PreviewProvider {
   static var previews: some View {
     NavigationStack {
@@ -27,3 +28,4 @@ struct ContentView_Previews: PreviewProvider {
     }
   }
 }
+#endif

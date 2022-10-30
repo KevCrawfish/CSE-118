@@ -23,6 +23,7 @@ struct ChannelList: View {
     }
 }
 
+#if TESTING
 struct ChannelList_Previews: PreviewProvider {
   static var previews: some View {
     NavigationStack {
@@ -30,3 +31,4 @@ struct ChannelList_Previews: PreviewProvider {
     }
   }
 }
+#endif

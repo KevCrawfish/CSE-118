@@ -27,7 +27,7 @@ struct MessageCard: View {
     }
 }
 
-#if !TESTING
+#if TESTING
 struct MessageCard_Previews: PreviewProvider {
     static var previews: some View {
         MessageCard(message: Workspace.examples[0].channels[0].messages[0])
