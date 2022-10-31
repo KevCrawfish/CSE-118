@@ -12,6 +12,7 @@ struct WorkspaceCard: View {
     var workspace: Workspace
     @State var count: String
     @State var uniqueCount: String
+    @State var latest: String
     var body: some View {
         VStack() {
             HStack() {
@@ -23,6 +24,9 @@ struct WorkspaceCard: View {
                     .disabled(true)
                 TextField("active", text: $uniqueCount)
                     .accessibilityLabel("members active in \(workspace.name)")
+                    .disabled(true)
+                TextField("latest", text: $latest)
+                    .accessibilityLabel("latest message in \(workspace.name)")
                     .disabled(true)
             }
         }

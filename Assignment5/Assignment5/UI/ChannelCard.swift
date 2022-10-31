@@ -12,6 +12,7 @@ struct ChannelCard: View {
     var channel: Channel
     @State var count: String
     @State var uniqueCount: String
+    @State var latest: String
     var body: some View {
         VStack() {
             HStack() {
@@ -24,15 +25,10 @@ struct ChannelCard: View {
                 TextField("active", text: $uniqueCount)
                     .accessibilityLabel("members active in \(channel.name)")
                     .disabled(true)
+                TextField("latest", text: $latest)
+                    .accessibilityLabel("latest message in \(channel.name)")
+                    .disabled(true)
             }
         }
     }
 }
-
-#if TESTING
-struct ChannelCard_Previews: PreviewProvider {
-    static var previews: some View {
-        ChannelCard(channel: Workspace.examples[0].channels[0])
-    }
-}
-#endif
