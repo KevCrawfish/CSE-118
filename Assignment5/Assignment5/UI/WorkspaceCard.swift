@@ -11,6 +11,7 @@ import SwiftUI
 struct WorkspaceCard: View {
     var workspace: Workspace
     @State var count: String
+    @State var uniqueCount: String
     var body: some View {
         VStack() {
             HStack() {
@@ -19,6 +20,9 @@ struct WorkspaceCard: View {
             HStack() {
                 TextField("count", text: $count)
                     .accessibilityLabel("count for \(workspace.name)")
+                    .disabled(true)
+                TextField("active", text: $uniqueCount)
+                    .accessibilityLabel("members active in \(workspace.name)")
                     .disabled(true)
             }
         }

@@ -14,6 +14,15 @@ extension Workspace {
     }
 }
 
+func getUnique(workspace: Workspace) -> String {
+    var total : Int = 0
+    for channel in workspace.channels {
+        let set = Set(channel.messages.map{$0.member.name})
+        total += set.count
+    }
+    return String(total)
+}
+
 struct WorkspaceList: View {
     @State private var workspaces: [Workspace] = Workspace.fromJSONResource(name: "Workspaces")
     var body: some View {
@@ -21,7 +30,7 @@ struct WorkspaceList: View {
             ForEach(workspaces) { workspace in
                 NavigationLink(destination:
                     ChannelList(workspace: workspace)) {
-                    WorkspaceCard(workspace: workspace, count: String(workspace.channels.count))
+                    WorkspaceCard(workspace: workspace, count: String(workspace.channels.count), uniqueCount: getUnique(workspace: workspace))
                 }
             }
         }
