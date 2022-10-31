@@ -23,8 +23,18 @@ func getUnique(workspace: Workspace) -> String {
     return String(total)
 }
 
+func sortArray(workspaces: [Workspace]) -> [Workspace]{
+    var newWorkspace = workspaces
+    for i in newWorkspace.indices {
+        for j in newWorkspace[i].channels.indices {
+            newWorkspace[i].channels[j].messages = newWorkspace[i].channels[j].messages.sorted{ $0.dateFromString > $1.dateFromString}
+        }
+    }
+    return newWorkspace
+}
+
 struct WorkspaceList: View {
-    @State private var workspaces: [Workspace] = Workspace.fromJSONResource(name: "Workspaces")
+    @State private var workspaces: [Workspace] = sortArray(workspaces: Workspace.fromJSONResource(name: "Workspaces"))
     var body: some View {
         List {
             ForEach(workspaces) { workspace in
