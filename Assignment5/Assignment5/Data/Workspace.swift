@@ -10,7 +10,7 @@ import Foundation
 struct Workspace: Identifiable, Decodable {
     let id: UUID
     let name: String
-    let channels: [Channel]
+    var channels: [Channel]
 }
 
 extension Workspace {

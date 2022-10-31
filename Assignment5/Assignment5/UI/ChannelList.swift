@@ -8,14 +8,30 @@
 import Foundation
 import SwiftUI
 
+extension Array {
+    func unique<T:Hashable>(by: ((Element) -> (T))) -> [Element] {
+        var set = Set<T>()
+        var arrayOrdered = [Element]()
+        for value in self {
+            if !set.contains(by(value)) {
+                set.insert(by(value))
+                arrayOrdered.append(value)
+            }
+        }
+        
+        return arrayOrdered
+    }
+}
+
 struct ChannelList: View {
     let workspace: Workspace
     var body: some View {
         List {
             ForEach(workspace.channels) { channel in
+                let set = Set(channel.messages.map{$0.member.name})
                 NavigationLink(destination:
                     MessageList(channel: channel)) {
-                        ChannelCard(channel: channel)
+                    ChannelCard(channel: channel, count: String(channel.messages.count), uniqueCount: String(set.count))
                 }
             }
         }

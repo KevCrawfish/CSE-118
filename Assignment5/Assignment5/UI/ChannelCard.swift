@@ -10,8 +10,22 @@ import SwiftUI
 
 struct ChannelCard: View {
     var channel: Channel
+    @State var count: String
+    @State var uniqueCount: String
     var body: some View {
-        Text("\(channel.name)")
+        VStack() {
+            HStack() {
+                Text("\(channel.name)")
+            }
+            HStack() {
+                TextField("count", text: $count)
+                    .accessibilityLabel("count for \(channel.name)")
+                    .disabled(true)
+                TextField("active", text: $uniqueCount)
+                    .accessibilityLabel("members active in \(channel.name)")
+                    .disabled(true)
+            }
+        }
     }
 }
 

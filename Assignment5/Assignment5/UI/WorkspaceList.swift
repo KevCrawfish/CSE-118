@@ -21,7 +21,7 @@ struct WorkspaceList: View {
             ForEach(workspaces) { workspace in
                 NavigationLink(destination:
                     ChannelList(workspace: workspace)) {
-                        WorkspaceCard(workspace: workspace)
+                    WorkspaceCard(workspace: workspace, count: String(workspace.channels.count))
                 }
             }
         }
