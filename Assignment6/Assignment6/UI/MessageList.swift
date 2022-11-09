@@ -20,8 +20,8 @@ struct MessageList : View {
             MessageCard(message: message).environmentObject(model)
               .swipeActions(edge: .trailing) {
                 Button("Delete") {
+                  model.messages = model.messages.filter({ $0.id != message.id})
                   model.deleteMessage(message: message)
-                  model.getMessages(channel: channel)
                 }
                 .tint(.red)
               }
