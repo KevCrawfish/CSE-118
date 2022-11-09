@@ -22,7 +22,7 @@ struct UserRepo {
           let json = try JSONDecoder().decode(LoggedUser.self, from: data)
           callback(json)
         } catch {
-          
+          return
         }
       }
     }.resume()

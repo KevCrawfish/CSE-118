@@ -13,7 +13,7 @@ struct Assignment6App: App {
   var body: some Scene {
     WindowGroup {
       NavigationStack {
-        LoginView()
+        MainView()
           .environmentObject(ViewModel())
       }
     }

@@ -10,7 +10,9 @@ import SwiftUI
 
 struct NewMessageView : View {
   @Environment(\.dismiss) var dismiss
+  @EnvironmentObject var model : ViewModel
   @State var content : String = ""
+  var channel: Channel
   
   var body: some View {
     VStack() {
@@ -21,10 +23,16 @@ struct NewMessageView : View {
         .accessibilityLabel("Message")
         .padding(.top, 60)
         .padding(.bottom, 10)
+        .textInputAutocapitalization(.never)
+        .autocorrectionDisabled(true)
       
       HStack() {
         Spacer()
         Button("Cancel", action: {
+          dismiss()
+        })
+        Button("OK", action: {
+          model.postMessage(content: content, channel: channel)
           dismiss()
         })
         Spacer()
@@ -32,11 +40,5 @@ struct NewMessageView : View {
       Spacer()
     }
     .navigationTitle("New Message")
-  }
-}
-
-struct Previews_NewMessageView_Previews: PreviewProvider {
-  static var previews: some View {
-    NewMessageView()
   }
 }

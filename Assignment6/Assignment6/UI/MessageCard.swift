@@ -23,7 +23,7 @@ struct MessageCard: View {
         Spacer()
         HStack() {
           Spacer()
-          Text(message.posted.formatted(date: .long, time: .shortened))
+          Text(message.posted.formatted(date: .abbreviated, time: .shortened))
             .multilineTextAlignment(.trailing)
         }
       }

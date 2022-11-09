@@ -31,14 +31,12 @@ struct LoginView: View {
         .textFieldStyle(.roundedBorder)
         .frame(width: 300)
       Button("Login", action: {
-        model.loginUser(email: Email, password: Password)
+        Task{
+          await model.loginUser(email: Email, password: Password)
+        }
       })
       Spacer()
       Spacer()
-      
-      NavigationLink(destination: WorkspaceList().navigationBarBackButtonHidden(true).environmentObject(model), isActive: $model.loggedIn) {
-        EmptyView()
-      }
     }
   }
 }

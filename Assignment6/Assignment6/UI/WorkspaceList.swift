@@ -27,21 +27,16 @@ struct WorkspaceList: View {
           }
         }
       }
-      
-      NavigationLink(destination: LoginView().navigationBarBackButtonHidden(true).environmentObject(ViewModel()), isActive: $model.loggedOut) {
-        EmptyView()
-      }
     }
     .onAppear {
       model.getWorkspaces()
-      model.getUsers()
     }
       .navigationTitle("Workspaces")
       .toolbar {
         ToolbarItem (placement: .navigationBarLeading) {
           Button("Logout", action: {
             Task {
-              await model.logOutUser()
+              model.logOutUser()
             }
           })
         }
