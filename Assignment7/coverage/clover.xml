@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1668498720635" clover="3.2.0">
+  <project timestamp="1668498720635" name="All files">
+    <metrics statements="85" coveredstatements="85" conditionals="22" coveredconditionals="22" methods="16" coveredmethods="16" elements="123" coveredelements="123" complexity="0" loc="85" ncloc="85" packages="2" files="4" classes="4"/>
+    <package name="Logic">
+      <metrics statements="39" coveredstatements="39" conditionals="14" coveredconditionals="14" methods="3" coveredmethods="3"/>
+      <file name="CalendarGenerator.js" path="/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment7/src/Logic/CalendarGenerator.js">
+        <metrics statements="21" coveredstatements="21" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+        <line num="14" count="120" type="stmt"/>
+        <line num="15" count="20" type="stmt"/>
+        <line num="16" count="20" type="stmt"/>
+        <line num="17" count="20" type="stmt"/>
+        <line num="18" count="20" type="stmt"/>
+        <line num="19" count="20" type="stmt"/>
+        <line num="20" count="20" type="cond" truecount="2" falsecount="0"/>
+        <line num="21" count="3" type="stmt"/>
+        <line num="22" count="21" type="stmt"/>
+        <line num="25" count="17" type="stmt"/>
+        <line num="26" count="17" type="stmt"/>
+        <line num="27" count="74" type="stmt"/>
+        <line num="28" count="74" type="stmt"/>
+        <line num="30" count="17" type="stmt"/>
+        <line num="31" count="45" type="stmt"/>
+        <line num="35" count="20" type="stmt"/>
+        <line num="36" count="100" type="stmt"/>
+        <line num="37" count="700" type="stmt"/>
+        <line num="38" count="700" type="cond" truecount="2" falsecount="0"/>
+        <line num="39" count="20" type="stmt"/>
+        <line num="44" count="20" type="stmt"/>
+      </file>
+      <file name="PostfixCalculator.js" path="/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment7/src/Logic/PostfixCalculator.js">
+        <metrics statements="18" coveredstatements="18" conditionals="10" coveredconditionals="10" methods="1" coveredmethods="1"/>
+        <line num="15" count="14" type="stmt"/>
+        <line num="16" count="14" type="stmt"/>
+        <line num="18" count="14" type="stmt"/>
+        <line num="19" count="40" type="stmt"/>
+        <line num="20" count="40" type="cond" truecount="2" falsecount="0"/>
+        <line num="21" count="14" type="cond" truecount="2" falsecount="0"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="24" count="12" type="stmt"/>
+        <line num="25" count="12" type="stmt"/>
+        <line num="26" count="12" type="cond" truecount="6" falsecount="0"/>
+        <line num="27" count="4" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="30" count="2" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+        <line num="32" count="2" type="stmt"/>
+        <line num="36" count="26" type="stmt"/>
+        <line num="39" count="10" type="stmt"/>
+      </file>
+    </package>
+    <package name="UI">
+      <metrics statements="46" coveredstatements="46" conditionals="8" coveredconditionals="8" methods="13" coveredmethods="13"/>
+      <file name="CalendarGeneratorView.js" path="/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment7/src/UI/CalendarGeneratorView.js">
+        <metrics statements="32" coveredstatements="32" conditionals="8" coveredconditionals="8" methods="8" coveredmethods="8"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="12" type="stmt"/>
+        <line num="15" count="12" type="stmt"/>
+        <line num="16" count="12" type="stmt"/>
+        <line num="18" count="12" type="stmt"/>
+        <line num="19" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="24" count="3" type="stmt"/>
+        <line num="25" count="3" type="stmt"/>
+        <line num="26" count="3" type="stmt"/>
+        <line num="29" count="12" type="stmt"/>
+        <line num="30" count="8" type="stmt"/>
+        <line num="31" count="8" type="stmt"/>
+        <line num="32" count="8" type="stmt"/>
+        <line num="33" count="48" type="stmt"/>
+        <line num="34" count="336" type="cond" truecount="2" falsecount="0"/>
+        <line num="35" count="134" type="stmt"/>
+        <line num="37" count="336" type="stmt"/>
+        <line num="38" count="336" type="cond" truecount="2" falsecount="0"/>
+        <line num="39" count="288" type="stmt"/>
+        <line num="42" count="48" type="cond" truecount="2" falsecount="0"/>
+        <line num="43" count="40" type="stmt"/>
+        <line num="46" count="8" type="stmt"/>
+        <line num="49" count="12" type="stmt"/>
+        <line num="50" count="4" type="stmt"/>
+        <line num="53" count="12" type="stmt"/>
+        <line num="72" count="2" type="stmt"/>
+        <line num="77" count="1" type="stmt"/>
+        <line num="82" count="1" type="stmt"/>
+        <line num="89" count="1" type="stmt"/>
+      </file>
+      <file name="PostfixCalculatorView.js" path="/Users/kemcrawf/Documents/GitHub/CSE-118/Assignment7/src/UI/PostfixCalculatorView.js">
+        <metrics statements="14" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="13" type="stmt"/>
+        <line num="15" count="13" type="stmt"/>
+        <line num="17" count="13" type="stmt"/>
+        <line num="18" count="4" type="stmt"/>
+        <line num="19" count="4" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="25" count="13" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="30" count="13" type="stmt"/>
+        <line num="53" count="4" type="stmt"/>
+        <line num="58" count="1" type="stmt"/>
+        <line num="65" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
